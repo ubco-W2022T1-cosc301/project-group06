@@ -1,3 +1,3 @@
 # Raw Data Folder
 
-- `raw` - raw data should go in this directory; you should add the original source file here. Always keep the original data file without editing.
+This folder contains the raw data from the [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
