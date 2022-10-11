@@ -20,17 +20,6 @@ This data consists of data regarding attitudes towards mental health in tech rel
 
 ## Images
 
-**Please remember to update this section and remove the test image!**
-
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
-
 ## References
 
-**Please remember to update this section**
-
-{Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
-
-
-
+**Mental Health in Tech Survey:** https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
