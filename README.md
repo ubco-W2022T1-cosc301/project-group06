@@ -6,7 +6,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Interest In The Topic
 
-Our group's interest in this topic is pertain to personal connections to mental health issues and working in the tech workforce. We want to know how people working in tech approach mental health issues; either their own, a coworker's, or an employee's. The information we can grab from this dataset will allow us to ascertain the overall attitude of tech workers towards mental health, and whether companies provide resources for handling their employee's problems.
+Our group's interest in this topic is pertain to personal connections to mental health issues and working in the tech workforce. We want to know how people working in tech approach mental health issues; either their own, a coworker's, or an employee's. The information we can grab from this dataset will allow us to ascertain the overall attitude of tech workers towards mental health, and whether companies provide resources for handling their employee's potential mental health issues.
 
 ## Dataset Description
 
