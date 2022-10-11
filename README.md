@@ -1,8 +1,4 @@
-# Group 006 - {Mental Health in the Tech Workforce}
-
-**Please remember to update this section**
-
-- Your title can change over time.
+# Group 006 - Mental Health in the Tech Workforce
 
 ## Milestones
 
