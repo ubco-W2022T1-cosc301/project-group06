@@ -1,3 +1,3 @@
 # Processed Data Folder
 
-- `processed` - You can place cleaned up, and processed data files in this directory.
+This folder contains data that has been processed through the project.
