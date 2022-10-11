@@ -1,3 +1,3 @@
 # Ungraded Folder
 
-- `ungraded` : Anything you don't want to be marked or looked at can be placed in this folder.
+This folder contains all files that are not meant to be marked.
