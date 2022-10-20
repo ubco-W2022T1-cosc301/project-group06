@@ -16,7 +16,7 @@ This data consists of data regarding attitudes towards mental health in tech rel
 
 - **Simone Flowers:** I am 4th year Zoology major who loves data analysis and only knows R
 - **Soren Stenback:** I am a 5th year Comp Sci major, I like the ocean, space, and I long for the advent of cybernetic enhancements.
-- **Person 3:** one sentence about you!
+- **Eveline Srinivasan** I am 2nd year Comp Sci major, My friends describe me as slighly unhinged but lovely.
 
 ## Images
 
