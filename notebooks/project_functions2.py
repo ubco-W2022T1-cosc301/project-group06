@@ -1,12 +1,11 @@
 #IMPORTS
-from json import load
 import pandas as pd
 
 #SINGLE FUNCTION METHODS
 #Function to remove unneeded columns and fill empty cells
 def cleanData(dataframe):
     #Remove unnecessary columns
-    cleanedData = dataframe.drop(columns=['Timestamp', 'state', 'self_employed', 'treatment', 'work_interfere', 'no_employees', 'remote_work', 'tech_company', 'benefits', 'care_options', 'wellness_program', 'seek_help', 'anonymity', 'leave', 'mental_health_consequence', 'phys_health_consequence', 'coworkers', 'supervisor', 'mental_health_interview', 'phys_health_interview', 'mental_vs_physical', 'obs_consequence', 'comments'])
+    cleanedData = dataframe.copy().drop(columns=['Timestamp', 'state', 'self_employed', 'treatment', 'work_interfere', 'no_employees', 'remote_work', 'tech_company', 'benefits', 'care_options', 'wellness_program', 'seek_help', 'anonymity', 'leave', 'mental_health_consequence', 'phys_health_consequence', 'coworkers', 'supervisor', 'mental_health_interview', 'phys_health_interview', 'mental_vs_physical', 'obs_consequence', 'comments'],axis=1).dropna(axis=0)
     #Return the cleaned dataframe
     return cleanedData
 
@@ -44,8 +43,18 @@ def ageAdjustment(dataframe):
 
 #Function to sort the rows based on country first and age second
 def dataframeSort(dataframe):
-    sortedDf = dataframe.sort_values(by=['Country', 'Age'])
+    sortedDf = dataframe.sort_values(by=['Country', 'Age'],inplace=True)
     return sortedDf
+
+#Function to sort the rows based on country first and age second
+def dataframeRename(dataframe):
+    renamedDf = dataframe.rename(columns={'family_history':'Family History'},inplace = True)
+    return renamedDf
+
+def dataframeCountryRename(dataframe):
+    countryRenamedDf = dataframe.copy()
+    countryRenamedDf['Country'] = countryRenamedDf['Country'].replace(['Bahamas, The'],'Bahamas')
+    return countryRenamedDf
 
 #Function to process data and fix weird values
 def processData(dataframe):
@@ -56,9 +65,11 @@ def processData(dataframe):
     #Call the dataframeSort() function to sort the data
     sortedData = dataframeSort(ageProcessedData)
     #Rename the family_history column
-    renamedData = sortedData.rename(columns={'family_history':'Family History'})
+    renamedData = dataframeRename(sortedData)
+    #Fix the incorrect country names
+    countryRenamedData = dataframeCountryRename(renamedData)
     #Return the adjusted dataframe
-    return renamedData
+    return countryRenamedData
 
 #COLLECTIVE METHODS
 def load_and_process(filePath):
