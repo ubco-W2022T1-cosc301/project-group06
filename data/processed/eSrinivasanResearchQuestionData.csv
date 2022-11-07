@@ -1,0 +1,1260 @@
+Age,Gender,family_history,benefits,mental_health_consequence,phys_health_consequence,mental_vs_physical,treatment,work_interfere,coworkers,supervisor,gender_alignment,gender_type
+37.0,F,No,Yes,No,No,Yes,Yes,Often,Some of them,Yes,FA,Cis
+44.0,M,No,Don't know,Maybe,No,Don't know,No,Rarely,No,No,MA,Cis
+32.0,M,No,No,No,No,No,No,Rarely,Yes,Yes,MA,Cis
+31.0,M,Yes,No,Yes,Yes,No,Yes,Often,Some of them,No,MA,Cis
+31.0,M,No,Yes,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+33.0,M,Yes,Yes,No,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+35.0,F,Yes,No,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,No,FA,Cis
+39.0,M,No,No,No,No,No,No,Never,No,No,MA,Cis
+42.0,F,Yes,Yes,Maybe,No,No,Yes,Sometimes,Yes,Yes,FA,Cis
+23.0,M,No,Don't know,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+31.0,M,No,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+29.0,M,No,Don't know,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+42.0,female,Yes,Yes,Yes,Yes,No,Yes,Sometimes,Yes,Yes,NA,NA
+36.0,M,Yes,Don't know,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+27.0,M,No,Don't know,No,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+29.0,female,Yes,Yes,No,No,Don't know,Yes,Rarely,Yes,Some of them,NA,NA
+23.0,M,No,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+32.0,M,No,Yes,Maybe,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+46.0,M,Yes,Yes,No,No,Yes,No,Sometimes,Yes,Yes,MA,Cis
+36.0,M,Yes,No,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+29.0,M,Yes,Yes,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+31.0,M,No,No,No,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+46.0,M,No,Yes,Maybe,No,No,Yes,Often,Some of them,Yes,MA,Cis
+41.0,M,No,Don't know,Maybe,No,Don't know,Yes,Never,No,No,MA,Cis
+33.0,M,Yes,Yes,No,No,Don't know,Yes,Rarely,Yes,Yes,MA,Cis
+35.0,M,Yes,Yes,Yes,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,No,Don't know,Maybe,Maybe,Don't know,No,,Some of them,No,MA,Cis
+35.0,F,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,FA,Cis
+34.0,M,No,Don't know,No,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+37.0,M,No,No,Yes,Maybe,No,No,Sometimes,Some of them,No,MA,Cis
+32.0,M,No,No,Yes,Yes,No,No,Never,Some of them,Some of them,MA,Cis
+31.0,M,Yes,No,Yes,No,No,No,Rarely,No,No,MA,Cis
+30.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+42.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+40.0,female,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,No,NA,NA
+27.0,M,No,No,No,No,Don't know,Yes,Rarely,Yes,Yes,MA,Cis
+29.0,M,No,No,Yes,Maybe,Don't know,No,Rarely,Some of them,No,MA,Cis
+38.0,M,No,No,Maybe,No,No,No,,Some of them,Some of them,MA,Cis
+50.0,M,No,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+35.0,M,No,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+24.0,M,No,No,Maybe,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+35.0,M,No,Yes,Yes,Yes,Don't know,No,,Some of them,No,MA,Cis
+27.0,M,Yes,No,Maybe,No,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+18.0,M,No,No,Yes,Maybe,No,No,Often,No,Some of them,MA,Cis
+30.0,M,No,Don't know,No,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+38.0,F,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+28.0,M,No,Don't know,No,Maybe,Don't know,No,,Some of them,Yes,MA,Cis
+34.0,M,No,No,No,No,Don't know,No,,Yes,Yes,MA,Cis
+26.0,M,No,No,No,No,Yes,No,Sometimes,Yes,Yes,MA,Cis
+30.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+22.0,M,Yes,No,Maybe,No,Don't know,Yes,Often,No,No,MA,Cis
+33.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+31.0,M,No,Don't know,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+32.0,M,No,Don't know,Maybe,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+28.0,M,No,No,No,No,Don't know,No,,No,No,MA,Cis
+27.0,TM,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,No,No,MA,Trans
+32.0,M,Yes,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+24.0,M,Yes,Don't know,No,Maybe,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+26.0,M,No,No,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,Don't know,Yes,No,Don't know,Yes,Often,No,No,MA,Cis
+44.0,M,Yes,Yes,Yes,Maybe,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+26.0,F,No,Don't know,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+27.0,M,No,Yes,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+26.0,M,No,No,Yes,No,No,No,,No,No,MA,Cis
+35.0,M,No,Don't know,No,No,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+40.0,M,Yes,Yes,Yes,Maybe,No,No,Sometimes,Some of them,No,MA,Cis
+23.0,F,Yes,No,No,No,Yes,Yes,Often,Some of them,Yes,FA,Cis
+36.0,M,No,Yes,Maybe,No,Yes,No,Sometimes,Some of them,Some of them,MA,Cis
+31.0,F,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,FA,Cis
+34.0,M,No,No,Maybe,No,Don't know,No,Rarely,Some of them,No,MA,Cis
+28.0,M,No,No,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+34.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+23.0,TF,No,Yes,Maybe,No,No,No,Rarely,Yes,Yes,FA,Trans
+38.0,M,No,No,No,No,Yes,No,,Some of them,Yes,MA,Cis
+33.0,M,No,Don't know,Maybe,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+19.0,M,No,No,Yes,No,No,No,,No,No,MA,Cis
+25.0,M,No,Yes,No,No,Yes,No,,Yes,Yes,MA,Cis
+31.0,M,Yes,No,No,No,Yes,No,Sometimes,Yes,Yes,MA,Cis
+32.0,M,Yes,No,Yes,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+28.0,M,No,Don't know,No,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+38.0,M,Yes,Yes,No,No,Yes,No,Sometimes,Yes,Some of them,MA,Cis
+23.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+30.0,M,No,No,No,No,No,No,Never,Some of them,Yes,MA,Cis
+27.0,F,No,Yes,Maybe,Maybe,Yes,Yes,Often,Some of them,Yes,FA,Cis
+33.0,M,Yes,No,Yes,No,No,No,Never,No,No,MA,Cis
+31.0,M,No,Don't know,No,No,No,No,,Some of them,Yes,MA,Cis
+39.0,M,No,No,Maybe,No,No,Yes,Often,Some of them,No,MA,Cis
+34.0,female,Yes,Yes,Yes,Maybe,Don't know,Yes,Rarely,Some of them,Some of them,NA,NA
+29.0,F,No,Yes,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+32.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+31.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+40.0,M,No,No,No,No,No,Yes,Sometimes,Yes,Yes,MA,Cis
+34.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+18.0,TM,No,Yes,No,No,Don't know,No,,Yes,Yes,MA,Trans
+25.0,F,No,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,FA,Cis
+29.0,M,No,Don't know,No,No,No,No,Never,Yes,Yes,MA,Cis
+24.0,M,Yes,Don't know,Maybe,Maybe,Don't know,No,Rarely,Some of them,No,MA,Cis
+31.0,M,Yes,Don't know,No,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,No,No,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+30.0,M,No,No,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+26.0,female,Yes,No,Yes,No,No,Yes,Sometimes,No,No,NA,NA
+44.0,F,No,Yes,Maybe,Maybe,Don't know,No,Never,No,Some of them,FA,Cis
+25.0,M,Yes,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+35.0,M,Yes,Yes,No,No,Don't know,No,Rarely,Some of them,Yes,MA,Cis
+35.0,M,Yes,Don't know,No,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+28.0,M,Yes,No,Maybe,No,Don't know,Yes,Rarely,Yes,Yes,MA,Cis
+34.0,M,Yes,Yes,Maybe,No,Don't know,No,Never,No,No,MA,Cis
+32.0,M,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+22.0,M,No,Yes,Yes,No,No,Yes,Sometimes,No,No,MA,Cis
+28.0,M,No,Yes,No,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+45.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+32.0,M,No,Yes,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+28.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+26.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+21.0,M,No,No,Yes,No,No,No,Often,Some of them,Yes,MA,Cis
+27.0,M,No,Yes,Maybe,No,Don't know,No,Rarely,Some of them,Yes,MA,Cis
+18.0,M,No,No,No,No,Don't know,Yes,Rarely,Some of them,No,MA,Cis
+35.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,Yes,Yes,Don't know,No,Never,No,No,MA,Cis
+25.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,Don't know,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+36.0,M,No,Yes,Maybe,No,Don't know,No,Often,No,No,MA,Cis
+27.0,M,No,Yes,Maybe,No,No,Yes,Never,Some of them,Yes,MA,Cis
+27.0,M,Yes,Yes,Yes,No,Don't know,No,Never,Some of them,No,MA,Cis
+27.0,M,No,No,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+32.0,M,No,Yes,Yes,No,Don't know,Yes,Rarely,No,Yes,MA,Cis
+31.0,M,Yes,No,Maybe,Maybe,Yes,No,Sometimes,No,No,MA,Cis
+19.0,M,No,Don't know,Yes,Yes,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+33.0,M,Yes,Yes,Maybe,No,No,Yes,Sometimes,Yes,Some of them,MA,Cis
+32.0,M,No,No,Maybe,No,Don't know,No,Rarely,Yes,Some of them,MA,Cis
+27.0,M,No,Don't know,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+38.0,M,No,No,No,No,No,No,,Yes,Yes,MA,Cis
+24.0,M,No,Don't know,No,No,Don't know,Yes,Never,Some of them,Yes,MA,Cis
+39.0,M,No,No,Yes,Maybe,Don't know,No,Never,No,No,MA,Cis
+28.0,M,No,Don't know,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+39.0,M,No,Yes,No,No,Don't know,Yes,Often,Yes,Yes,MA,Cis
+29.0,F,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,FA,Cis
+22.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+38.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+37.0,M,No,No,Yes,Yes,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+35.0,M,No,Don't know,Yes,No,Don't know,No,Never,Some of them,No,MA,Cis
+,M,No,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+30.0,F,Yes,Don't know,Maybe,Maybe,Don't know,No,,Some of them,Some of them,FA,Cis
+37.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+24.0,M,No,No,Maybe,Maybe,Don't know,No,Never,No,Some of them,MA,Cis
+23.0,M,No,No,Yes,Yes,No,No,Sometimes,No,No,MA,Cis
+30.0,M,No,No,Yes,No,No,Yes,Rarely,Some of them,No,MA,Cis
+29.0,F,No,Don't know,Maybe,No,Don't know,No,,No,Some of them,FA,Cis
+19.0,M,Yes,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+32.0,M,Yes,Don't know,No,No,No,No,Never,Some of them,Some of them,MA,Cis
+28.0,M,No,No,No,No,Yes,No,Rarely,Yes,Yes,MA,Cis
+36.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+37.0,M,Yes,Yes,Yes,Maybe,No,Yes,Rarely,Some of them,No,MA,Cis
+25.0,M,Yes,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+27.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,No,Some of them,MA,Cis
+26.0,M,No,Don't know,Yes,Maybe,No,No,Often,Some of them,Yes,MA,Cis
+27.0,M,No,No,Maybe,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+25.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+36.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+25.0,F,Yes,Yes,Yes,Yes,Don't know,Yes,Sometimes,Some of them,Some of them,FA,Cis
+31.0,M,No,Yes,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+26.0,M,Yes,Don't know,Maybe,No,Don't know,No,Rarely,Some of them,Yes,MA,Cis
+33.0,F,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+27.0,F,Yes,No,No,No,Yes,No,,Yes,Yes,FA,Cis
+34.0,M,No,No,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+42.0,M,No,No,Maybe,No,No,No,,Yes,Yes,MA,Cis
+23.0,M,Yes,No,Yes,No,No,No,Sometimes,No,No,MA,Cis
+24.0,M,No,Don't know,Maybe,Maybe,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+26.0,M,No,Yes,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+31.0,M,No,Don't know,Maybe,No,Don't know,Yes,Often,Some of them,Yes,MA,Cis
+22.0,M,No,Don't know,Yes,Maybe,No,Yes,Never,No,No,MA,Cis
+23.0,F,No,Don't know,Maybe,Maybe,Yes,No,,Some of them,Yes,FA,Cis
+34.0,F,Yes,Yes,No,No,No,Yes,Sometimes,Some of them,Yes,FA,Cis
+31.0,M,No,Don't know,Maybe,No,Don't know,No,Never,No,Some of them,MA,Cis
+28.0,M,No,No,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+32.0,F,No,Yes,No,No,Yes,Yes,Often,Yes,Yes,FA,Cis
+45.0,F,No,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+33.0,M,No,Don't know,No,No,Don't know,No,,Yes,Yes,MA,Cis
+29.0,M,No,No,Maybe,Maybe,No,No,Never,No,Yes,MA,Cis
+26.0,F,No,No,Maybe,Maybe,Don't know,No,Sometimes,Some of them,Some of them,FA,Cis
+28.0,F,No,Don't know,No,No,Don't know,No,Never,Yes,Yes,FA,Cis
+45.0,M,No,Don't know,Yes,Yes,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+43.0,M,Yes,Yes,Yes,Maybe,No,Yes,Often,No,No,MA,Cis
+37.0,M,No,Yes,Yes,No,No,No,,Some of them,No,MA,Cis
+24.0,M,No,Don't know,Maybe,No,Yes,No,Sometimes,Some of them,Yes,MA,Cis
+26.0,M,No,No,No,No,Yes,No,,Some of them,No,MA,Cis
+23.0,M,Yes,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+35.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Never,No,No,FA,Cis
+38.0,F,Yes,No,Maybe,Maybe,Don't know,Yes,Often,Some of them,Some of them,FA,Cis
+28.0,M,Yes,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+28.0,M,No,No,Yes,Maybe,Don't know,No,Sometimes,No,No,MA,Cis
+35.0,M,No,No,No,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+32.0,female,No,No,Yes,Yes,No,No,Sometimes,Some of them,No,NA,NA
+31.0,M,Yes,No,Maybe,Maybe,Don't know,No,Never,Some of them,Some of them,MA,Cis
+35.0,F,No,Don't know,Maybe,Maybe,Don't know,No,Never,Some of them,No,FA,Cis
+26.0,M,No,Yes,No,No,No,No,Rarely,Some of them,Yes,MA,Cis
+27.0,M,Yes,Yes,Maybe,Maybe,Yes,No,,Some of them,Some of them,MA,Cis
+28.0,M,Yes,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+27.0,F,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Some of them,FA,Cis
+34.0,female,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,NA,NA
+41.0,M,No,No,Maybe,Maybe,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+37.0,M,No,No,Yes,No,Don't know,No,Sometimes,No,No,MA,Cis
+34.0,M,Yes,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+32.0,M,Yes,Don't know,Yes,Maybe,No,Yes,Sometimes,No,No,MA,Cis
+21.0,M,No,No,No,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+30.0,M,No,No,Maybe,No,Don't know,Yes,Often,Yes,Yes,MA,Cis
+24.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+26.0,M,No,No,Yes,Maybe,Don't know,No,,No,No,MA,Cis
+40.0,F,No,Yes,No,No,Yes,No,,Some of them,Yes,FA,Cis
+37.0,M,Yes,No,Yes,Maybe,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+26.0,M,No,No,Yes,No,Don't know,Yes,Often,No,No,MA,Cis
+32.0,F,Yes,Don't know,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+32.0,F,No,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+27.0,female,Yes,No,No,No,Don't know,Yes,Sometimes,Some of them,No,NA,NA
+30.0,M,No,Yes,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+31.0,M,No,Yes,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+29.0,F,No,Yes,Maybe,No,Don't know,Yes,Never,Some of them,No,FA,Cis
+41.0,M,No,Yes,Yes,No,Don't know,No,,No,Some of them,MA,Cis
+34.0,female,No,Yes,No,No,Yes,No,,Yes,Yes,NA,NA
+33.0,M,No,Don't know,No,No,Don't know,No,,Yes,Yes,MA,Cis
+28.0,M,No,Don't know,No,No,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+28.0,M,No,No,Yes,No,No,Yes,Sometimes,No,Some of them,MA,Cis
+23.0,M,No,Don't know,No,No,Yes,No,Never,No,Yes,MA,Cis
+24.0,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+32.0,M,No,No,No,No,Yes,No,Rarely,Some of them,Yes,MA,Cis
+34.0,M,No,Don't know,Yes,Yes,Yes,No,Sometimes,No,No,MA,Cis
+24.0,M,No,Yes,Maybe,No,Yes,No,Never,Some of them,No,MA,Cis
+26.0,M,No,No,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+36.0,M,No,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+41.0,M,No,Yes,Maybe,Maybe,No,Yes,Rarely,Some of them,No,MA,Cis
+38.0,M,No,Don't know,Yes,No,No,Yes,Sometimes,No,No,MA,Cis
+38.0,M,No,Don't know,Maybe,Maybe,No,No,Sometimes,Some of them,Yes,MA,Cis
+30.0,M,No,Don't know,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+25.0,M,No,No,Yes,Maybe,No,No,Never,No,No,MA,Cis
+37.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+34.0,M,Yes,No,No,No,No,No,,Some of them,Yes,MA,Cis
+37.0,F,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Some of them,FA,Cis
+28.0,F,Yes,Yes,No,No,No,Yes,Sometimes,Some of them,Yes,FA,Cis
+22.0,M,No,Don't know,No,No,No,No,,Some of them,Yes,MA,Cis
+34.0,M,Yes,No,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+33.0,M,Yes,Yes,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+25.0,M,No,No,Maybe,No,No,No,,Some of them,Yes,MA,Cis
+27.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+40.0,M,No,Yes,Yes,Maybe,No,Yes,Sometimes,No,No,MA,Cis
+21.0,M,No,Don't know,Maybe,No,Don't know,Yes,Often,No,No,MA,Cis
+29.0,M,No,No,No,No,Yes,No,,Yes,Yes,MA,Cis
+32.0,M,Yes,No,Maybe,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+29.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+23.0,M,Yes,Don't know,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+28.0,M,Yes,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+31.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+27.0,M,No,Don't know,Maybe,Maybe,Don't know,No,,Yes,Yes,MA,Cis
+24.0,M,No,Don't know,No,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+29.0,M,No,No,Yes,No,Don't know,No,Often,No,No,MA,Cis
+23.0,F,No,Don't know,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Some of them,FA,Cis
+42.0,M,No,No,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+24.0,M,No,No,Yes,No,No,No,,Some of them,Some of them,MA,Cis
+25.0,M,Yes,No,Yes,Maybe,No,Yes,Often,No,No,MA,Cis
+27.0,F,No,Yes,Maybe,Maybe,Don't know,Yes,Rarely,Yes,No,FA,Cis
+27.0,M,No,No,Yes,Yes,No,No,Sometimes,Some of them,Some of them,MA,Cis
+30.0,M,No,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+29.0,M,Yes,No,Maybe,No,No,Yes,Rarely,Some of them,Some of them,MA,Cis
+43.0,M,No,No,Maybe,No,Don't know,No,,Yes,Yes,MA,Cis
+32.0,M,No,No,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+41.0,M,No,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+32.0,M,Yes,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Yes,Some of them,MA,Cis
+37.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Often,Some of them,Some of them,FA,Cis
+32.0,M,No,No,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+30.0,M,No,No,No,No,No,No,Sometimes,Some of them,Some of them,MA,Cis
+23.0,female,Yes,Yes,No,No,Yes,Yes,Never,Some of them,Yes,NA,NA
+30.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+34.0,M,No,No,Maybe,Maybe,Don't know,No,Sometimes,Yes,Some of them,MA,Cis
+38.0,M,No,Yes,Yes,No,No,Yes,Rarely,No,No,MA,Cis
+33.0,M,No,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+34.0,M,No,Yes,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+28.0,M,No,No,Maybe,Maybe,Don't know,No,Sometimes,No,Some of them,MA,Cis
+28.0,M,No,Yes,Maybe,No,Yes,Yes,Rarely,Some of them,Some of them,MA,Cis
+23.0,M,Yes,Don't know,Maybe,No,No,No,Sometimes,Some of them,No,MA,Cis
+22.0,M,Yes,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+27.0,M,No,No,Yes,No,Don't know,No,Never,No,No,MA,Cis
+18.0,M,No,Don't know,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+35.0,M,Yes,Yes,Yes,No,Don't know,Yes,Sometimes,No,Some of them,MA,Cis
+25.0,M,No,Don't know,No,No,No,No,,Some of them,Some of them,MA,Cis
+27.0,M,Yes,No,Maybe,Maybe,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+26.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,Some of them,FA,Cis
+18.0,M,No,Don't know,No,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+38.0,F,No,No,No,Maybe,Don't know,Yes,Sometimes,Some of them,No,FA,Cis
+26.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+30.0,M,No,No,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+35.0,M,No,Don't know,Yes,Maybe,Don't know,No,Never,Some of them,Some of them,MA,Cis
+45.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+32.0,M,No,Yes,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+56.0,M,No,Yes,No,Maybe,Don't know,Yes,Never,Yes,Some of them,MA,Cis
+24.0,F,No,Don't know,Maybe,Maybe,No,No,,Some of them,No,FA,Cis
+30.0,F,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+60.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,Yes,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+37.0,M,No,Yes,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+23.0,F,No,Yes,No,No,Yes,Yes,Sometimes,Some of them,Some of them,FA,Cis
+31.0,F,No,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+26.0,M,No,Yes,No,No,Don't know,No,Rarely,Some of them,Yes,MA,Cis
+28.0,female,Yes,Yes,Yes,No,Yes,Yes,Often,Some of them,Yes,NA,NA
+37.0,F,No,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,FA,Cis
+26.0,M,Yes,Yes,Maybe,No,Yes,Yes,Often,Some of them,Some of them,MA,Cis
+30.0,TF,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,Yes,FA,Trans
+26.0,M,No,No,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+25.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+27.0,M,No,Yes,Maybe,No,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+25.0,M,No,Don't know,Yes,Maybe,Don't know,Yes,Often,No,No,MA,Cis
+35.0,M,No,Yes,No,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+36.0,M,No,No,Maybe,No,Yes,Yes,Never,Some of them,Yes,MA,Cis
+26.0,M,Yes,Yes,Yes,No,No,Yes,Sometimes,No,No,MA,Cis
+27.0,M,Yes,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+30.0,M,No,Don't know,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+29.0,M,No,Don't know,Maybe,No,Don't know,No,,No,No,MA,Cis
+25.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+22.0,F,Yes,Yes,Maybe,No,Yes,Yes,Often,No,Some of them,FA,Cis
+29.0,M,No,No,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+41.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,Yes,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+32.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+24.0,female,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,NA,NA
+25.0,M,No,Yes,Maybe,No,Don't know,Yes,Rarely,No,No,MA,Cis
+25.0,M,No,Don't know,Maybe,No,Don't know,No,,No,No,MA,Cis
+30.0,F,No,Yes,Maybe,Maybe,Don't know,No,Never,No,Some of them,FA,Cis
+25.0,M,Yes,Don't know,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+30.0,M,No,No,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+33.0,M,Yes,No,Yes,Yes,Yes,Yes,Rarely,No,No,MA,Cis
+24.0,M,No,Yes,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+25.0,M,Yes,Yes,Yes,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+31.0,M,No,Don't know,Maybe,No,No,No,,No,No,MA,Cis
+45.0,M,No,No,No,No,Don't know,Yes,Often,No,No,MA,Cis
+29.0,M,No,No,Maybe,Maybe,No,No,,Some of them,Some of them,MA,Cis
+46.0,M,No,Yes,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+30.0,M,No,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,No,No,MA,Cis
+29.0,F,No,Yes,Maybe,Maybe,Don't know,No,Sometimes,Some of them,Some of them,FA,Cis
+24.0,M,No,Yes,Yes,No,Don't know,No,,No,No,MA,Cis
+29.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+35.0,M,No,Don't know,No,No,No,No,,Yes,Yes,MA,Cis
+33.0,F,Yes,No,Yes,Maybe,No,No,Sometimes,Some of them,Some of them,FA,Cis
+27.0,M,No,Don't know,Yes,No,No,No,Sometimes,No,No,MA,Cis
+36.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+33.0,M,No,Don't know,Yes,Maybe,No,No,Rarely,No,No,MA,Cis
+25.0,F,Yes,Yes,No,No,Don't know,Yes,Sometimes,Some of them,Yes,FA,Cis
+23.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+54.0,M,Yes,Don't know,No,No,Don't know,Yes,Never,No,Yes,MA,Cis
+22.0,M,No,Don't know,Maybe,No,Don't know,No,Sometimes,Some of them,No,MA,Cis
+25.0,NB,Yes,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,NBA,Trans
+29.0,M,No,Don't know,Maybe,No,Don't know,No,Often,Yes,Yes,MA,Cis
+27.0,M,No,Yes,No,No,Yes,Yes,Sometimes,No,No,MA,Cis
+30.0,M,No,No,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+26.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Often,Some of them,No,MA,Cis
+25.0,F,Yes,Yes,No,No,No,No,Sometimes,Some of them,Yes,FA,Cis
+31.0,M,No,No,No,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+33.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+34.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,No,No,MA,Cis
+34.0,M,No,No,Yes,Yes,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,No,No,No,No,Yes,No,,Yes,Yes,MA,Cis
+33.0,F,No,No,Maybe,No,Don't know,No,,Some of them,Some of them,FA,Cis
+34.0,M,Yes,No,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+26.0,M,Yes,No,Maybe,No,No,Yes,Rarely,Some of them,Yes,MA,Cis
+32.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+,M,No,Yes,Maybe,No,No,Yes,Often,Some of them,No,MA,Cis
+28.0,M,Yes,Don't know,Maybe,Maybe,No,Yes,Sometimes,No,No,MA,Cis
+35.0,M,Yes,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+36.0,M,Yes,No,No,No,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+21.0,M,Yes,Yes,No,No,Don't know,Yes,Rarely,Yes,Yes,MA,Cis
+21.0,M,No,Don't know,Yes,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+22.0,F,No,Yes,No,No,Yes,No,,No,Some of them,FA,Cis
+41.0,M,Yes,Yes,Maybe,No,No,Yes,Often,Yes,Some of them,MA,Cis
+55.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+32.0,F,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+21.0,F,Yes,Don't know,Yes,No,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+45.0,M,No,Yes,Maybe,No,Don't know,Yes,Never,No,Some of them,MA,Cis
+27.0,female,No,Yes,Yes,Maybe,No,Yes,Rarely,No,No,NA,NA
+25.0,F,Yes,Don't know,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+34.0,F,Yes,Yes,Maybe,Maybe,Yes,Yes,Rarely,Some of them,Some of them,FA,Cis
+26.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Never,No,No,FA,Cis
+41.0,M,No,Yes,No,No,Don't know,Yes,Never,Some of them,Some of them,MA,Cis
+27.0,M,No,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+31.0,M,Yes,Yes,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+25.0,M,Yes,No,No,No,No,Yes,Often,Yes,Yes,MA,Cis
+26.0,M,No,Don't know,Yes,Yes,No,Yes,Sometimes,Some of them,No,MA,Cis
+27.0,female,Yes,Yes,Maybe,Maybe,Don't know,Yes,Rarely,No,Yes,NA,NA
+42.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+29.0,NB,Yes,Yes,Yes,No,No,Yes,Sometimes,Some of them,No,NBA,Trans
+25.0,female,No,Don't know,Yes,No,Don't know,Yes,Sometimes,Some of them,No,NA,NA
+33.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+,NB,Yes,No,Yes,Yes,No,Yes,Often,No,No,NBA,Trans
+40.0,female,Yes,Yes,Maybe,Maybe,Don't know,Yes,Rarely,No,No,NA,NA
+31.0,M,No,Don't know,Yes,No,Don't know,No,Never,Some of them,No,MA,Cis
+26.0,M,Yes,Don't know,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+24.0,female,Yes,No,Yes,Maybe,No,No,,No,No,NA,NA
+29.0,M,No,Yes,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+48.0,M,No,Don't know,Maybe,Maybe,No,No,,No,No,MA,Cis
+35.0,M,No,No,Maybe,Maybe,No,No,Sometimes,Some of them,Yes,MA,Cis
+32.0,female,No,Don't know,Maybe,No,Don't know,No,Never,No,Some of them,NA,NA
+29.0,M,No,Don't know,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+26.0,M,Yes,Yes,Maybe,No,No,Yes,Often,Some of them,Yes,MA,Cis
+28.0,M,Yes,Yes,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+23.0,M,No,Don't know,No,No,No,No,,Some of them,Yes,MA,Cis
+35.0,M,Yes,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+26.0,M,Yes,Yes,No,No,No,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,Yes,Yes,Maybe,Yes,Yes,Never,Yes,Some of them,MA,Cis
+33.0,M,No,Don't know,Yes,No,Yes,No,,Some of them,No,MA,Cis
+22.0,M,No,Don't know,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+30.0,female,Yes,No,Yes,Maybe,Don't know,No,,No,No,NA,NA
+33.0,M,Yes,Yes,Yes,No,No,Yes,Often,No,No,MA,Cis
+31.0,F,Yes,Don't know,Yes,Maybe,No,Yes,Rarely,No,No,FA,Cis
+21.0,M,Yes,Don't know,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+31.0,NB,Yes,Don't know,Yes,Maybe,Yes,Yes,Sometimes,No,No,NBA,Trans
+26.0,F,No,Don't know,No,No,Yes,Yes,Sometimes,Some of them,Some of them,FA,Cis
+30.0,M,Yes,Don't know,Maybe,No,Don't know,No,Often,Some of them,Yes,MA,Cis
+30.0,NB,Yes,Don't know,No,No,No,Yes,Sometimes,Yes,Yes,NBA,Trans
+23.0,M,No,No,No,No,No,No,,Some of them,Yes,MA,Cis
+34.0,M,No,No,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+55.0,M,Yes,No,Yes,Maybe,No,Yes,Sometimes,No,No,MA,Cis
+28.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+26.0,M,No,Don't know,No,No,Don't know,No,,Some of them,No,MA,Cis
+28.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+32.0,M,Yes,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+28.0,F,No,Yes,Maybe,No,Don't know,Yes,Rarely,No,No,FA,Cis
+21.0,M,No,Don't know,No,No,Yes,No,Sometimes,Some of them,Some of them,MA,Cis
+24.0,M,Yes,No,Yes,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+26.0,F,No,Yes,Maybe,No,Don't know,No,,Some of them,No,FA,Cis
+23.0,M,No,Yes,No,No,Don't know,No,,Yes,No,MA,Cis
+24.0,F,No,Yes,No,No,Yes,No,,Some of them,Some of them,FA,Cis
+28.0,M,No,Don't know,Maybe,No,Yes,No,Never,Some of them,Yes,MA,Cis
+24.0,F,Yes,No,Yes,No,Yes,Yes,Rarely,No,Some of them,FA,Cis
+33.0,M,No,No,Yes,Maybe,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+34.0,M,No,Don't know,Maybe,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+27.0,female,No,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,NA,NA
+28.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+26.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+20.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+23.0,female,No,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,NA,NA
+29.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+26.0,M,Yes,No,Maybe,Maybe,No,No,Sometimes,No,No,MA,Cis
+36.0,M,No,Yes,Maybe,No,Don't know,No,Rarely,No,No,MA,Cis
+41.0,M,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+33.0,female,No,Yes,No,No,Yes,No,,Some of them,Yes,NA,NA
+23.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+39.0,M,Yes,Yes,Yes,No,No,No,Often,Some of them,Some of them,MA,Cis
+34.0,M,Yes,Yes,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+26.0,F,No,Yes,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+24.0,M,No,Yes,No,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+37.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Rarely,Some of them,Some of them,MA,Cis
+43.0,M,Yes,Yes,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+40.0,NB,Yes,Yes,Yes,Maybe,Yes,No,Never,No,Some of them,NBA,Trans
+30.0,M,Yes,Yes,Yes,No,No,Yes,Often,Some of them,No,MA,Cis
+34.0,M,No,Don't know,Yes,Yes,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+27.0,M,Yes,Don't know,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+36.0,M,No,Don't know,No,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+27.0,M,No,No,Maybe,No,No,No,Rarely,Some of them,Some of them,MA,Cis
+35.0,M,Yes,Yes,Yes,No,Don't know,No,Never,No,No,MA,Cis
+32.0,M,No,No,Maybe,No,Yes,No,Never,Some of them,No,MA,Cis
+37.0,M,No,Yes,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+29.0,M,No,Don't know,No,No,Yes,No,,Some of them,Yes,MA,Cis
+33.0,F,No,Yes,Maybe,No,Yes,No,Never,Some of them,Yes,FA,Cis
+28.0,M,No,No,Yes,Maybe,Don't know,No,Sometimes,Some of them,No,MA,Cis
+26.0,F,Yes,Don't know,Maybe,Maybe,No,No,Never,Some of them,No,FA,Cis
+27.0,M,Yes,Don't know,Yes,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+38.0,M,No,No,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+57.0,M,Yes,Yes,Maybe,No,No,Yes,Rarely,Some of them,Yes,MA,Cis
+28.0,M,No,No,Yes,Maybe,No,Yes,Sometimes,No,Some of them,MA,Cis
+26.0,M,No,No,Maybe,No,No,No,Never,Yes,Yes,MA,Cis
+42.0,F,No,Yes,Yes,No,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+31.0,M,No,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+58.0,M,No,Yes,Maybe,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+29.0,M,No,Don't know,Yes,No,No,No,Sometimes,No,No,MA,Cis
+39.0,F,No,Yes,Yes,No,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+34.0,M,No,Don't know,Maybe,No,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+57.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,No,No,MA,Cis
+27.0,M,Yes,No,Yes,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+23.0,M,Yes,Don't know,No,Maybe,Don't know,Yes,Often,Yes,Yes,MA,Cis
+18.0,M,No,Don't know,Yes,No,Don't know,No,,No,No,MA,Cis
+30.0,female,No,Don't know,Maybe,No,Don't know,No,,Some of them,Yes,NA,NA
+23.0,M,No,Don't know,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+43.0,M,No,Yes,Yes,Maybe,Don't know,Yes,Sometimes,No,No,MA,Cis
+18.0,F,Yes,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,FA,Cis
+29.0,M,No,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,No,MA,Cis
+48.0,M,No,Don't know,Maybe,No,Don't know,No,Never,No,No,MA,Cis
+43.0,M,No,No,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+28.0,F,Yes,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,Some of them,No,FA,Cis
+30.0,M,Yes,No,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+26.0,M,No,No,Maybe,No,Yes,No,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,No,No,Maybe,Maybe,No,No,Never,Some of them,Some of them,MA,Cis
+31.0,M,No,Yes,No,No,Yes,No,,No,Some of them,MA,Cis
+30.0,M,No,Don't know,No,No,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+27.0,M,No,No,Yes,No,No,No,,Some of them,No,MA,Cis
+24.0,F,Yes,No,No,No,Don't know,Yes,Sometimes,Some of them,Some of them,FA,Cis
+25.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+23.0,F,Yes,Yes,Maybe,No,Yes,Yes,Often,Some of them,Some of them,FA,Cis
+36.0,M,No,Yes,Yes,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+25.0,female,Yes,Don't know,Yes,No,No,Yes,Often,Some of them,No,NA,NA
+54.0,M,No,No,No,No,No,Yes,Sometimes,Yes,Yes,MA,Cis
+34.0,M,No,Don't know,No,No,Yes,No,Rarely,Some of them,Some of them,MA,Cis
+38.0,female,No,Yes,Maybe,Maybe,No,Yes,,No,No,NA,NA
+40.0,M,Yes,No,Yes,Maybe,No,No,,Some of them,No,MA,Cis
+32.0,M,No,No,No,No,Don't know,No,,No,Some of them,MA,Cis
+25.0,M,No,Don't know,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+35.0,F,No,No,Yes,Maybe,No,Yes,Sometimes,No,No,FA,Cis
+46.0,M,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+42.0,M,No,Yes,Maybe,No,No,No,Never,Yes,Yes,MA,Cis
+32.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+47.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+22.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+33.0,F,No,Yes,No,No,Don't know,Yes,Sometimes,Some of them,Some of them,FA,Cis
+25.0,F,No,No,Maybe,No,Yes,No,Sometimes,Some of them,No,FA,Cis
+29.0,M,No,Don't know,Maybe,No,Don't know,No,,No,No,MA,Cis
+39.0,M,No,Yes,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+38.0,M,Yes,Yes,Yes,No,No,Yes,Sometimes,No,No,MA,Cis
+43.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+46.0,M,No,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+38.0,F,Yes,Yes,Maybe,No,No,Yes,Sometimes,Yes,Yes,FA,Cis
+33.0,M,No,Yes,Yes,Yes,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+34.0,M,Yes,No,Maybe,Maybe,No,Yes,Often,Yes,Yes,MA,Cis
+62.0,M,No,Yes,Maybe,No,Yes,No,Never,Some of them,Yes,MA,Cis
+23.0,F,No,Don't know,Maybe,Maybe,Don't know,No,,Some of them,Some of them,FA,Cis
+35.0,M,No,No,Maybe,Maybe,No,No,,No,No,MA,Cis
+25.0,M,Yes,Don't know,Maybe,Yes,Don't know,No,Rarely,No,No,MA,Cis
+36.0,M,Yes,Don't know,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+41.0,F,Yes,Yes,Maybe,Maybe,Yes,Yes,Rarely,Some of them,Some of them,FA,Cis
+24.0,M,No,Yes,No,No,Yes,No,Sometimes,Some of them,Some of them,MA,Cis
+51.0,M,No,No,Yes,Yes,Don't know,Yes,Sometimes,No,No,MA,Cis
+29.0,M,No,Yes,No,No,Yes,Yes,Sometimes,No,Some of them,MA,Cis
+31.0,F,Yes,Don't know,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+27.0,M,No,No,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+31.0,M,No,Yes,No,No,No,Yes,Rarely,Yes,Yes,MA,Cis
+27.0,female,Yes,No,Yes,Maybe,No,No,Sometimes,No,No,NA,NA
+23.0,M,No,Don't know,No,No,Yes,No,Rarely,Some of them,Yes,MA,Cis
+21.0,M,No,Don't know,Yes,Maybe,Don't know,No,Never,No,No,MA,Cis
+27.0,F,Yes,No,Yes,No,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+39.0,M,Yes,Yes,Yes,No,No,Yes,Often,Some of them,Yes,MA,Cis
+26.0,M,Yes,Don't know,Maybe,No,No,Yes,Never,No,No,MA,Cis
+27.0,M,No,Don't know,Maybe,Maybe,Don't know,No,Never,Some of them,Some of them,MA,Cis
+22.0,F,Yes,Yes,No,No,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+26.0,F,Yes,Don't know,Maybe,No,No,Yes,Often,No,No,FA,Cis
+31.0,F,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,FA,Cis
+32.0,M,No,Don't know,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+28.0,female,Yes,Yes,Yes,Yes,No,Yes,Often,Some of them,Some of them,NA,NA
+28.0,NB,Yes,No,Yes,Yes,No,Yes,Rarely,Some of them,Some of them,NBA,Trans
+23.0,female,No,Don't know,Maybe,No,Yes,No,,No,Some of them,NA,NA
+30.0,M,No,Don't know,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+36.0,M,Yes,Yes,Yes,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+21.0,M,Yes,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+30.0,M,No,No,Maybe,No,Don't know,No,Often,Some of them,Some of them,MA,Cis
+25.0,F,Yes,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,FA,Cis
+32.0,M,No,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+29.0,female,No,No,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,NA,NA
+21.0,NB,No,No,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,NBA,Trans
+27.0,F,Yes,No,Maybe,Maybe,Don't know,Yes,Rarely,Some of them,Some of them,FA,Cis
+32.0,F,No,Don't know,Maybe,No,Don't know,Yes,Often,Some of them,Some of them,FA,Cis
+34.0,M,No,Yes,No,No,Yes,No,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,No,Don't know,Yes,No,Don't know,No,,Some of them,No,MA,Cis
+22.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+24.0,M,No,Don't know,Maybe,Maybe,Yes,No,,Some of them,Some of them,MA,Cis
+65.0,M,No,No,Maybe,No,Yes,No,,Some of them,No,MA,Cis
+27.0,M,Yes,Don't know,No,No,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+33.0,M,No,Don't know,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+36.0,M,No,Don't know,No,No,Don't know,Yes,Rarely,Some of them,Some of them,MA,Cis
+40.0,M,No,No,No,No,No,No,Never,Some of them,Some of them,MA,Cis
+28.0,M,No,Yes,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+39.0,M,No,Yes,Yes,Maybe,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+32.0,M,No,Yes,No,No,Don't know,Yes,Sometimes,Yes,Some of them,MA,Cis
+31.0,M,Yes,Yes,Maybe,No,No,No,Sometimes,No,Some of them,MA,Cis
+38.0,M,Yes,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+23.0,M,Yes,No,Maybe,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+42.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Often,Yes,Yes,MA,Cis
+27.0,F,No,Don't know,No,No,Yes,No,Sometimes,Some of them,Yes,FA,Cis
+26.0,F,Yes,Yes,No,No,No,Yes,Sometimes,Yes,Yes,FA,Cis
+50.0,M,No,No,No,No,No,No,Never,No,No,MA,Cis
+37.0,M,Yes,Don't know,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+23.0,M,No,Don't know,No,No,Don't know,No,,Yes,Yes,MA,Cis
+33.0,M,Yes,Don't know,No,No,Yes,No,Sometimes,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,Yes,No,No,No,Never,Some of them,No,MA,Cis
+34.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+41.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+50.0,M,Yes,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,Maybe,No,Don't know,Yes,Never,Some of them,No,MA,Cis
+35.0,M,No,No,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+27.0,M,No,No,Yes,No,No,No,Sometimes,Some of them,Yes,MA,Cis
+40.0,F,No,Don't know,Maybe,Maybe,Don't know,No,Never,Yes,Yes,FA,Cis
+27.0,M,No,No,Maybe,No,No,Yes,Often,Some of them,No,MA,Cis
+29.0,F,No,Yes,Maybe,No,Don't know,No,Never,Some of them,Some of them,FA,Cis
+31.0,M,Yes,No,Maybe,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+43.0,M,No,No,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+34.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,Yes,Don't know,Yes,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+19.0,M,Yes,No,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+41.0,M,Yes,Yes,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,Yes,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+23.0,M,No,Yes,No,No,Yes,No,Rarely,Some of them,Some of them,MA,Cis
+24.0,F,Yes,Yes,Yes,Maybe,No,Yes,Sometimes,No,No,FA,Cis
+31.0,M,No,Don't know,Yes,No,Don't know,No,,No,No,MA,Cis
+43.0,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+31.0,M,Yes,No,Yes,Yes,No,Yes,Rarely,Some of them,No,MA,Cis
+29.0,M,Yes,Yes,No,No,Don't know,No,Often,Some of them,Yes,MA,Cis
+35.0,M,Yes,No,No,No,Yes,No,,Yes,Yes,MA,Cis
+33.0,M,Yes,Yes,Yes,Yes,No,Yes,Sometimes,No,No,MA,Cis
+30.0,F,Yes,No,No,No,Yes,Yes,Often,Yes,Yes,FA,Cis
+27.0,M,No,Yes,Maybe,Maybe,No,No,,No,No,MA,Cis
+32.0,M,No,No,Maybe,Maybe,No,No,Sometimes,Some of them,Some of them,MA,Cis
+50.0,M,No,Don't know,Yes,Maybe,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+24.0,M,No,Don't know,Maybe,Yes,No,No,Never,Some of them,No,MA,Cis
+27.0,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+27.0,M,No,No,Yes,No,Don't know,No,Never,No,No,MA,Cis
+32.0,M,No,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+42.0,M,No,No,No,No,Yes,No,Rarely,Some of them,Yes,MA,Cis
+37.0,M,No,Don't know,Maybe,No,No,No,Often,Some of them,No,MA,Cis
+30.0,M,No,Don't know,Maybe,No,No,No,Sometimes,Some of them,No,MA,Cis
+29.0,M,No,Yes,Yes,Maybe,Don't know,No,Rarely,Some of them,No,MA,Cis
+30.0,M,No,No,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+35.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+35.0,M,Yes,Yes,Yes,No,No,Yes,Rarely,Some of them,No,MA,Cis
+38.0,M,Yes,No,Maybe,Maybe,Don't know,No,Often,Some of them,Some of them,MA,Cis
+22.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+24.0,M,Yes,Don't know,No,No,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+22.0,M,No,Don't know,No,Maybe,No,No,Never,Some of them,Yes,MA,Cis
+31.0,F,No,Yes,Maybe,No,Don't know,Yes,Often,Some of them,Some of them,FA,Cis
+23.0,female,Yes,Yes,Yes,Maybe,Don't know,Yes,Sometimes,No,No,NA,NA
+31.0,F,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Some of them,FA,Cis
+28.0,F,Yes,Yes,Maybe,No,No,Yes,Rarely,No,Some of them,FA,Cis
+37.0,TM,Yes,Yes,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,MA,Trans
+34.0,M,Yes,No,No,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+32.0,TM,No,No,Yes,Maybe,No,No,Sometimes,Some of them,No,MA,Trans
+28.0,M,Yes,Yes,Yes,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+24.0,F,No,No,Maybe,No,Don't know,Yes,Sometimes,No,Some of them,FA,Cis
+56.0,M,Yes,Yes,Yes,Maybe,Don't know,Yes,Rarely,Some of them,Some of them,MA,Cis
+31.0,M,No,No,No,No,Yes,No,Sometimes,Yes,Yes,MA,Cis
+34.0,female,No,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,NA,NA
+35.0,M,No,Don't know,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+28.0,M,No,No,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+36.0,M,Yes,No,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+30.0,M,No,No,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+35.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+49.0,M,Yes,No,Yes,Yes,No,Yes,Sometimes,No,No,MA,Cis
+36.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+35.0,M,No,No,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+29.0,F,Yes,Yes,Yes,No,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+57.0,M,No,Yes,Yes,Maybe,Don't know,No,Never,No,No,MA,Cis
+31.0,female,Yes,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,No,NA,NA
+37.0,M,No,No,Yes,Maybe,Don't know,No,Never,No,No,MA,Cis
+25.0,M,Yes,No,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+30.0,M,No,No,No,No,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+26.0,F,Yes,No,No,No,Don't know,No,Sometimes,Yes,Yes,FA,Cis
+22.0,F,No,No,No,No,Don't know,No,Often,No,Some of them,FA,Cis
+39.0,M,No,Don't know,No,No,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+29.0,M,Yes,Don't know,Maybe,Maybe,No,Yes,Never,No,No,MA,Cis
+54.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+34.0,F,Yes,Don't know,Yes,Maybe,Don't know,No,Never,No,No,FA,Cis
+32.0,M,No,Yes,Maybe,No,Yes,Yes,Never,No,No,MA,Cis
+25.0,M,No,No,Maybe,No,Don't know,No,,Yes,Yes,MA,Cis
+29.0,M,No,No,No,Maybe,Yes,No,Rarely,Some of them,No,MA,Cis
+32.0,M,No,No,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+30.0,M,Yes,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+31.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+20.0,F,No,Yes,No,No,Yes,No,Rarely,Some of them,Some of them,FA,Cis
+27.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+32.0,M,No,Don't know,Maybe,Maybe,Don't know,No,Never,Some of them,Some of them,MA,Cis
+26.0,M,No,No,Maybe,No,Yes,No,Never,Some of them,Yes,MA,Cis
+30.0,M,No,Don't know,No,No,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+30.0,M,No,No,Maybe,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+22.0,M,No,Don't know,Maybe,Maybe,Yes,No,,Some of them,Some of them,MA,Cis
+24.0,M,No,Don't know,No,No,Don't know,No,,No,No,MA,Cis
+26.0,M,No,No,Maybe,Maybe,Don't know,No,Never,No,No,MA,Cis
+43.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+26.0,M,No,No,No,No,Don't know,No,Never,Some of them,No,MA,Cis
+23.0,M,Yes,Don't know,Maybe,No,Don't know,No,Sometimes,No,No,MA,Cis
+26.0,M,No,Yes,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+26.0,female,Yes,Don't know,Maybe,No,Yes,No,Never,Some of them,No,NA,NA
+35.0,M,Yes,Don't know,Maybe,Maybe,No,No,Sometimes,Some of them,Some of them,MA,Cis
+28.0,M,No,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+22.0,M,No,No,Maybe,Maybe,Don't know,No,,Some of them,Yes,MA,Cis
+29.0,F,Yes,Don't know,Yes,No,Don't know,Yes,Rarely,No,No,FA,Cis
+29.0,M,No,No,No,No,Yes,No,,Yes,Yes,MA,Cis
+45.0,M,No,Yes,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+33.0,M,No,No,Maybe,No,Don't know,Yes,Rarely,Some of them,Some of them,MA,Cis
+38.0,M,No,Yes,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+19.0,TF,Yes,Don't know,Maybe,Maybe,No,Yes,Often,No,No,FA,Trans
+29.0,female,No,Yes,No,No,Don't know,Yes,Rarely,No,Yes,NA,NA
+21.0,F,No,No,Yes,Maybe,Don't know,No,,Some of them,No,FA,Cis
+23.0,F,Yes,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,No,No,FA,Cis
+33.0,female,Yes,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,NA,NA
+49.0,M,Yes,Yes,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+28.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+27.0,F,No,Don't know,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+23.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,No,No,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+30.0,M,No,Don't know,No,No,Don't know,No,,Some of them,No,MA,Cis
+28.0,F,No,Yes,No,No,Don't know,No,,Some of them,Yes,FA,Cis
+32.0,M,No,No,Yes,No,No,No,,No,No,MA,Cis
+32.0,M,No,Yes,No,No,Yes,Yes,Sometimes,No,Yes,MA,Cis
+37.0,M,No,No,Maybe,Maybe,No,No,,Some of them,Some of them,MA,Cis
+39.0,F,No,No,Yes,Maybe,No,No,,No,No,FA,Cis
+31.0,M,No,Don't know,Maybe,Maybe,Yes,No,,Some of them,No,MA,Cis
+29.0,M,No,No,Maybe,Maybe,Don't know,No,,Some of them,No,MA,Cis
+30.0,M,No,Yes,Maybe,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,No,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+37.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+23.0,M,No,Yes,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+43.0,M,Yes,Yes,Yes,No,No,Yes,Sometimes,No,No,MA,Cis
+32.0,M,No,Don't know,Maybe,No,No,Yes,Rarely,Yes,Yes,MA,Cis
+26.0,M,No,Don't know,Yes,Yes,No,No,Never,Some of them,No,MA,Cis
+32.0,M,No,Don't know,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+37.0,F,No,Don't know,Yes,No,Don't know,No,,Some of them,No,FA,Cis
+29.0,M,No,Yes,No,No,Yes,Yes,Often,Yes,Yes,MA,Cis
+34.0,M,No,No,Maybe,Maybe,Don't know,No,,Some of them,Yes,MA,Cis
+27.0,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+30.0,M,Yes,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,Maybe,No,No,No,Never,Some of them,Some of them,MA,Cis
+32.0,M,Yes,Yes,Yes,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+,M,No,No,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+25.0,M,No,Yes,Maybe,Maybe,Yes,No,,Some of them,Yes,MA,Cis
+37.0,M,No,Yes,No,No,Yes,No,,Yes,Yes,MA,Cis
+29.0,M,Yes,No,No,No,Yes,No,,Some of them,Yes,MA,Cis
+27.0,M,No,Yes,No,No,Don't know,No,,Yes,Yes,MA,Cis
+33.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+30.0,M,Yes,Don't know,Yes,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+29.0,M,No,No,Maybe,Maybe,Don't know,No,,Yes,Yes,MA,Cis
+25.0,M,Yes,Don't know,Yes,No,No,Yes,Never,Some of them,Yes,MA,Cis
+33.0,M,Yes,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+31.0,M,No,No,No,No,No,No,Never,Some of them,Some of them,MA,Cis
+21.0,M,No,Don't know,Maybe,Maybe,No,No,Rarely,Some of them,Some of them,MA,Cis
+30.0,M,Yes,Don't know,Yes,Yes,No,Yes,Sometimes,No,No,MA,Cis
+29.0,M,No,Don't know,No,No,No,No,,Yes,Yes,MA,Cis
+43.0,M,No,No,Yes,No,No,Yes,Sometimes,Yes,No,MA,Cis
+37.0,M,No,No,Yes,No,No,Yes,Often,Yes,Yes,MA,Cis
+24.0,M,No,No,Maybe,No,Don't know,No,,Yes,Some of them,MA,Cis
+29.0,M,No,Don't know,No,No,Don't know,No,,Yes,Yes,MA,Cis
+31.0,M,No,Yes,No,No,Don't know,No,,Yes,Yes,MA,Cis
+,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+33.0,M,No,No,No,No,No,No,Never,Yes,Some of them,MA,Cis
+43.0,M,No,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,No,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+27.0,M,No,No,Maybe,No,Yes,No,,Yes,Some of them,MA,Cis
+36.0,M,Yes,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,No,No,MA,Cis
+37.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+32.0,M,No,No,Yes,Maybe,No,No,,No,No,MA,Cis
+39.0,M,No,No,No,No,Yes,Yes,Sometimes,No,Some of them,MA,Cis
+31.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+36.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+30.0,M,No,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+28.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+32.0,M,No,No,Maybe,No,No,No,,Some of them,No,MA,Cis
+35.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+19.0,M,No,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,Yes,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+42.0,M,No,Don't know,No,No,Yes,No,,Some of them,No,MA,Cis
+37.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+40.0,M,No,No,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+36.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+29.0,F,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,FA,Cis
+38.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,No,No,FA,Cis
+26.0,M,Yes,Yes,Yes,Maybe,No,Yes,Sometimes,No,No,MA,Cis
+34.0,M,No,No,Maybe,Maybe,Yes,No,Rarely,No,Some of them,MA,Cis
+21.0,M,No,No,Yes,No,No,Yes,Often,Some of them,Some of them,MA,Cis
+31.0,M,Yes,No,No,No,Yes,No,Sometimes,No,No,MA,Cis
+37.0,F,Yes,Yes,Maybe,Maybe,Yes,Yes,Rarely,Yes,Some of them,FA,Cis
+37.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+38.0,M,Yes,No,Yes,Yes,No,Yes,Sometimes,No,No,MA,Cis
+27.0,F,No,Don't know,Yes,No,No,Yes,Sometimes,Some of them,No,FA,Cis
+39.0,M,No,No,No,No,Yes,No,,Some of them,Yes,MA,Cis
+33.0,F,Yes,Yes,Maybe,Yes,No,Yes,Sometimes,Some of them,No,FA,Cis
+27.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,No,MA,Cis
+36.0,F,No,Yes,Maybe,Maybe,No,Yes,Never,Some of them,Some of them,FA,Cis
+28.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+39.0,M,No,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+33.0,M,Yes,No,Maybe,Maybe,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+32.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+28.0,M,No,Don't know,No,No,No,No,,Some of them,Some of them,MA,Cis
+37.0,M,Yes,No,Yes,No,No,Yes,Rarely,Some of them,Yes,MA,Cis
+39.0,M,No,Yes,Yes,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+43.0,M,No,Don't know,Maybe,No,No,No,Sometimes,No,No,MA,Cis
+32.0,NB,No,Don't know,No,No,Yes,Yes,Sometimes,Yes,Some of them,NBA,Trans
+27.0,F,No,Don't know,Maybe,No,Don't know,No,,Some of them,Yes,FA,Cis
+31.0,F,No,Don't know,No,No,Don't know,No,,Yes,Yes,FA,Cis
+43.0,M,No,Don't know,No,No,Don't know,Yes,Never,Yes,Yes,MA,Cis
+33.0,M,No,No,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+34.0,M,Yes,Don't know,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,No,Don't know,No,No,Don't know,No,,Yes,Yes,MA,Cis
+25.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+25.0,M,Yes,Yes,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+32.0,M,Yes,No,No,No,No,No,,No,Yes,MA,Cis
+25.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+37.0,M,No,Don't know,Maybe,No,Don't know,No,,Yes,Yes,MA,Cis
+39.0,M,No,Yes,No,No,Yes,Yes,Never,Some of them,Some of them,MA,Cis
+29.0,M,No,Don't know,No,No,Don't know,No,Rarely,Some of them,Yes,MA,Cis
+33.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+37.0,female,No,Don't know,Yes,No,No,Yes,Often,Some of them,Some of them,NA,NA
+35.0,F,No,Yes,Yes,Maybe,No,Yes,Sometimes,No,Some of them,FA,Cis
+22.0,F,Yes,Don't know,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+38.0,M,No,Yes,Maybe,No,No,No,Never,Some of them,Yes,MA,Cis
+32.0,F,Yes,Yes,Yes,No,Don't know,Yes,Often,Some of them,Yes,FA,Cis
+28.0,M,No,Don't know,Maybe,No,No,No,,Some of them,Yes,MA,Cis
+27.0,M,Yes,No,Maybe,No,No,No,,Some of them,Yes,MA,Cis
+35.0,female,No,Don't know,Maybe,No,Yes,Yes,Sometimes,Some of them,No,NA,NA
+29.0,M,No,Yes,Yes,Maybe,Don't know,No,Never,Yes,Yes,MA,Cis
+23.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+39.0,M,No,Yes,Yes,Maybe,Don't know,No,,No,No,MA,Cis
+30.0,F,No,Yes,No,No,Yes,No,,Some of them,No,FA,Cis
+32.0,M,No,Don't know,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+28.0,TF,No,No,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,FA,Trans
+40.0,female,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,NA,NA
+36.0,F,Yes,Don't know,No,No,Yes,No,,No,Some of them,FA,Cis
+27.0,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+41.0,M,Yes,Yes,Maybe,No,No,No,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,No,Don't know,Maybe,No,Don't know,No,Never,Some of them,No,MA,Cis
+29.0,M,No,No,No,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+35.0,M,No,No,Yes,No,No,Yes,Often,Some of them,Some of them,MA,Cis
+28.0,M,No,No,Maybe,Maybe,Don't know,Yes,Never,Some of them,Some of them,MA,Cis
+36.0,F,No,Don't know,Maybe,No,Don't know,No,Sometimes,Some of them,No,FA,Cis
+39.0,F,No,Don't know,Yes,No,Don't know,No,Sometimes,No,No,FA,Cis
+39.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+44.0,M,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+26.0,NB,No,No,No,No,Yes,Yes,Sometimes,Some of them,Some of them,NBA,Trans
+35.0,M,Yes,No,No,No,Yes,Yes,Often,Some of them,Some of them,MA,Cis
+40.0,F,Yes,Yes,Yes,Maybe,Don't know,Yes,Sometimes,Some of them,No,FA,Cis
+35.0,M,Yes,No,No,No,Yes,Yes,Often,Some of them,Some of them,MA,Cis
+38.0,M,No,No,Yes,Yes,Don't know,No,Never,No,No,MA,Cis
+34.0,M,No,Don't know,No,No,Yes,No,,Some of them,Yes,MA,Cis
+43.0,M,No,Yes,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+48.0,F,Yes,Don't know,Yes,Yes,No,No,Often,No,Some of them,FA,Cis
+20.0,M,No,Don't know,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+40.0,M,No,Don't know,Yes,Maybe,Don't know,No,Sometimes,Some of them,No,MA,Cis
+29.0,female,No,Don't know,Maybe,No,Don't know,Yes,Rarely,Some of them,No,NA,NA
+35.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+29.0,M,Yes,Yes,Maybe,No,Yes,No,Sometimes,Some of them,No,MA,Cis
+40.0,M,No,Yes,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+29.0,M,No,No,No,No,Yes,Yes,Rarely,Some of them,Yes,MA,Cis
+29.0,F,Yes,Yes,No,No,Don't know,Yes,Rarely,Yes,Yes,FA,Cis
+34.0,M,No,No,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+44.0,M,Yes,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+24.0,female,Yes,Yes,No,No,No,Yes,Often,Some of them,Yes,NA,NA
+47.0,F,No,Don't know,Yes,Yes,No,No,,No,No,FA,Cis
+43.0,M,Yes,Don't know,Maybe,No,Don't know,No,,Some of them,Yes,MA,Cis
+36.0,M,No,Yes,No,No,No,No,Rarely,Some of them,Yes,MA,Cis
+43.0,M,No,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+36.0,M,No,No,No,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+31.0,F,Yes,Yes,No,No,Don't know,Yes,Sometimes,Yes,Yes,FA,Cis
+35.0,M,No,Don't know,Maybe,No,Don't know,No,Sometimes,Some of them,No,MA,Cis
+33.0,M,Yes,Yes,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+37.0,M,No,Don't know,Yes,Yes,No,No,Sometimes,Some of them,No,MA,Cis
+34.0,M,No,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+36.0,M,No,No,No,No,Yes,Yes,Sometimes,Yes,No,MA,Cis
+40.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+40.0,M,No,Yes,No,No,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+42.0,M,No,No,Maybe,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+23.0,M,Yes,Yes,Maybe,No,Don't know,No,,No,Some of them,MA,Cis
+21.0,M,Yes,No,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+26.0,M,No,No,Yes,Maybe,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+31.0,M,Yes,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+25.0,M,Yes,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+51.0,M,No,Yes,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+24.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,No,No,Maybe,No,No,No,,Some of them,Yes,MA,Cis
+32.0,M,Yes,No,Yes,Maybe,No,Yes,Rarely,Some of them,No,MA,Cis
+32.0,M,Yes,No,Yes,Maybe,No,Yes,Rarely,Some of them,No,MA,Cis
+26.0,M,No,No,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+23.0,M,No,Don't know,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+33.0,M,Yes,No,Yes,No,No,Yes,Often,Some of them,Yes,MA,Cis
+46.0,M,No,Yes,Yes,Maybe,Yes,Yes,Rarely,No,No,MA,Cis
+34.0,M,No,No,Yes,Maybe,No,No,,No,No,MA,Cis
+35.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+39.0,M,No,No,Maybe,Maybe,No,No,,Some of them,Yes,MA,Cis
+32.0,M,No,No,No,No,No,No,Sometimes,Some of them,Some of them,MA,Cis
+43.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+56.0,M,No,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+32.0,F,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,FA,Cis
+41.0,M,No,Yes,Maybe,Maybe,No,No,,Some of them,Some of them,MA,Cis
+39.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+37.0,M,Yes,Yes,Maybe,No,No,No,,No,No,MA,Cis
+30.0,M,Yes,Don't know,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+31.0,M,No,Yes,Maybe,No,No,No,,Some of them,Some of them,MA,Cis
+29.0,M,No,Don't know,Maybe,No,Don't know,No,,No,Some of them,MA,Cis
+23.0,F,Yes,No,Yes,Maybe,Don't know,No,Never,No,No,FA,Cis
+31.0,M,No,Yes,Maybe,No,Don't know,Yes,Never,No,No,MA,Cis
+29.0,M,Yes,Don't know,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+30.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+37.0,M,No,Yes,Maybe,No,Yes,No,Never,Some of them,Yes,MA,Cis
+36.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+35.0,M,Yes,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+41.0,M,Yes,Don't know,Maybe,No,Don't know,No,Never,No,No,MA,Cis
+31.0,M,No,Don't know,No,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+38.0,M,Yes,Yes,No,No,No,No,,Some of them,Yes,MA,Cis
+26.0,M,No,No,No,No,Yes,No,,Some of them,Yes,MA,Cis
+39.0,M,Yes,Yes,Maybe,Maybe,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+42.0,M,Yes,Yes,Maybe,Maybe,Don't know,No,Sometimes,Some of them,No,MA,Cis
+32.0,M,Yes,No,Yes,No,Don't know,Yes,Rarely,Some of them,No,MA,Cis
+29.0,M,Yes,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+30.0,M,Yes,Yes,Yes,Yes,No,No,Never,Some of them,No,MA,Cis
+40.0,M,Yes,Don't know,Maybe,Maybe,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+51.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,No,Yes,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+34.0,M,No,No,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+50.0,M,No,No,No,No,Yes,No,Never,Some of them,Yes,MA,Cis
+24.0,M,No,Don't know,No,No,No,No,Sometimes,Some of them,Yes,MA,Cis
+25.0,M,Yes,No,Yes,Maybe,No,Yes,Rarely,No,No,MA,Cis
+43.0,M,Yes,No,Yes,Yes,No,Yes,Rarely,Some of them,No,MA,Cis
+25.0,F,No,Yes,Maybe,Maybe,Yes,Yes,Often,Some of them,Some of them,FA,Cis
+24.0,M,No,No,No,No,Yes,No,,No,No,MA,Cis
+51.0,M,No,No,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+49.0,M,Yes,Yes,Yes,Maybe,No,Yes,Sometimes,No,No,MA,Cis
+30.0,M,No,Yes,Yes,Maybe,Don't know,No,,No,No,MA,Cis
+25.0,female,Yes,Yes,Yes,Yes,No,Yes,Sometimes,No,No,NA,NA
+36.0,M,No,Yes,Maybe,No,Don't know,Yes,Rarely,No,No,MA,Cis
+48.0,M,No,Yes,Maybe,Maybe,Yes,Yes,Never,Yes,Yes,MA,Cis
+48.0,M,No,No,Yes,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+53.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Rarely,Some of them,No,MA,Cis
+24.0,F,Yes,No,No,No,Don't know,Yes,Often,Yes,Yes,FA,Cis
+33.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+25.0,F,Yes,Yes,No,No,Don't know,Yes,Sometimes,Some of them,Yes,FA,Cis
+30.0,M,No,No,Yes,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+30.0,M,No,No,Maybe,Maybe,Don't know,No,Never,Some of them,Some of them,MA,Cis
+34.0,M,No,No,No,No,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+31.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+22.0,F,Yes,Don't know,Yes,Yes,Don't know,Yes,Often,No,No,FA,Cis
+28.0,M,Yes,Don't know,No,No,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+35.0,M,Yes,Yes,Maybe,No,No,Yes,Rarely,Some of them,Some of them,MA,Cis
+28.0,M,Yes,Yes,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+42.0,M,No,No,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+33.0,M,Yes,Yes,No,No,Yes,No,,Yes,Yes,MA,Cis
+29.0,M,No,Yes,Yes,Maybe,Don't know,No,Sometimes,No,No,MA,Cis
+43.0,M,Yes,Yes,Maybe,No,No,No,Sometimes,No,Some of them,MA,Cis
+29.0,M,No,Yes,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+25.0,M,No,Yes,No,No,Don't know,No,,Yes,Yes,MA,Cis
+31.0,M,Yes,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+35.0,F,Yes,Yes,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+34.0,M,No,Don't know,No,No,Yes,No,Often,Some of them,Yes,MA,Cis
+43.0,M,No,Yes,Yes,Maybe,No,Yes,Sometimes,Some of them,No,MA,Cis
+38.0,M,Yes,No,Yes,Yes,No,Yes,Sometimes,No,Some of them,MA,Cis
+26.0,M,Yes,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+38.0,M,Yes,No,Maybe,No,No,Yes,Rarely,No,No,MA,Cis
+42.0,M,No,Don't know,Yes,Maybe,Don't know,Yes,Often,No,No,MA,Cis
+33.0,M,Yes,Don't know,No,No,Yes,Yes,,Yes,Yes,MA,Cis
+32.0,M,No,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,Some of them,MA,Cis
+44.0,M,Yes,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+28.0,M,Yes,Yes,Maybe,No,No,Yes,Rarely,Some of them,No,MA,Cis
+40.0,M,Yes,Yes,Yes,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+31.0,F,Yes,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+32.0,M,Yes,Yes,Yes,No,Don't know,No,Sometimes,Some of them,No,MA,Cis
+28.0,M,Yes,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+39.0,M,Yes,Yes,Yes,No,No,Yes,Often,Some of them,No,MA,Cis
+45.0,M,No,Yes,No,No,Yes,No,,Some of them,Some of them,MA,Cis
+43.0,M,No,Yes,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+35.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+40.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+34.0,M,No,No,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+24.0,M,Yes,Don't know,Yes,Maybe,No,Yes,Often,Some of them,Yes,MA,Cis
+61.0,M,No,No,Yes,Maybe,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+36.0,F,Yes,Don't know,Yes,Maybe,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+38.0,M,No,No,Maybe,No,Don't know,No,,Some of them,Yes,MA,Cis
+33.0,M,Yes,Don't know,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+30.0,M,Yes,Don't know,Yes,Maybe,No,No,Never,No,No,MA,Cis
+34.0,M,Yes,Yes,No,No,Yes,Yes,Rarely,Yes,Some of them,MA,Cis
+26.0,M,No,Yes,No,No,No,Yes,Rarely,Some of them,Some of them,MA,Cis
+33.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+32.0,M,No,Don't know,No,No,No,No,,No,Yes,MA,Cis
+25.0,M,No,No,No,No,Yes,No,Sometimes,Some of them,Yes,MA,Cis
+35.0,M,No,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,Yes,No,MA,Cis
+24.0,M,Yes,Don't know,Maybe,No,Don't know,No,Often,Some of them,Some of them,MA,Cis
+55.0,M,No,Yes,Yes,Maybe,No,Yes,Often,No,Some of them,MA,Cis
+33.0,M,Yes,No,Yes,Maybe,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+26.0,F,Yes,No,Maybe,No,Yes,Yes,Sometimes,Some of them,Yes,FA,Cis
+25.0,M,No,Don't know,No,No,Don't know,No,Never,Yes,Yes,MA,Cis
+45.0,M,Yes,Don't know,Maybe,No,Don't know,No,Rarely,Some of them,No,MA,Cis
+33.0,female,No,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,NA,NA
+43.0,M,No,No,Yes,Maybe,No,No,Sometimes,No,No,MA,Cis
+30.0,M,No,No,Yes,Yes,Yes,Yes,Sometimes,No,No,MA,Cis
+40.0,M,Yes,Don't know,No,No,Don't know,Yes,Rarely,Yes,Yes,MA,Cis
+49.0,M,Yes,Yes,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+29.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+26.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Some of them,MA,Cis
+38.0,M,No,Yes,Maybe,Maybe,No,No,Never,Some of them,Some of them,MA,Cis
+27.0,M,Yes,Yes,Maybe,Maybe,Don't know,No,,No,Some of them,MA,Cis
+26.0,M,No,Yes,Maybe,No,Don't know,No,Never,No,No,MA,Cis
+28.0,M,Yes,No,Maybe,Maybe,No,Yes,Often,Yes,Yes,MA,Cis
+40.0,M,Yes,No,Maybe,Maybe,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+37.0,F,Yes,No,Yes,Maybe,Don't know,Yes,Rarely,Some of them,Some of them,FA,Cis
+34.0,female,Yes,Yes,Yes,Yes,Don't know,Yes,Often,Some of them,No,NA,NA
+28.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+27.0,M,No,Yes,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+29.0,M,No,No,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+39.0,F,Yes,Don't know,Yes,Yes,No,No,Rarely,No,No,FA,Cis
+28.0,M,No,No,Yes,No,Yes,No,Often,No,No,MA,Cis
+23.0,M,Yes,Yes,No,No,Don't know,No,Sometimes,No,No,MA,Cis
+,NA,Yes,Yes,Yes,Yes,Yes,Yes,Often,Yes,Yes,NA,NA
+38.0,M,No,No,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+19.0,M,No,Yes,No,No,Yes,No,,Yes,Yes,MA,Cis
+30.0,F,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,No,FA,Cis
+28.0,M,No,No,Maybe,Maybe,Yes,No,,No,No,MA,Cis
+20.0,M,No,Don't know,Yes,No,Yes,Yes,Sometimes,No,No,MA,Cis
+35.0,M,No,Don't know,No,No,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+39.0,M,No,Yes,Maybe,No,Don't know,Yes,Rarely,Some of them,Yes,MA,Cis
+31.0,F,Yes,Yes,Yes,Yes,Don't know,No,Never,No,No,FA,Cis
+32.0,M,No,No,Yes,No,Don't know,No,Rarely,No,No,MA,Cis
+27.0,M,No,No,No,No,Don't know,No,,No,No,MA,Cis
+25.0,M,Yes,Yes,No,No,Don't know,Yes,Often,Yes,Yes,MA,Cis
+42.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+34.0,M,Yes,Yes,No,No,Don't know,Yes,Often,Yes,Yes,MA,Cis
+26.0,female,No,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,NA,NA
+35.0,M,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Some of them,Some of them,MA,Cis
+34.0,M,No,Don't know,Maybe,No,Yes,No,Never,Yes,Yes,MA,Cis
+38.0,M,Yes,Yes,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+34.0,M,No,Don't know,Yes,No,Don't know,No,Sometimes,Some of them,No,MA,Cis
+39.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+44.0,F,No,Don't know,Yes,No,Don't know,No,,No,No,FA,Cis
+40.0,M,No,Yes,Maybe,No,Don't know,No,,No,Yes,MA,Cis
+33.0,female,No,No,Maybe,No,Yes,No,Never,No,Some of them,NA,NA
+24.0,F,Yes,Yes,Yes,Maybe,No,No,Sometimes,Some of them,Some of them,FA,Cis
+38.0,F,Yes,Don't know,No,No,Don't know,No,Sometimes,Some of them,Yes,FA,Cis
+31.0,M,No,Yes,Yes,Maybe,Yes,No,Sometimes,Some of them,Some of them,MA,Cis
+23.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,Yes,MA,Cis
+26.0,F,No,Don't know,No,No,Yes,No,,Yes,Yes,FA,Cis
+46.0,TF,No,Yes,Yes,No,No,Yes,Often,Some of them,Some of them,FA,Trans
+30.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+25.0,M,No,Don't know,Yes,No,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+19.0,M,No,Don't know,No,No,No,No,Never,Some of them,Some of them,MA,Cis
+30.0,F,Yes,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+32.0,M,No,Yes,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+32.0,M,No,No,Maybe,Maybe,Don't know,No,,No,No,MA,Cis
+37.0,M,Yes,Don't know,Maybe,No,No,No,Sometimes,Some of them,Some of them,MA,Cis
+42.0,M,Yes,Don't know,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+25.0,female,No,Yes,Maybe,No,Yes,No,Never,Some of them,Yes,NA,NA
+19.0,M,No,Don't know,No,No,Don't know,No,Sometimes,Some of them,Yes,MA,Cis
+40.0,female,Yes,Yes,Yes,Yes,Don't know,No,Never,No,No,NA,NA
+34.0,M,No,Yes,Maybe,Maybe,Don't know,No,,Some of them,Yes,MA,Cis
+26.0,M,Yes,Don't know,No,No,Yes,No,,Some of them,Yes,MA,Cis
+31.0,M,Yes,Don't know,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+40.0,M,Yes,Yes,Yes,Maybe,No,No,Sometimes,Some of them,Some of them,MA,Cis
+31.0,F,Yes,No,Yes,No,No,Yes,Often,No,No,FA,Cis
+36.0,M,No,Don't know,Yes,Maybe,Don't know,No,Never,No,No,MA,Cis
+35.0,M,Yes,No,Maybe,No,Don't know,No,Sometimes,No,Some of them,MA,Cis
+26.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+44.0,M,No,Don't know,Yes,No,No,No,,Some of them,No,MA,Cis
+34.0,F,No,No,No,No,Yes,No,Sometimes,Some of them,Yes,FA,Cis
+35.0,M,No,No,No,No,Don't know,No,,No,No,MA,Cis
+28.0,female,Yes,Don't know,Yes,No,No,Yes,Sometimes,Some of them,Some of them,NA,NA
+33.0,M,No,Yes,No,No,Yes,No,,Some of them,Yes,MA,Cis
+40.0,M,Yes,Yes,Yes,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+26.0,M,No,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+29.0,F,No,Yes,Maybe,No,No,Yes,Often,Some of them,No,FA,Cis
+26.0,F,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,FA,Cis
+33.0,M,Yes,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+28.0,M,Yes,No,No,No,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+41.0,M,No,No,No,No,Yes,Yes,Often,Some of them,Some of them,MA,Cis
+39.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+26.0,female,Yes,Yes,No,No,No,Yes,Sometimes,Some of them,Yes,NA,NA
+23.0,F,Yes,No,Yes,No,No,No,Sometimes,No,Some of them,FA,Cis
+35.0,M,Yes,Don't know,No,No,No,Yes,Often,Some of them,Some of them,MA,Cis
+36.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+42.0,M,No,Don't know,Maybe,No,No,No,Rarely,Some of them,No,MA,Cis
+39.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+27.0,M,No,Don't know,Maybe,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+33.0,M,No,Don't know,Maybe,No,Yes,No,Never,Some of them,Yes,MA,Cis
+31.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Often,Some of them,No,MA,Cis
+28.0,F,No,Yes,No,No,Don't know,Yes,Rarely,Some of them,Some of them,FA,Cis
+29.0,F,No,Yes,No,No,Don't know,Yes,Often,Some of them,Yes,FA,Cis
+27.0,M,No,Don't know,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+44.0,M,No,Don't know,No,No,Don't know,No,Never,No,No,MA,Cis
+25.0,M,No,Don't know,Maybe,No,Don't know,Yes,Often,Some of them,No,MA,Cis
+24.0,M,Yes,No,Maybe,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+25.0,M,Yes,Don't know,No,No,No,Yes,Often,Some of them,Yes,MA,Cis
+34.0,M,No,Yes,Maybe,Maybe,Don't know,No,Never,No,Some of them,MA,Cis
+26.0,M,No,Yes,Maybe,No,Don't know,No,Never,No,Yes,MA,Cis
+48.0,M,No,Yes,Maybe,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+34.0,M,No,No,Yes,Maybe,No,No,,Some of them,No,MA,Cis
+39.0,F,No,No,Maybe,Maybe,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+43.0,M,No,Yes,Maybe,No,Don't know,No,Sometimes,No,No,MA,Cis
+41.0,M,No,Yes,Maybe,Maybe,Yes,No,Rarely,Some of them,No,MA,Cis
+25.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+31.0,M,No,Yes,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+40.0,M,Yes,Yes,Yes,Yes,No,Yes,Sometimes,No,No,MA,Cis
+43.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+27.0,F,Yes,Yes,Maybe,No,No,Yes,Often,Yes,Some of them,FA,Cis
+37.0,female,Yes,Yes,Yes,Maybe,Don't know,Yes,Sometimes,No,No,NA,NA
+32.0,M,No,No,Maybe,No,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+25.0,M,Yes,No,Maybe,No,No,Yes,Often,Yes,Yes,MA,Cis
+29.0,M,Yes,Don't know,No,Maybe,Yes,Yes,Often,Yes,Yes,MA,Cis
+30.0,F,Yes,Yes,Yes,No,No,Yes,Often,No,No,FA,Cis
+34.0,female,Yes,Don't know,No,No,Yes,Yes,Often,Some of them,Some of them,NA,NA
+32.0,M,Yes,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+37.0,M,No,Don't know,No,No,Yes,No,,Yes,Yes,MA,Cis
+41.0,M,No,Don't know,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+38.0,M,Yes,Yes,Yes,Maybe,No,No,Never,Some of them,No,MA,Cis
+32.0,M,No,Yes,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+28.0,F,Yes,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,Some of them,FA,Cis
+,M,No,No,No,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+43.0,M,Yes,Yes,Maybe,No,No,No,Never,Some of them,Some of them,MA,Cis
+32.0,M,Yes,No,Yes,No,No,Yes,Often,Yes,Yes,MA,Cis
+25.0,M,No,Yes,Yes,No,Yes,Yes,Sometimes,No,No,MA,Cis
+37.0,M,No,Yes,No,No,Yes,Yes,Sometimes,No,Yes,MA,Cis
+36.0,M,No,No,No,No,No,Yes,Sometimes,No,No,MA,Cis
+24.0,M,Yes,Don't know,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+40.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+29.0,M,No,Don't know,No,No,Yes,No,,Some of them,Yes,MA,Cis
+43.0,M,No,Don't know,No,No,Yes,No,Never,Yes,Some of them,MA,Cis
+29.0,M,No,Yes,Maybe,No,Don't know,No,,Some of them,Yes,MA,Cis
+26.0,M,Yes,Don't know,Maybe,No,Don't know,No,Sometimes,Some of them,No,MA,Cis
+33.0,F,Yes,No,Yes,Yes,No,Yes,Often,No,No,FA,Cis
+35.0,F,Yes,Don't know,No,No,Yes,No,Sometimes,Yes,Some of them,FA,Cis
+45.0,M,No,Yes,Yes,Maybe,Don't know,No,Never,Some of them,No,MA,Cis
+25.0,M,No,No,Maybe,No,Don't know,Yes,Rarely,No,Some of them,MA,Cis
+50.0,M,No,No,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+26.0,M,Yes,No,No,No,Yes,Yes,Rarely,Yes,Yes,MA,Cis
+33.0,female,No,Yes,Yes,No,Don't know,Yes,Often,No,No,NA,NA
+30.0,M,No,No,Maybe,Maybe,Don't know,No,Often,Some of them,Some of them,MA,Cis
+33.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+29.0,M,No,Yes,Maybe,Maybe,No,Yes,Often,Yes,Some of them,MA,Cis
+37.0,M,No,No,Maybe,No,Don't know,No,,Some of them,No,MA,Cis
+25.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+40.0,M,No,Yes,Maybe,No,Don't know,No,,Some of them,Some of them,MA,Cis
+24.0,M,No,Yes,Maybe,No,Don't know,No,Sometimes,No,No,MA,Cis
+40.0,M,No,Don't know,Maybe,No,Don't know,Yes,Never,Yes,Some of them,MA,Cis
+46.0,M,Yes,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,No,Some of them,MA,Cis
+38.0,M,Yes,Yes,Yes,No,Don't know,Yes,Rarely,No,Yes,MA,Cis
+34.0,M,No,No,Yes,Yes,Don't know,No,Never,No,No,MA,Cis
+32.0,M,No,No,No,No,No,Yes,Rarely,Some of them,Yes,MA,Cis
+44.0,M,No,No,Maybe,No,No,Yes,Sometimes,Some of them,Some of them,MA,Cis
+33.0,F,No,Don't know,Maybe,No,No,Yes,Never,Some of them,Some of them,FA,Cis
+45.0,female,No,Don't know,No,No,Don't know,Yes,Rarely,Some of them,Some of them,NA,NA
+35.0,M,No,Don't know,No,No,Yes,No,,No,No,MA,Cis
+26.0,M,Yes,No,Maybe,No,No,Yes,Often,Yes,Yes,MA,Cis
+20.0,female,No,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Some of them,NA,NA
+,NA,Yes,Yes,Yes,Yes,Yes,Yes,Often,Yes,Yes,NA,NA
+37.0,M,Yes,No,Maybe,No,Yes,No,Sometimes,Some of them,Yes,MA,Cis
+28.0,M,No,Yes,Maybe,No,No,No,,No,No,MA,Cis
+42.0,F,Yes,Yes,Yes,No,No,Yes,Sometimes,Some of them,Some of them,FA,Cis
+32.0,M,No,No,Maybe,No,Don't know,No,,No,No,MA,Cis
+36.0,F,Yes,Yes,Maybe,Maybe,Don't know,Yes,Rarely,Some of them,No,FA,Cis
+27.0,M,No,No,Yes,No,No,No,Rarely,No,No,MA,Cis
+27.0,M,No,No,Yes,No,No,No,Rarely,No,No,MA,Cis
+27.0,M,No,No,Maybe,No,No,Yes,Sometimes,Yes,Yes,MA,Cis
+25.0,M,Yes,No,No,No,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+41.0,M,Yes,No,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+23.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,No,No,MA,Cis
+21.0,M,No,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+26.0,M,No,No,No,No,Don't know,Yes,Often,Yes,Yes,MA,Cis
+29.0,M,No,Don't know,Maybe,Maybe,Don't know,No,Rarely,No,No,MA,Cis
+28.0,M,No,No,Yes,Maybe,Don't know,No,Sometimes,No,No,MA,Cis
+27.0,female,Yes,No,Maybe,No,Yes,No,,No,No,NA,NA
+23.0,M,No,No,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+26.0,F,Yes,Don't know,Maybe,No,Don't know,No,Sometimes,No,No,FA,Cis
+38.0,M,Yes,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+39.0,M,Yes,No,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Yes,MA,Cis
+35.0,M,Yes,Yes,Yes,No,Don't know,Yes,Often,No,Some of them,MA,Cis
+32.0,M,No,Yes,Maybe,No,Don't know,No,Rarely,No,Some of them,MA,Cis
+32.0,M,No,Yes,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+26.0,M,No,No,Yes,Maybe,Don't know,No,Never,Some of them,No,MA,Cis
+38.0,M,Yes,Don't know,No,No,No,Yes,Rarely,Yes,Yes,MA,Cis
+34.0,F,Yes,Yes,No,No,Yes,No,Rarely,Some of them,Yes,FA,Cis
+39.0,M,Yes,Don't know,Yes,No,Don't know,Yes,Often,Some of them,Some of them,MA,Cis
+32.0,M,No,Don't know,No,No,Yes,No,Never,Yes,Yes,MA,Cis
+37.0,M,No,Don't know,Yes,Yes,Don't know,No,Never,Some of them,Some of them,MA,Cis
+31.0,M,Yes,Don't know,No,No,Don't know,Yes,Never,Some of them,Some of them,MA,Cis
+30.0,M,Yes,No,No,No,Don't know,Yes,Rarely,No,No,MA,Cis
+51.0,M,No,Don't know,Yes,No,No,No,Never,No,No,MA,Cis
+29.0,M,No,Yes,Yes,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+31.0,M,No,Yes,Maybe,Yes,Yes,No,Never,Some of them,No,MA,Cis
+31.0,M,No,Don't know,Yes,Yes,Don't know,No,,No,No,MA,Cis
+26.0,M,Yes,Don't know,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+46.0,F,No,Yes,Maybe,No,No,Yes,Often,Some of them,Some of them,FA,Cis
+32.0,M,Yes,Yes,Maybe,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+29.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+34.0,M,No,Don't know,Maybe,No,Don't know,No,Never,Some of them,Some of them,MA,Cis
+26.0,M,No,No,Yes,No,Yes,No,Often,No,No,MA,Cis
+32.0,F,No,Yes,Maybe,No,No,Yes,Sometimes,Some of them,No,FA,Cis
+29.0,M,No,Don't know,Maybe,No,No,No,,Some of them,Yes,MA,Cis
+30.0,M,No,Yes,Yes,Maybe,Don't know,No,,No,No,MA,Cis
+40.0,F,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+23.0,M,No,No,Maybe,No,No,Yes,Sometimes,Yes,Yes,MA,Cis
+20.0,M,No,No,Yes,Yes,No,No,Rarely,Some of them,No,MA,Cis
+38.0,M,Yes,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+26.0,F,Yes,Yes,Maybe,Maybe,No,Yes,Rarely,No,No,FA,Cis
+29.0,M,No,No,No,No,No,No,Never,Some of them,Yes,MA,Cis
+40.0,M,No,No,No,No,Don't know,No,Sometimes,Some of them,Some of them,MA,Cis
+25.0,female,No,No,Maybe,Maybe,No,Yes,Sometimes,Yes,Some of them,NA,NA
+32.0,F,No,Yes,Maybe,Maybe,No,Yes,Sometimes,Some of them,No,FA,Cis
+38.0,M,Yes,Yes,Maybe,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+72.0,F,Yes,Yes,Maybe,Maybe,Don't know,Yes,Never,Some of them,Yes,FA,Cis
+35.0,female,Yes,No,Maybe,Maybe,Yes,Yes,Sometimes,Some of them,Some of them,NA,NA
+28.0,F,No,No,Yes,Maybe,Don't know,Yes,Often,Some of them,Some of them,FA,Cis
+27.0,F,No,Don't know,No,No,Yes,No,Never,Some of them,Yes,FA,Cis
+56.0,female,No,Don't know,Maybe,Maybe,Don't know,No,Rarely,No,No,NA,NA
+38.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+31.0,F,No,Don't know,Maybe,No,Don't know,No,,Some of them,Some of them,FA,Cis
+40.0,M,Yes,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+44.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+34.0,M,Yes,Yes,Maybe,No,Don't know,No,Sometimes,No,No,MA,Cis
+37.0,M,No,Don't know,No,No,Don't know,No,Never,Some of them,Yes,MA,Cis
+38.0,M,No,Don't know,No,No,No,No,Never,Some of them,Yes,MA,Cis
+27.0,M,No,Don't know,No,No,Don't know,No,,Some of them,Yes,MA,Cis
+34.0,female,No,Yes,Yes,Yes,Yes,Yes,Sometimes,Some of them,Some of them,NA,NA
+35.0,F,No,Don't know,Maybe,No,No,No,Rarely,Some of them,No,FA,Cis
+34.0,M,No,No,Yes,Maybe,No,Yes,Often,Some of them,Yes,MA,Cis
+32.0,M,No,Yes,Yes,Maybe,Don't know,Yes,Often,Some of them,No,MA,Cis
+25.0,M,No,Don't know,Maybe,No,Don't know,No,,Some of them,Yes,MA,Cis
+28.0,M,No,No,Yes,No,No,Yes,Often,No,No,MA,Cis
+28.0,F,No,Yes,Yes,Yes,No,Yes,Rarely,Some of them,No,FA,Cis
+31.0,M,No,No,No,No,Don't know,Yes,,Yes,Yes,MA,Cis
+24.0,M,No,Don't know,Maybe,Maybe,Don't know,No,,Some of them,Yes,MA,Cis
+34.0,M,Yes,No,Maybe,No,Don't know,Yes,Never,Some of them,Yes,MA,Cis
+32.0,M,No,No,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+34.0,M,Yes,Don't know,Maybe,No,Yes,No,Often,Some of them,Yes,MA,Cis
+23.0,M,No,No,Maybe,Maybe,No,Yes,Sometimes,Some of them,Yes,MA,Cis
+33.0,M,Yes,No,No,No,Don't know,No,Often,Some of them,Yes,MA,Cis
+29.0,M,Yes,Don't know,Maybe,No,No,Yes,Sometimes,No,No,MA,Cis
+24.0,M,Yes,No,Maybe,Maybe,Don't know,No,,No,No,MA,Cis
+45.0,M,No,Don't know,Yes,No,No,No,Never,Yes,Some of them,MA,Cis
+34.0,F,No,No,Maybe,Maybe,No,Yes,Sometimes,Some of them,Yes,FA,Cis
+31.0,M,No,Don't know,Yes,Yes,No,No,Sometimes,Some of them,No,MA,Cis
+33.0,M,No,Yes,Maybe,No,Don't know,Yes,Often,Some of them,No,MA,Cis
+28.0,M,No,No,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+27.0,M,No,Don't know,No,No,Don't know,No,Rarely,Some of them,Yes,MA,Cis
+42.0,M,No,No,Yes,Yes,No,No,Never,Some of them,Some of them,MA,Cis
+28.0,M,No,No,Maybe,Maybe,Don't know,No,,Some of them,Some of them,MA,Cis
+38.0,M,No,Yes,No,No,Don't know,Yes,Sometimes,Yes,Yes,MA,Cis
+46.0,M,Yes,Don't know,Maybe,No,No,Yes,Often,Some of them,No,MA,Cis
+46.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,Yes,MA,Cis
+41.0,female,No,Don't know,No,No,Yes,Yes,Rarely,Yes,Yes,NA,NA
+23.0,M,No,Don't know,Maybe,No,Yes,No,Never,Some of them,Some of them,MA,Cis
+24.0,M,Yes,Yes,Maybe,No,Yes,Yes,Sometimes,Some of them,No,MA,Cis
+23.0,female,No,No,No,No,Don't know,Yes,Rarely,Yes,Some of them,NA,NA
+39.0,M,No,Yes,Maybe,Maybe,Yes,No,,No,Some of them,MA,Cis
+32.0,F,Yes,Yes,Maybe,No,Don't know,No,Never,Some of them,Some of them,FA,Cis
+25.0,M,Yes,Don't know,Yes,No,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+39.0,M,No,No,Yes,No,Don't know,No,,No,No,MA,Cis
+23.0,F,Yes,No,No,No,Yes,Yes,Sometimes,Yes,Yes,FA,Cis
+24.0,M,No,No,Maybe,Maybe,Don't know,Yes,Sometimes,Some of them,Some of them,MA,Cis
+25.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+23.0,M,No,No,No,No,Don't know,Yes,Rarely,Yes,Yes,MA,Cis
+24.0,TM,No,Don't know,Yes,Maybe,Don't know,Yes,Sometimes,No,No,MA,Trans
+23.0,M,No,Yes,Maybe,No,Don't know,Yes,Often,Yes,Some of them,MA,Cis
+60.0,M,No,Don't know,Maybe,Maybe,Don't know,Yes,Often,Some of them,No,MA,Cis
+28.0,M,No,No,Yes,Maybe,No,No,Sometimes,No,No,MA,Cis
+28.0,M,Yes,Yes,Yes,Maybe,No,Yes,Often,Some of them,Yes,MA,Cis
+30.0,M,No,Don't know,Maybe,No,Don't know,No,Sometimes,Yes,Yes,MA,Cis
+31.0,M,Yes,Don't know,No,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
+31.0,M,No,No,Maybe,No,Don't know,Yes,Often,Some of them,No,MA,Cis
+28.0,M,No,Don't know,Maybe,No,Don't know,Yes,Rarely,No,No,MA,Cis
+43.0,F,Yes,Yes,No,No,Don't know,Yes,Rarely,Some of them,Yes,FA,Cis
+32.0,female,No,No,Maybe,No,No,No,,Some of them,Yes,NA,NA
+22.0,M,Yes,Yes,Maybe,Maybe,Don't know,Yes,Often,No,Yes,MA,Cis
+32.0,M,No,Yes,No,No,Don't know,No,Never,No,Some of them,MA,Cis
+36.0,M,No,No,Yes,No,Don't know,Yes,Often,Some of them,No,MA,Cis
+41.0,F,Yes,Yes,Yes,Maybe,Don't know,Yes,Sometimes,No,No,FA,Cis
+30.0,M,Yes,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,MA,Cis
+30.0,M,Yes,Yes,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+36.0,M,Yes,No,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+29.0,M,Yes,Yes,Yes,No,No,Yes,Sometimes,Some of them,No,MA,Cis
+36.0,M,Yes,Don't know,Maybe,Maybe,Don't know,No,Rarely,Some of them,Some of them,MA,Cis
+26.0,M,No,No,No,No,Don't know,Yes,,Some of them,Some of them,MA,Cis
+32.0,M,Yes,Yes,No,No,Yes,Yes,Often,Some of them,Yes,MA,Cis
+34.0,M,Yes,Yes,Yes,Yes,No,Yes,Sometimes,No,No,MA,Cis
+46.0,F,No,No,Yes,No,No,No,,No,No,FA,Cis
+25.0,M,Yes,Yes,Maybe,No,Don't know,Yes,Sometimes,Some of them,No,MA,Cis
