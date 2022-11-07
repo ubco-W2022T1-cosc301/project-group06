@@ -26,7 +26,7 @@ def genderAdjustment(dataframe):
     genderList = [('Female','Female'),('M','Male'),('Male','Male'),('male','Male'),('female','Female'),('m','Male'),('Male-ish','Male'),('maile','Male'),('Trans-female','Female'),('Cis Female','Female'),('F','Female'),('something kinda male?','Male'),('Cis Male','Male'),('Woman','Female'),('f','Female'),('Mal','Male'),('Male (CIS)','Male'),('queer/she/they','Genderqueer'),('non-binary','Non-Binary'),('Femake','Female'),('woman','Female'),('Make','Male'),('Nah','Non-Binary'),('All','Genderqueer'),('Enby','Non-Binary'),('fluid','Genderqueer'),('Genderqueer','Genderqueer'),('Female ','Female'),('Androgyne','Genderqueer'),('Agender','Non-Binary'),('cis-female/femme','Female'),('Guy (-ish) ^_^','Male'),('male leaning androgynous','Genderqueer'),('Male ','Male'),('Man','Male'),('Trans woman','Male'),('msle','Male'),('Neuter','Non-Binary'),('Female (trans)','Female'),('queer','Genderqueer'),('Female (cis)','Female'),('Mail','Male'),('cis male','Male'),('A little about you','Genderqueer'),('Malr','Male'),('p','Genderqueer'),('femail','Female'),('Cis Man','Male'),('ostensibly male, unsure what that really means','Male')]
     #Convert each value in the 'Gender' column to one of the default selections; Male, Female, Non-Binary, Genderqueer
     for item in genderList:
-        genderFixDf['Gender'].replace(*item,inplace=True)
+        genderFixDf['Gender'].replace(*item)
     #Return the adjusted dataframe
     return genderFixDf
 
@@ -43,12 +43,12 @@ def ageAdjustment(dataframe):
 
 #Function to sort the rows based on country first and age second
 def dataframeSort(dataframe):
-    sortedDf = dataframe.sort_values(by=['Country', 'Age'],inplace=True)
+    sortedDf = dataframe.sort_values(by=['Country', 'Age'])
     return sortedDf
 
 #Function to sort the rows based on country first and age second
 def dataframeRename(dataframe):
-    renamedDf = dataframe.rename(columns={'family_history':'Family History'},inplace = True)
+    renamedDf = dataframe.rename(columns={'family_history':'Family History'})
     return renamedDf
 
 def dataframeCountryRename(dataframe):
