@@ -1,0 +1,1245 @@
+Age,treatment,supervisor,coworkers
+37,Yes,Yes,Some of them
+44,No,No,No
+32,No,Yes,Yes
+31,Yes,No,Some of them
+31,No,Yes,Some of them
+33,No,Yes,Yes
+35,Yes,No,Some of them
+39,No,No,No
+42,Yes,Yes,Yes
+23,No,Yes,Yes
+31,Yes,Yes,Some of them
+29,No,Yes,Yes
+42,Yes,Yes,Yes
+36,No,Yes,Yes
+27,No,Some of them,Some of them
+29,Yes,Some of them,Yes
+23,Yes,No,Some of them
+32,Yes,Yes,Some of them
+46,No,Yes,Yes
+36,No,Some of them,Some of them
+29,Yes,Some of them,Some of them
+31,No,Some of them,Some of them
+46,Yes,Yes,Some of them
+41,Yes,No,No
+33,Yes,Yes,Yes
+35,Yes,Yes,Some of them
+33,No,No,Some of them
+35,Yes,Yes,Yes
+34,Yes,No,Some of them
+37,No,No,Some of them
+32,No,Some of them,Some of them
+31,No,No,No
+30,Yes,Yes,Some of them
+42,Yes,Some of them,Some of them
+40,Yes,No,Some of them
+27,Yes,Yes,Yes
+29,No,No,Some of them
+38,No,Some of them,Some of them
+50,No,Yes,Some of them
+35,Yes,Yes,Yes
+24,Yes,No,Some of them
+35,No,No,Some of them
+27,Yes,No,Some of them
+30,Yes,No,No
+38,Yes,Yes,Some of them
+28,No,Yes,Some of them
+34,No,Yes,Yes
+26,No,Yes,Yes
+30,Yes,Yes,Some of them
+22,Yes,No,No
+33,No,Yes,Some of them
+31,No,Some of them,Some of them
+32,No,Yes,Some of them
+28,No,No,No
+27,Yes,No,No
+32,No,Yes,Yes
+24,Yes,Yes,Some of them
+26,No,Yes,Some of them
+33,Yes,No,No
+44,Yes,No,Some of them
+26,Yes,Yes,Yes
+27,No,Yes,Yes
+26,No,No,No
+35,No,Yes,Some of them
+40,No,No,Some of them
+23,Yes,Yes,Some of them
+36,No,Some of them,Some of them
+31,No,No,Some of them
+34,No,No,Some of them
+28,No,Some of them,Some of them
+34,No,Yes,Some of them
+23,No,Yes,Yes
+38,No,Yes,Some of them
+33,No,Some of them,Some of them
+19,No,No,No
+25,No,Yes,Yes
+31,No,Yes,Yes
+32,Yes,No,Some of them
+28,No,Some of them,Some of them
+38,No,Some of them,Yes
+23,No,Yes,Some of them
+30,No,Yes,Some of them
+27,Yes,Yes,Some of them
+33,No,No,No
+31,No,Yes,Some of them
+39,Yes,No,Some of them
+34,Yes,Some of them,Some of them
+29,Yes,Some of them,Some of them
+32,No,Some of them,Some of them
+31,No,Yes,Some of them
+40,Yes,Yes,Yes
+34,No,No,Some of them
+25,Yes,Yes,Some of them
+29,No,Yes,Yes
+24,No,No,Some of them
+31,Yes,Yes,Some of them
+33,Yes,No,Some of them
+30,Yes,Yes,Yes
+26,Yes,No,No
+44,No,Some of them,No
+25,No,Yes,Some of them
+33,Yes,Yes,Some of them
+29,No,Yes,Some of them
+35,No,Yes,Some of them
+35,Yes,Yes,Some of them
+28,Yes,Yes,Yes
+34,No,No,No
+32,Yes,Yes,Some of them
+22,Yes,No,No
+28,Yes,Some of them,Some of them
+45,Yes,Yes,Yes
+32,No,Some of them,Some of them
+28,No,No,Some of them
+26,No,Some of them,Some of them
+21,No,Yes,Some of them
+27,No,Yes,Some of them
+35,No,Yes,Some of them
+29,No,No,No
+25,No,Yes,Some of them
+33,Yes,Yes,Yes
+36,No,No,No
+27,Yes,Yes,Some of them
+27,No,No,Some of them
+27,No,Some of them,Some of them
+32,Yes,Yes,No
+31,No,No,No
+19,Yes,No,Some of them
+33,Yes,Some of them,Yes
+32,No,Some of them,Yes
+27,No,Yes,Yes
+38,No,Yes,Yes
+24,Yes,Yes,Some of them
+39,No,No,No
+28,No,Yes,Some of them
+39,Yes,Yes,Yes
+29,No,No,Some of them
+22,No,Some of them,Some of them
+38,Yes,Yes,Some of them
+37,Yes,No,Some of them
+35,No,No,Some of them
+30,No,Some of them,Some of them
+37,Yes,Yes,Some of them
+24,No,Some of them,No
+23,No,No,No
+30,Yes,No,Some of them
+29,No,Some of them,No
+19,No,Some of them,Some of them
+32,No,Some of them,Some of them
+28,No,Yes,Yes
+36,No,Some of them,Some of them
+37,Yes,No,Some of them
+25,Yes,Some of them,Some of them
+27,Yes,Some of them,No
+26,No,Yes,Some of them
+27,Yes,Yes,Some of them
+25,Yes,No,Some of them
+36,Yes,Some of them,Some of them
+25,Yes,Some of them,Some of them
+31,No,Some of them,Some of them
+26,No,Yes,Some of them
+33,Yes,Yes,Some of them
+27,No,Yes,Yes
+34,No,Some of them,Some of them
+42,No,Yes,Yes
+23,No,No,No
+24,No,Some of them,Some of them
+26,Yes,Yes,Yes
+31,Yes,Yes,Some of them
+22,Yes,No,No
+23,No,Yes,Some of them
+34,Yes,Yes,Some of them
+31,No,Some of them,No
+28,No,Some of them,Some of them
+32,Yes,Yes,Yes
+45,Yes,Yes,Yes
+33,No,Yes,Yes
+29,No,Yes,No
+26,No,Some of them,Some of them
+28,No,Yes,Yes
+45,Yes,Some of them,Some of them
+43,Yes,No,No
+37,No,No,Some of them
+24,No,Yes,Some of them
+26,No,No,Some of them
+23,No,Yes,Some of them
+35,Yes,No,No
+38,Yes,Some of them,Some of them
+28,Yes,No,Some of them
+28,No,No,No
+35,Yes,Yes,Some of them
+32,No,No,Some of them
+31,No,Some of them,Some of them
+35,No,No,Some of them
+26,No,Yes,Some of them
+27,No,Some of them,Some of them
+28,Yes,No,Some of them
+27,Yes,Some of them,Some of them
+34,Yes,Yes,Some of them
+41,Yes,Some of them,Some of them
+37,No,No,No
+34,No,Yes,Yes
+32,Yes,No,No
+21,Yes,Some of them,Some of them
+30,Yes,Yes,Yes
+24,No,Yes,Some of them
+26,No,No,No
+40,No,Yes,Some of them
+37,No,Yes,Some of them
+26,Yes,No,No
+32,Yes,Some of them,Some of them
+32,Yes,Yes,Yes
+27,Yes,No,Some of them
+30,Yes,Yes,Some of them
+31,No,Some of them,Some of them
+29,Yes,No,Some of them
+41,No,Some of them,No
+34,No,Yes,Yes
+33,No,Yes,Yes
+28,No,Some of them,Some of them
+28,Yes,Some of them,No
+23,No,Yes,No
+24,No,Yes,Yes
+32,No,Yes,Some of them
+34,No,No,No
+24,No,No,Some of them
+26,Yes,Some of them,Some of them
+36,Yes,Some of them,Some of them
+41,Yes,No,Some of them
+38,Yes,No,No
+38,No,Yes,Some of them
+30,No,Some of them,Some of them
+25,No,No,No
+37,Yes,Some of them,Some of them
+34,No,Yes,Some of them
+37,Yes,Some of them,Some of them
+28,Yes,Yes,Some of them
+22,No,Yes,Some of them
+34,Yes,Some of them,Some of them
+33,Yes,Yes,Some of them
+25,No,Yes,Some of them
+27,No,Yes,Some of them
+40,Yes,No,No
+21,Yes,No,No
+29,No,Yes,Yes
+32,Yes,Yes,Yes
+29,Yes,No,Some of them
+23,Yes,Some of them,Some of them
+28,No,Yes,Some of them
+31,Yes,Yes,Some of them
+27,No,Yes,Yes
+24,No,Yes,Yes
+29,No,No,No
+23,Yes,Some of them,Some of them
+42,No,Yes,Some of them
+24,No,Some of them,Some of them
+25,Yes,No,No
+27,Yes,No,Yes
+27,No,Some of them,Some of them
+30,Yes,Yes,Yes
+29,Yes,Some of them,Some of them
+43,No,Yes,Yes
+32,No,Yes,Some of them
+41,Yes,Yes,Yes
+32,Yes,Some of them,Yes
+37,Yes,Some of them,Some of them
+32,No,Yes,Yes
+30,No,Some of them,Some of them
+23,Yes,Yes,Some of them
+30,No,Yes,Some of them
+34,No,Some of them,Yes
+38,Yes,No,No
+33,No,Yes,Some of them
+34,No,No,Some of them
+28,No,Some of them,No
+28,Yes,Some of them,Some of them
+23,No,No,Some of them
+22,Yes,Yes,Some of them
+27,No,No,No
+35,Yes,Some of them,No
+25,No,Some of them,Some of them
+27,Yes,Yes,Yes
+26,Yes,Some of them,Some of them
+38,Yes,No,Some of them
+26,Yes,No,Some of them
+30,No,Yes,Yes
+35,No,Some of them,Some of them
+45,Yes,Some of them,Some of them
+32,No,Some of them,Some of them
+56,Yes,Some of them,Yes
+24,No,No,Some of them
+30,Yes,Yes,Yes
+60,No,Yes,Some of them
+33,Yes,No,No
+37,No,Yes,Some of them
+23,Yes,Some of them,Some of them
+31,Yes,Yes,Yes
+26,No,Yes,Some of them
+28,Yes,Yes,Some of them
+37,Yes,Yes,Some of them
+26,Yes,Some of them,Some of them
+30,Yes,Yes,Some of them
+26,No,Some of them,Some of them
+25,No,Yes,Some of them
+27,No,Yes,Some of them
+25,Yes,No,No
+35,Yes,Yes,Some of them
+36,Yes,Yes,Some of them
+26,Yes,No,No
+27,No,Yes,Yes
+30,No,Some of them,Some of them
+29,No,No,No
+25,No,Yes,Some of them
+22,Yes,Some of them,No
+29,No,Some of them,Some of them
+41,Yes,Yes,Some of them
+29,Yes,Some of them,Some of them
+32,No,Yes,Some of them
+24,Yes,No,Some of them
+25,Yes,No,No
+25,No,No,No
+30,No,Some of them,No
+25,Yes,Yes,Yes
+30,No,Some of them,Some of them
+33,Yes,No,No
+24,No,Some of them,Some of them
+25,Yes,No,Some of them
+31,No,No,No
+45,Yes,No,No
+29,No,Some of them,Some of them
+46,No,Some of them,Some of them
+30,Yes,No,No
+29,No,Some of them,Some of them
+24,No,No,No
+29,No,Yes,Some of them
+35,No,Yes,Yes
+33,No,Some of them,Some of them
+27,No,No,No
+36,No,Some of them,Some of them
+33,No,No,No
+25,Yes,Yes,Some of them
+23,Yes,Yes,Yes
+54,Yes,Yes,No
+22,No,No,Some of them
+25,Yes,Some of them,Some of them
+29,No,Yes,Yes
+27,Yes,No,No
+30,No,Yes,Some of them
+26,Yes,No,Some of them
+25,No,Yes,Some of them
+31,Yes,No,Some of them
+33,Yes,Some of them,Some of them
+34,Yes,No,No
+34,Yes,Some of them,Some of them
+29,No,Yes,Yes
+33,No,Some of them,Some of them
+34,Yes,Yes,Yes
+26,Yes,Yes,Some of them
+32,Yes,Yes,Some of them
+28,Yes,No,No
+35,No,Yes,Some of them
+36,Yes,Some of them,Some of them
+21,Yes,Yes,Yes
+21,Yes,No,Some of them
+22,No,Some of them,No
+41,Yes,Some of them,Yes
+55,Yes,Yes,Yes
+32,Yes,Yes,Some of them
+21,Yes,No,Some of them
+45,Yes,Some of them,No
+27,Yes,No,No
+25,Yes,Yes,Some of them
+34,Yes,Some of them,Some of them
+26,Yes,No,No
+41,Yes,Some of them,Some of them
+27,Yes,Yes,Some of them
+31,Yes,Yes,Yes
+25,Yes,Yes,Yes
+26,Yes,No,Some of them
+27,Yes,Yes,No
+42,No,Yes,Some of them
+29,Yes,No,Some of them
+25,Yes,No,Some of them
+33,Yes,No,Some of them
+40,Yes,No,No
+31,No,No,Some of them
+26,Yes,Yes,Yes
+24,No,No,No
+29,No,Some of them,Some of them
+48,No,No,No
+35,No,Yes,Some of them
+32,No,Some of them,No
+29,Yes,Some of them,Some of them
+26,Yes,Yes,Some of them
+28,Yes,No,Some of them
+23,No,Yes,Some of them
+35,Yes,Some of them,Some of them
+29,Yes,Some of them,Some of them
+26,No,Yes,Some of them
+33,Yes,Some of them,Yes
+33,No,No,Some of them
+22,No,Yes,Yes
+30,No,No,No
+33,Yes,No,No
+31,Yes,No,No
+21,No,Some of them,Some of them
+31,Yes,No,No
+26,Yes,Some of them,Some of them
+30,No,Yes,Some of them
+30,Yes,Yes,Yes
+23,No,Yes,Some of them
+34,No,Yes,Yes
+55,Yes,No,No
+28,Yes,Yes,Yes
+26,No,No,Some of them
+28,Yes,Yes,Yes
+32,Yes,Yes,Some of them
+28,Yes,No,No
+21,No,Some of them,Some of them
+24,Yes,Some of them,Some of them
+26,No,No,Some of them
+23,No,No,Yes
+24,No,Some of them,Some of them
+28,No,Yes,Some of them
+24,Yes,Some of them,No
+33,Yes,Some of them,Some of them
+34,No,Yes,Yes
+27,Yes,Some of them,Some of them
+28,No,Yes,Some of them
+26,No,Yes,Some of them
+20,No,Yes,Some of them
+23,Yes,No,Some of them
+29,Yes,Yes,Yes
+26,No,No,No
+36,No,No,No
+41,Yes,Yes,Some of them
+33,No,Yes,Some of them
+23,Yes,Yes,Yes
+39,No,Some of them,Some of them
+34,No,Some of them,Some of them
+26,Yes,Some of them,Some of them
+24,Yes,Yes,Some of them
+37,Yes,Some of them,Some of them
+43,Yes,Yes,Yes
+40,No,Some of them,No
+30,Yes,No,Some of them
+34,Yes,No,Some of them
+27,Yes,No,No
+36,No,Yes,Yes
+27,No,Some of them,Some of them
+35,No,No,No
+32,No,No,Some of them
+37,No,Some of them,Some of them
+29,No,Yes,Some of them
+33,No,Yes,Some of them
+28,No,No,Some of them
+26,No,No,Some of them
+27,Yes,Yes,Some of them
+38,Yes,Yes,Some of them
+57,Yes,Yes,Some of them
+28,Yes,Some of them,No
+26,No,Yes,Yes
+42,Yes,No,Some of them
+31,Yes,Yes,Some of them
+58,Yes,Yes,Some of them
+29,No,No,No
+39,Yes,Some of them,Some of them
+34,No,Yes,Some of them
+57,Yes,No,No
+27,Yes,No,Some of them
+23,Yes,Yes,Yes
+30,No,Yes,Some of them
+23,No,Yes,Yes
+43,Yes,No,No
+29,Yes,No,Some of them
+48,No,No,No
+43,Yes,Some of them,Some of them
+28,Yes,No,Some of them
+30,Yes,Yes,Yes
+26,No,Yes,Some of them
+33,No,Some of them,Some of them
+31,No,Some of them,No
+30,No,Some of them,Some of them
+27,No,No,Some of them
+24,Yes,Some of them,Some of them
+25,No,No,Some of them
+23,Yes,Some of them,Some of them
+36,Yes,No,Some of them
+25,Yes,No,Some of them
+54,Yes,Yes,Yes
+34,No,Some of them,Some of them
+38,Yes,No,No
+40,No,No,Some of them
+32,No,Some of them,No
+25,No,Yes,Yes
+35,Yes,No,No
+46,Yes,No,Some of them
+42,No,Yes,Yes
+32,Yes,Yes,Yes
+47,Yes,Yes,Some of them
+22,No,Yes,Some of them
+33,Yes,Some of them,Some of them
+25,No,No,Some of them
+29,No,No,No
+39,No,Yes,Yes
+38,Yes,No,No
+43,No,No,Some of them
+46,Yes,Yes,Some of them
+38,Yes,Yes,Yes
+33,Yes,Some of them,Some of them
+34,Yes,Yes,Yes
+62,No,Yes,Some of them
+23,No,Some of them,Some of them
+35,No,No,No
+25,No,No,No
+36,Yes,Yes,Some of them
+41,Yes,Some of them,Some of them
+24,No,Some of them,Some of them
+51,Yes,No,No
+29,Yes,Some of them,No
+31,Yes,Yes,Some of them
+27,No,Yes,Some of them
+31,Yes,Yes,Yes
+27,No,No,No
+23,No,Yes,Some of them
+21,No,No,No
+27,Yes,Some of them,Some of them
+39,Yes,Yes,Some of them
+26,Yes,No,No
+27,No,Some of them,Some of them
+22,Yes,Some of them,Some of them
+26,Yes,No,No
+31,Yes,Yes,Yes
+32,No,Yes,Yes
+28,Yes,Some of them,Some of them
+28,Yes,Some of them,Some of them
+23,No,Some of them,No
+30,No,Yes,Yes
+36,Yes,Yes,Some of them
+21,No,Yes,Some of them
+30,No,Some of them,Some of them
+25,No,Some of them,Some of them
+32,Yes,Yes,Some of them
+29,Yes,Some of them,Some of them
+21,Yes,Some of them,Some of them
+27,Yes,Some of them,Some of them
+32,Yes,Some of them,Some of them
+34,No,Yes,Some of them
+33,No,No,Some of them
+22,Yes,Yes,Some of them
+24,No,Some of them,Some of them
+65,No,No,Some of them
+27,Yes,No,Some of them
+33,No,Yes,Some of them
+36,Yes,Some of them,Some of them
+40,No,Some of them,Some of them
+28,Yes,No,Some of them
+39,Yes,Yes,Yes
+32,Yes,Some of them,Yes
+31,No,Some of them,No
+38,Yes,No,Some of them
+23,Yes,Yes,Some of them
+42,Yes,Yes,Yes
+27,No,Yes,Some of them
+26,Yes,Yes,Yes
+50,No,No,No
+37,No,Yes,Yes
+23,No,Yes,Yes
+33,No,Yes,Some of them
+29,No,No,Some of them
+34,Yes,Some of them,Some of them
+41,Yes,Some of them,Some of them
+50,No,Yes,Some of them
+29,Yes,No,Some of them
+35,No,Yes,Some of them
+27,No,Yes,Some of them
+40,No,Yes,Yes
+27,Yes,No,Some of them
+29,No,Some of them,Some of them
+31,Yes,Yes,Yes
+43,Yes,Yes,Yes
+34,Yes,Some of them,Some of them
+29,Yes,Some of them,Some of them
+19,Yes,No,Some of them
+41,Yes,Some of them,Some of them
+29,No,Yes,Some of them
+23,No,Some of them,Some of them
+24,Yes,No,No
+31,No,No,No
+43,No,Yes,Yes
+31,Yes,No,Some of them
+29,No,Yes,Some of them
+35,No,Yes,Yes
+33,Yes,No,No
+30,Yes,Yes,Yes
+27,No,No,No
+32,No,Some of them,Some of them
+50,No,Some of them,Some of them
+24,No,No,Some of them
+27,No,Yes,Yes
+27,No,No,No
+32,Yes,Yes,Some of them
+42,No,Yes,Some of them
+37,No,No,Some of them
+30,No,No,Some of them
+29,No,No,Some of them
+30,Yes,Yes,Yes
+35,No,Some of them,Some of them
+35,Yes,No,Some of them
+38,No,Some of them,Some of them
+22,Yes,Yes,Some of them
+24,No,Some of them,Some of them
+22,No,Yes,Some of them
+31,Yes,Some of them,Some of them
+23,Yes,No,No
+31,Yes,Some of them,Some of them
+28,Yes,Some of them,No
+37,Yes,Some of them,Some of them
+34,Yes,Some of them,Some of them
+32,No,No,Some of them
+28,Yes,Some of them,Some of them
+24,Yes,Some of them,No
+56,Yes,Some of them,Some of them
+31,No,Yes,Yes
+34,Yes,Yes,Some of them
+35,Yes,Yes,Some of them
+28,No,Some of them,Some of them
+36,Yes,Yes,Some of them
+30,Yes,Yes,Some of them
+35,No,Yes,Some of them
+49,Yes,No,No
+36,No,Yes,Some of them
+35,No,Some of them,Some of them
+29,Yes,Some of them,Some of them
+57,No,No,No
+31,Yes,No,Some of them
+37,No,No,No
+25,Yes,Some of them,Some of them
+30,No,Some of them,Some of them
+26,No,Yes,Yes
+22,No,Some of them,No
+39,No,Some of them,Some of them
+29,Yes,No,No
+54,Yes,Yes,Some of them
+34,No,No,No
+32,Yes,No,No
+25,No,Yes,Yes
+29,No,No,Some of them
+32,No,Yes,Some of them
+30,Yes,Yes,Some of them
+31,No,Yes,Some of them
+20,No,Some of them,Some of them
+27,No,Yes,Some of them
+32,No,Some of them,Some of them
+26,No,Yes,Some of them
+30,No,Some of them,Some of them
+30,Yes,No,Some of them
+22,No,Some of them,Some of them
+24,No,No,No
+26,No,No,No
+43,No,Yes,Some of them
+26,No,No,Some of them
+23,No,No,No
+26,No,Some of them,Some of them
+26,No,No,Some of them
+35,No,Some of them,Some of them
+28,Yes,Yes,Some of them
+22,No,Yes,Some of them
+29,Yes,No,No
+29,No,Yes,Yes
+45,Yes,Yes,Yes
+33,Yes,Some of them,Some of them
+38,Yes,Yes,Some of them
+19,Yes,No,No
+29,Yes,Yes,No
+21,No,No,Some of them
+23,Yes,No,No
+33,Yes,Yes,Some of them
+49,Yes,Yes,Some of them
+28,No,No,Some of them
+27,Yes,Yes,Yes
+23,Yes,Some of them,Some of them
+29,No,Yes,Yes
+30,No,No,Some of them
+28,No,Yes,Some of them
+32,No,No,No
+32,Yes,Yes,No
+37,No,Some of them,Some of them
+39,No,No,No
+31,No,No,Some of them
+29,No,No,Some of them
+30,No,Yes,Some of them
+33,Yes,Yes,Yes
+37,Yes,Yes,Yes
+23,Yes,Yes,Some of them
+43,Yes,No,No
+32,Yes,Yes,Yes
+26,No,No,Some of them
+32,Yes,Yes,Yes
+37,No,No,Some of them
+29,Yes,Yes,Yes
+34,No,Yes,Some of them
+27,No,Yes,Yes
+30,No,Yes,Some of them
+29,No,Some of them,Some of them
+32,Yes,No,Some of them
+25,No,Yes,Some of them
+37,No,Yes,Yes
+29,No,Yes,Some of them
+27,No,Yes,Yes
+33,No,Some of them,Some of them
+30,Yes,No,Some of them
+29,No,Yes,Yes
+25,Yes,Yes,Some of them
+33,Yes,Yes,Some of them
+31,No,Some of them,Some of them
+21,No,Some of them,Some of them
+30,Yes,No,No
+29,No,Yes,Yes
+43,Yes,No,Yes
+37,Yes,Yes,Yes
+24,No,Some of them,Yes
+29,No,Yes,Yes
+31,No,Yes,Yes
+33,No,Some of them,Yes
+43,No,Yes,Some of them
+33,Yes,No,Some of them
+27,No,Some of them,Yes
+36,Yes,No,No
+37,Yes,Yes,Some of them
+32,No,No,No
+39,Yes,Some of them,No
+31,Yes,Yes,Some of them
+36,Yes,Some of them,Some of them
+30,Yes,Some of them,Some of them
+28,No,Yes,Some of them
+32,No,No,Some of them
+35,Yes,Yes,Some of them
+19,Yes,Yes,Some of them
+33,No,Yes,Some of them
+42,No,No,Some of them
+37,Yes,Some of them,Some of them
+40,No,Yes,Some of them
+36,No,Yes,Some of them
+29,Yes,Yes,Some of them
+38,Yes,No,No
+26,Yes,No,No
+34,No,Some of them,No
+21,Yes,Some of them,Some of them
+31,No,No,No
+37,Yes,Some of them,Yes
+37,Yes,Yes,Yes
+38,Yes,No,No
+27,Yes,No,Some of them
+39,No,Yes,Some of them
+33,Yes,No,Some of them
+27,No,No,Some of them
+36,Yes,Some of them,Some of them
+28,No,Yes,Some of them
+39,Yes,Some of them,Some of them
+33,Yes,Yes,Yes
+32,No,Some of them,Some of them
+28,No,Some of them,Some of them
+37,Yes,Yes,Some of them
+39,Yes,Yes,Some of them
+43,No,No,No
+32,Yes,Some of them,Yes
+27,No,Yes,Some of them
+31,No,Yes,Yes
+43,Yes,Yes,Yes
+33,Yes,Yes,Yes
+34,Yes,Yes,Some of them
+33,No,Yes,Yes
+25,No,Yes,Some of them
+25,Yes,Some of them,Some of them
+32,No,Yes,No
+25,Yes,Some of them,Some of them
+37,No,Yes,Yes
+39,Yes,Some of them,Some of them
+29,No,Yes,Some of them
+33,Yes,Some of them,Some of them
+37,Yes,Some of them,Some of them
+35,Yes,Some of them,No
+22,Yes,Some of them,Some of them
+38,No,Yes,Some of them
+32,Yes,Yes,Some of them
+28,No,Yes,Some of them
+27,No,Yes,Some of them
+35,Yes,No,Some of them
+29,No,Yes,Yes
+23,Yes,Yes,Some of them
+39,No,No,No
+30,No,No,Some of them
+32,No,Some of them,Some of them
+28,Yes,Some of them,Some of them
+40,Yes,Yes,Some of them
+36,No,Some of them,No
+27,No,Yes,Yes
+41,No,Some of them,Some of them
+29,No,No,Some of them
+29,Yes,Some of them,Some of them
+35,Yes,Some of them,Some of them
+28,Yes,Some of them,Some of them
+36,No,No,Some of them
+39,No,No,No
+39,Yes,Yes,Some of them
+44,Yes,No,Some of them
+26,Yes,Some of them,Some of them
+35,Yes,Some of them,Some of them
+40,Yes,No,Some of them
+35,Yes,Some of them,Some of them
+38,No,No,No
+34,No,Yes,Some of them
+43,No,Yes,Some of them
+48,No,Some of them,No
+20,No,Yes,Some of them
+40,No,No,Some of them
+29,Yes,No,Some of them
+35,Yes,Yes,Some of them
+29,No,No,Some of them
+40,No,Some of them,Some of them
+29,Yes,Yes,Some of them
+29,Yes,Yes,Yes
+34,Yes,No,No
+44,Yes,Yes,Some of them
+24,Yes,Yes,Some of them
+47,No,No,No
+43,No,Yes,Some of them
+36,No,Yes,Some of them
+43,Yes,Yes,Some of them
+36,No,Yes,Yes
+31,Yes,Yes,Yes
+35,No,No,Some of them
+33,No,Some of them,Some of them
+37,No,No,Some of them
+34,Yes,No,Some of them
+36,Yes,No,Yes
+40,Yes,Yes,Yes
+40,No,Some of them,Some of them
+42,Yes,No,No
+23,No,Some of them,No
+21,No,Some of them,Some of them
+26,No,Some of them,Some of them
+31,No,Some of them,Some of them
+25,No,Yes,Some of them
+51,No,Yes,Yes
+24,No,Yes,Some of them
+33,No,Yes,Some of them
+32,Yes,No,Some of them
+32,Yes,No,Some of them
+26,Yes,Yes,Yes
+23,No,Some of them,Some of them
+33,Yes,Yes,Some of them
+46,Yes,No,No
+34,No,No,No
+35,Yes,Some of them,Some of them
+39,No,Yes,Some of them
+32,No,Some of them,Some of them
+43,No,Yes,Some of them
+56,Yes,Yes,Yes
+32,Yes,Some of them,Some of them
+41,No,Some of them,Some of them
+39,No,Yes,Some of them
+37,No,No,No
+30,Yes,No,No
+31,No,Some of them,Some of them
+29,No,Some of them,No
+23,No,No,No
+31,Yes,No,No
+29,Yes,Some of them,Some of them
+30,No,Yes,Some of them
+37,No,Yes,Some of them
+36,No,Yes,Some of them
+35,Yes,No,Some of them
+41,No,No,No
+31,Yes,Yes,Some of them
+38,No,Yes,Some of them
+26,No,Yes,Some of them
+39,No,Yes,Some of them
+42,No,No,Some of them
+32,Yes,No,Some of them
+29,No,Yes,Some of them
+30,No,No,Some of them
+40,Yes,Some of them,Some of them
+51,No,Yes,Some of them
+33,No,Yes,Some of them
+34,Yes,Some of them,Some of them
+50,No,Yes,Some of them
+24,No,Yes,Some of them
+25,Yes,No,No
+43,Yes,No,Some of them
+25,Yes,Some of them,Some of them
+24,No,No,No
+51,No,Some of them,Some of them
+49,Yes,No,No
+30,No,No,No
+25,Yes,No,No
+36,Yes,No,No
+48,Yes,Yes,Yes
+48,Yes,No,Some of them
+53,Yes,No,Some of them
+24,Yes,Yes,Yes
+33,Yes,Yes,Yes
+25,Yes,Yes,Some of them
+30,Yes,No,Some of them
+30,No,Some of them,Some of them
+34,Yes,Some of them,Some of them
+31,No,Yes,Some of them
+22,Yes,No,No
+28,No,Yes,Some of them
+35,Yes,Some of them,Some of them
+28,Yes,Some of them,Some of them
+42,Yes,Some of them,Some of them
+33,No,Yes,Yes
+29,No,No,No
+43,No,Some of them,No
+29,No,Some of them,Some of them
+25,No,Yes,Yes
+31,No,Yes,Some of them
+35,Yes,Yes,Some of them
+34,No,Yes,Some of them
+43,Yes,No,Some of them
+38,Yes,Some of them,No
+26,Yes,Some of them,Some of them
+38,Yes,No,No
+42,Yes,No,No
+33,Yes,Yes,Yes
+32,Yes,Some of them,Some of them
+44,Yes,Yes,Some of them
+28,Yes,No,Some of them
+40,Yes,Some of them,Some of them
+31,Yes,Yes,Some of them
+32,No,No,Some of them
+28,Yes,No,Some of them
+39,Yes,No,Some of them
+45,No,Some of them,Some of them
+43,Yes,Yes,Yes
+35,Yes,Some of them,Some of them
+40,Yes,Some of them,Some of them
+34,Yes,Yes,Yes
+24,Yes,Yes,Some of them
+61,Yes,Yes,Some of them
+36,Yes,No,Some of them
+38,No,Yes,Some of them
+33,Yes,Yes,Some of them
+30,No,No,No
+34,Yes,Some of them,Yes
+26,Yes,Some of them,Some of them
+33,No,Yes,Some of them
+32,No,Yes,No
+25,No,Yes,Some of them
+35,Yes,No,Yes
+24,No,Some of them,Some of them
+55,Yes,Some of them,No
+33,Yes,Some of them,Some of them
+26,Yes,Yes,Some of them
+25,No,Yes,Yes
+45,No,No,Some of them
+33,Yes,Yes,Some of them
+43,No,No,No
+30,Yes,No,No
+40,Yes,Yes,Yes
+49,No,Yes,Yes
+29,No,Yes,Some of them
+26,No,Some of them,Some of them
+38,No,Some of them,Some of them
+27,No,Some of them,No
+26,No,No,No
+28,Yes,Yes,Yes
+40,Yes,Yes,Some of them
+37,Yes,Some of them,Some of them
+34,Yes,No,Some of them
+28,Yes,Some of them,Some of them
+27,No,Yes,Yes
+29,Yes,Yes,Yes
+39,No,No,No
+28,No,No,No
+23,No,No,No
+38,No,Yes,Some of them
+19,No,Yes,Yes
+30,Yes,No,Some of them
+28,No,No,No
+20,Yes,No,No
+35,No,Yes,Some of them
+39,Yes,Yes,Some of them
+31,No,No,No
+32,No,No,No
+27,No,No,No
+25,Yes,Yes,Yes
+42,Yes,Yes,Some of them
+34,Yes,Yes,Yes
+26,Yes,No,Some of them
+35,Yes,Some of them,Some of them
+34,No,Yes,Yes
+38,Yes,Yes,Yes
+34,No,No,Some of them
+39,Yes,Yes,Some of them
+44,No,No,No
+40,No,Yes,No
+33,No,Some of them,No
+24,No,Some of them,Some of them
+38,No,Yes,Some of them
+31,No,Some of them,Some of them
+23,No,Yes,Some of them
+26,No,Yes,Yes
+46,Yes,Some of them,Some of them
+30,Yes,No,Some of them
+25,No,Some of them,Some of them
+19,No,Some of them,Some of them
+30,Yes,Some of them,Some of them
+32,No,Yes,Yes
+32,No,No,No
+37,No,Some of them,Some of them
+42,Yes,Some of them,Some of them
+25,No,Yes,Some of them
+19,No,Yes,Some of them
+40,No,No,No
+34,No,Yes,Some of them
+26,No,Yes,Some of them
+31,Yes,Yes,Yes
+40,No,Some of them,Some of them
+31,Yes,No,No
+36,No,No,No
+35,No,Some of them,No
+26,Yes,Yes,Yes
+44,No,No,Some of them
+34,No,Yes,Some of them
+35,No,No,No
+28,Yes,Some of them,Some of them
+33,No,Yes,Some of them
+40,Yes,No,No
+26,Yes,No,Some of them
+29,Yes,No,Some of them
+26,Yes,No,Some of them
+33,Yes,Yes,Some of them
+28,No,Some of them,Some of them
+41,Yes,Some of them,Some of them
+39,Yes,Yes,Yes
+26,Yes,Yes,Some of them
+23,No,Some of them,No
+35,Yes,Some of them,Some of them
+36,No,Some of them,Some of them
+42,No,No,Some of them
+39,Yes,Yes,Some of them
+27,No,Yes,Some of them
+33,No,Yes,Some of them
+31,Yes,No,Some of them
+28,Yes,Some of them,Some of them
+29,Yes,Yes,Some of them
+27,Yes,No,Some of them
+44,No,No,No
+25,Yes,No,Some of them
+24,Yes,Yes,Yes
+25,Yes,Yes,Some of them
+34,No,Some of them,No
+26,No,Yes,No
+48,No,Yes,Some of them
+34,No,No,Some of them
+39,Yes,Some of them,Some of them
+43,No,No,No
+41,No,No,Some of them
+25,No,Yes,Some of them
+31,Yes,No,Some of them
+40,Yes,No,No
+43,Yes,Some of them,Some of them
+27,Yes,Some of them,Yes
+37,Yes,No,No
+32,Yes,Yes,Some of them
+25,Yes,Yes,Yes
+29,Yes,Yes,Yes
+30,Yes,No,No
+34,Yes,Some of them,Some of them
+32,Yes,Some of them,Some of them
+37,No,Yes,Yes
+41,Yes,Yes,Yes
+38,No,No,Some of them
+32,Yes,Yes,Some of them
+28,Yes,Some of them,Some of them
+43,No,Some of them,Some of them
+32,Yes,Yes,Yes
+25,Yes,No,No
+37,Yes,Yes,No
+36,Yes,No,No
+24,Yes,Yes,Yes
+40,Yes,Some of them,Some of them
+29,No,Yes,Some of them
+43,No,Some of them,Yes
+29,No,Yes,Some of them
+26,No,No,Some of them
+33,Yes,No,No
+35,No,Some of them,Yes
+45,No,No,Some of them
+25,Yes,Some of them,No
+50,Yes,Yes,Some of them
+26,Yes,Yes,Yes
+33,Yes,No,No
+30,No,Some of them,Some of them
+33,Yes,Yes,Some of them
+29,Yes,Some of them,Yes
+37,No,No,Some of them
+25,Yes,Yes,Yes
+40,No,Some of them,Some of them
+24,No,No,No
+40,Yes,Some of them,Yes
+46,Yes,Some of them,No
+38,Yes,Yes,No
+34,No,No,No
+32,Yes,Yes,Some of them
+44,Yes,Some of them,Some of them
+33,Yes,Some of them,Some of them
+45,Yes,Some of them,Some of them
+35,No,No,No
+26,Yes,Yes,Yes
+20,Yes,Some of them,Some of them
+37,No,Yes,Some of them
+28,No,No,No
+42,Yes,Some of them,Some of them
+32,No,No,No
+36,Yes,No,Some of them
+27,No,No,No
+27,No,No,No
+27,Yes,Yes,Yes
+25,Yes,Yes,Some of them
+41,No,Some of them,Some of them
+23,Yes,No,No
+21,Yes,No,Some of them
+26,Yes,Yes,Yes
+29,No,No,No
+28,No,No,No
+27,No,No,No
+23,No,Yes,Yes
+26,No,No,No
+38,Yes,Yes,Some of them
+39,Yes,Yes,Some of them
+35,Yes,Some of them,No
+32,No,Some of them,No
+32,Yes,Some of them,Some of them
+26,No,No,Some of them
+38,Yes,Yes,Yes
+34,No,Yes,Some of them
+39,Yes,Some of them,Some of them
+32,No,Yes,Yes
+37,No,Some of them,Some of them
+31,Yes,Some of them,Some of them
+30,Yes,No,No
+51,No,No,No
+29,Yes,Some of them,Some of them
+31,No,No,Some of them
+31,No,No,No
+26,Yes,Some of them,Some of them
+46,Yes,Some of them,Some of them
+32,No,Yes,Yes
+29,Yes,No,Some of them
+34,No,Some of them,Some of them
+26,No,No,No
+32,Yes,No,Some of them
+29,No,Yes,Some of them
+30,No,No,No
+40,Yes,Yes,Yes
+23,Yes,Yes,Yes
+20,No,No,Some of them
+38,No,Yes,Some of them
+26,Yes,No,No
+29,No,Yes,Some of them
+40,No,Some of them,Some of them
+25,Yes,Some of them,Yes
+32,Yes,No,Some of them
+38,Yes,No,Some of them
+72,Yes,Yes,Some of them
+35,Yes,Some of them,Some of them
+28,Yes,Some of them,Some of them
+27,No,Yes,Some of them
+56,No,No,No
+38,Yes,Some of them,Some of them
+31,No,Some of them,Some of them
+40,Yes,No,Some of them
+44,Yes,Some of them,Some of them
+34,No,No,No
+37,No,Yes,Some of them
+38,No,Yes,Some of them
+27,No,Yes,Some of them
+34,Yes,Some of them,Some of them
+35,No,No,Some of them
+34,Yes,Yes,Some of them
+32,Yes,No,Some of them
+25,No,Yes,Some of them
+28,Yes,No,No
+28,Yes,No,Some of them
+31,Yes,Yes,Yes
+24,No,Yes,Some of them
+34,Yes,Yes,Some of them
+32,Yes,Yes,Some of them
+34,No,Yes,Some of them
+23,Yes,Yes,Some of them
+33,No,Yes,Some of them
+29,Yes,No,No
+24,No,No,No
+45,No,Some of them,Yes
+34,Yes,Yes,Some of them
+31,No,No,Some of them
+33,Yes,No,Some of them
+28,No,Some of them,Some of them
+27,No,Yes,Some of them
+42,No,Some of them,Some of them
+28,No,Some of them,Some of them
+38,Yes,Yes,Yes
+46,Yes,No,Some of them
+46,Yes,Yes,Some of them
+41,Yes,Yes,Yes
+23,No,Some of them,Some of them
+24,Yes,No,Some of them
+23,Yes,Some of them,Yes
+39,No,Some of them,No
+32,No,Some of them,Some of them
+25,Yes,Some of them,Some of them
+39,No,No,No
+23,Yes,Yes,Yes
+24,Yes,Some of them,Some of them
+25,Yes,Yes,Yes
+23,Yes,Yes,Yes
+24,Yes,No,No
+23,Yes,Some of them,Yes
+60,Yes,No,Some of them
+28,No,No,No
+28,Yes,Yes,Some of them
+30,No,Yes,Yes
+31,Yes,No,Some of them
+31,Yes,No,Some of them
+28,Yes,No,No
+43,Yes,Yes,Some of them
+32,No,Yes,Some of them
+22,Yes,Yes,No
+32,No,Some of them,No
+36,Yes,No,Some of them
+41,Yes,No,No
+30,Yes,Yes,Yes
+30,Yes,Yes,Some of them
+36,Yes,Yes,Some of them
+29,Yes,No,Some of them
+36,No,Some of them,Some of them
+26,Yes,Some of them,Some of them
+32,Yes,Yes,Some of them
+34,Yes,No,No
+46,No,No,No
+25,Yes,No,Some of them
