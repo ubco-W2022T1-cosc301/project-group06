@@ -1,0 +1,1257 @@
+Age,Gender,work_interfere,coworkers,supervisor,mental_health_consequence,treatment,gender_alignment,gender_type
+37.0,F,Often,Some of them,Yes,No,Yes,FA,Cis
+44.0,M,Rarely,No,No,Maybe,No,MA,Cis
+32.0,M,Rarely,Yes,Yes,No,No,MA,Cis
+31.0,M,Often,Some of them,No,Yes,Yes,MA,Cis
+31.0,M,Never,Some of them,Yes,No,No,MA,Cis
+33.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+35.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+39.0,M,Never,No,No,No,No,MA,Cis
+42.0,F,Sometimes,Yes,Yes,Maybe,Yes,FA,Cis
+23.0,M,Never,Yes,Yes,No,No,MA,Cis
+31.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+29.0,M,Never,Yes,Yes,No,No,MA,Cis
+42.0,F,Sometimes,Yes,Yes,Yes,Yes,FA,Cis
+36.0,M,Never,Yes,Yes,No,No,MA,Cis
+27.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+29.0,F,Rarely,Yes,Some of them,No,Yes,FA,Cis
+23.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+32.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+46.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+36.0,M,,Some of them,Some of them,No,No,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+31.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+46.0,M,Often,Some of them,Yes,Maybe,Yes,MA,Cis
+41.0,M,Never,No,No,Maybe,Yes,MA,Cis
+33.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+35.0,M,Sometimes,Some of them,Yes,Yes,Yes,MA,Cis
+33.0,M,,Some of them,No,Maybe,No,MA,Cis
+35.0,F,Rarely,Yes,Yes,No,Yes,FA,Cis
+34.0,M,Sometimes,Some of them,No,No,Yes,MA,Cis
+37.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+32.0,M,Never,Some of them,Some of them,Yes,No,MA,Cis
+31.0,M,Rarely,No,No,Yes,No,MA,Cis
+30.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+42.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+40.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+27.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+29.0,M,Rarely,Some of them,No,Yes,No,MA,Cis
+38.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+50.0,M,,Some of them,Yes,No,No,MA,Cis
+35.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+24.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+35.0,M,,Some of them,No,Yes,No,MA,Cis
+27.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+18.0,M,Often,No,Some of them,Yes,No,MA,Cis
+30.0,M,Sometimes,No,No,No,Yes,MA,Cis
+38.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+28.0,M,,Some of them,Yes,No,No,MA,Cis
+34.0,M,,Yes,Yes,No,No,MA,Cis
+26.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+30.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+22.0,M,Often,No,No,Maybe,Yes,MA,Cis
+33.0,M,,Some of them,Yes,No,No,MA,Cis
+31.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+32.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+28.0,M,,No,No,No,No,MA,Cis
+27.0,TM,Rarely,No,No,Maybe,Yes,MA,Trans
+32.0,M,,Yes,Yes,No,No,MA,Cis
+24.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+26.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Often,No,No,Yes,Yes,MA,Cis
+44.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+26.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+27.0,M,Never,Yes,Yes,No,No,MA,Cis
+26.0,M,,No,No,Yes,No,MA,Cis
+35.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+40.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+23.0,F,Often,Some of them,Yes,No,Yes,FA,Cis
+36.0,M,Sometimes,Some of them,Some of them,Maybe,No,MA,Cis
+31.0,F,,Some of them,No,Maybe,No,FA,Cis
+34.0,M,Rarely,Some of them,No,Maybe,No,MA,Cis
+28.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+34.0,M,Never,Some of them,Yes,No,No,MA,Cis
+23.0,TF,Rarely,Yes,Yes,Maybe,No,FA,Trans
+38.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+19.0,M,,No,No,Yes,No,MA,Cis
+25.0,M,,Yes,Yes,No,No,MA,Cis
+31.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+32.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+28.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+38.0,M,Sometimes,Yes,Some of them,No,No,MA,Cis
+23.0,M,Never,Some of them,Yes,No,No,MA,Cis
+30.0,M,Never,Some of them,Yes,No,No,MA,Cis
+27.0,F,Often,Some of them,Yes,Maybe,Yes,FA,Cis
+33.0,M,Never,No,No,Yes,No,MA,Cis
+31.0,M,,Some of them,Yes,No,No,MA,Cis
+39.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+34.0,F,Rarely,Some of them,Some of them,Yes,Yes,FA,Cis
+29.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+32.0,M,,Some of them,Some of them,No,No,MA,Cis
+31.0,M,Never,Some of them,Yes,No,No,MA,Cis
+40.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+34.0,M,,Some of them,No,Maybe,No,MA,Cis
+18.0,TM,,Yes,Yes,No,No,MA,Trans
+25.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+29.0,M,Never,Yes,Yes,No,No,MA,Cis
+24.0,M,Rarely,Some of them,No,Maybe,No,MA,Cis
+31.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+33.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+30.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+26.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+44.0,F,Never,No,Some of them,Maybe,No,FA,Cis
+25.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+29.0,M,Never,Some of them,Yes,No,No,MA,Cis
+35.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+35.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+28.0,M,Rarely,Yes,Yes,Maybe,Yes,MA,Cis
+34.0,M,Never,No,No,Maybe,No,MA,Cis
+32.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+22.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+28.0,M,Sometimes,Some of them,Some of them,No,Yes,MA,Cis
+45.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+32.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+28.0,M,,Some of them,No,Maybe,No,MA,Cis
+26.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+21.0,M,Often,Some of them,Yes,Yes,No,MA,Cis
+27.0,M,Rarely,Some of them,Yes,Maybe,No,MA,Cis
+18.0,M,Rarely,Some of them,No,No,Yes,MA,Cis
+35.0,M,,Some of them,Yes,No,No,MA,Cis
+29.0,M,Never,No,No,Yes,No,MA,Cis
+25.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+36.0,M,Often,No,No,Maybe,No,MA,Cis
+27.0,M,Never,Some of them,Yes,Maybe,Yes,MA,Cis
+27.0,M,Never,Some of them,No,Yes,No,MA,Cis
+27.0,M,,Some of them,Some of them,No,No,MA,Cis
+32.0,M,Rarely,No,Yes,Yes,Yes,MA,Cis
+31.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+19.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+33.0,M,Sometimes,Yes,Some of them,Maybe,Yes,MA,Cis
+32.0,M,Rarely,Yes,Some of them,Maybe,No,MA,Cis
+27.0,M,Never,Yes,Yes,No,No,MA,Cis
+38.0,M,,Yes,Yes,No,No,MA,Cis
+24.0,M,Never,Some of them,Yes,No,Yes,MA,Cis
+39.0,M,Never,No,No,Yes,No,MA,Cis
+28.0,M,Never,Some of them,Yes,No,No,MA,Cis
+39.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+29.0,F,,Some of them,No,Maybe,No,FA,Cis
+22.0,M,,Some of them,Some of them,No,No,MA,Cis
+38.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+37.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+35.0,M,Never,Some of them,No,Yes,No,MA,Cis
+,M,,Some of them,Yes,No,No,MA,Cis
+30.0,F,,Some of them,Some of them,Maybe,No,FA,Cis
+37.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+24.0,M,Never,No,Some of them,Maybe,No,MA,Cis
+23.0,M,Sometimes,No,No,Yes,No,MA,Cis
+30.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+29.0,F,,No,Some of them,Maybe,No,FA,Cis
+19.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+32.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+28.0,M,Rarely,Yes,Yes,No,No,MA,Cis
+36.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+37.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+25.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+27.0,M,Sometimes,No,Some of them,No,Yes,MA,Cis
+26.0,M,Often,Some of them,Yes,Yes,No,MA,Cis
+27.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+25.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+36.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+25.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+31.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+26.0,M,Rarely,Some of them,Yes,Maybe,No,MA,Cis
+33.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+27.0,F,,Yes,Yes,No,No,FA,Cis
+34.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+42.0,M,,Yes,Yes,Maybe,No,MA,Cis
+23.0,M,Sometimes,No,No,Yes,No,MA,Cis
+24.0,M,Rarely,Some of them,Some of them,Maybe,No,MA,Cis
+26.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+31.0,M,Often,Some of them,Yes,Maybe,Yes,MA,Cis
+22.0,M,Never,No,No,Yes,Yes,MA,Cis
+23.0,F,,Some of them,Yes,Maybe,No,FA,Cis
+34.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+31.0,M,Never,No,Some of them,Maybe,No,MA,Cis
+28.0,M,,Some of them,Some of them,No,No,MA,Cis
+32.0,F,Often,Yes,Yes,No,Yes,FA,Cis
+45.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+33.0,M,,Yes,Yes,No,No,MA,Cis
+29.0,M,Never,No,Yes,Maybe,No,MA,Cis
+26.0,F,Sometimes,Some of them,Some of them,Maybe,No,FA,Cis
+28.0,F,Never,Yes,Yes,No,No,FA,Cis
+45.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+43.0,M,Often,No,No,Yes,Yes,MA,Cis
+37.0,M,,Some of them,No,Yes,No,MA,Cis
+24.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+26.0,M,,Some of them,No,No,No,MA,Cis
+23.0,M,,Some of them,Yes,No,No,MA,Cis
+35.0,F,Never,No,No,Maybe,Yes,FA,Cis
+38.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+28.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+28.0,M,Sometimes,No,No,Yes,No,MA,Cis
+35.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+32.0,F,Sometimes,Some of them,No,Yes,No,FA,Cis
+31.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+35.0,F,Never,Some of them,No,Maybe,No,FA,Cis
+26.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+27.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+28.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+27.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+34.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+41.0,M,Often,Some of them,Some of them,Maybe,Yes,MA,Cis
+37.0,M,Sometimes,No,No,Yes,No,MA,Cis
+34.0,M,,Yes,Yes,No,No,MA,Cis
+32.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+21.0,M,Sometimes,Some of them,Some of them,No,Yes,MA,Cis
+30.0,M,Often,Yes,Yes,Maybe,Yes,MA,Cis
+24.0,M,Never,Some of them,Yes,No,No,MA,Cis
+26.0,M,,No,No,Yes,No,MA,Cis
+40.0,F,,Some of them,Yes,No,No,FA,Cis
+37.0,M,Sometimes,Some of them,Yes,Yes,No,MA,Cis
+26.0,M,Often,No,No,Yes,Yes,MA,Cis
+32.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+32.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+27.0,F,Sometimes,Some of them,No,No,Yes,FA,Cis
+30.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+31.0,M,,Some of them,Some of them,No,No,MA,Cis
+29.0,F,Never,Some of them,No,Maybe,Yes,FA,Cis
+41.0,M,,No,Some of them,Yes,No,MA,Cis
+34.0,F,,Yes,Yes,No,No,FA,Cis
+33.0,M,,Yes,Yes,No,No,MA,Cis
+28.0,M,Rarely,Some of them,Some of them,No,No,MA,Cis
+28.0,M,Sometimes,No,Some of them,Yes,Yes,MA,Cis
+23.0,M,Never,No,Yes,No,No,MA,Cis
+24.0,M,,Yes,Yes,No,No,MA,Cis
+32.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+34.0,M,Sometimes,No,No,Yes,No,MA,Cis
+24.0,M,Never,Some of them,No,Maybe,No,MA,Cis
+26.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+36.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+41.0,M,Rarely,Some of them,No,Maybe,Yes,MA,Cis
+38.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+38.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+30.0,M,,Some of them,Some of them,No,No,MA,Cis
+25.0,M,Never,No,No,Yes,No,MA,Cis
+37.0,M,Often,Some of them,Some of them,Maybe,Yes,MA,Cis
+34.0,M,,Some of them,Yes,No,No,MA,Cis
+37.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+28.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+22.0,M,,Some of them,Yes,No,No,MA,Cis
+34.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+33.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+25.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+27.0,M,Never,Some of them,Yes,No,No,MA,Cis
+40.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+21.0,M,Often,No,No,Maybe,Yes,MA,Cis
+29.0,M,,Yes,Yes,No,No,MA,Cis
+32.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+29.0,F,Rarely,Some of them,No,Maybe,Yes,FA,Cis
+23.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+28.0,M,,Some of them,Yes,No,No,MA,Cis
+31.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+27.0,M,,Yes,Yes,Maybe,No,MA,Cis
+24.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+29.0,M,Often,No,No,Yes,No,MA,Cis
+23.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+42.0,M,Never,Some of them,Yes,No,No,MA,Cis
+24.0,M,,Some of them,Some of them,Yes,No,MA,Cis
+25.0,M,Often,No,No,Yes,Yes,MA,Cis
+27.0,F,Rarely,Yes,No,Maybe,Yes,FA,Cis
+27.0,M,Sometimes,Some of them,Some of them,Yes,No,MA,Cis
+30.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+29.0,M,Rarely,Some of them,Some of them,Maybe,Yes,MA,Cis
+43.0,M,,Yes,Yes,Maybe,No,MA,Cis
+32.0,M,,Some of them,Yes,No,No,MA,Cis
+41.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+32.0,M,Sometimes,Yes,Some of them,Maybe,Yes,MA,Cis
+37.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+32.0,M,Never,Yes,Yes,No,No,MA,Cis
+30.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+23.0,F,Never,Some of them,Yes,No,Yes,FA,Cis
+30.0,M,,Some of them,Yes,No,No,MA,Cis
+34.0,M,Sometimes,Yes,Some of them,Maybe,No,MA,Cis
+38.0,M,Rarely,No,No,Yes,Yes,MA,Cis
+33.0,M,,Some of them,Yes,No,No,MA,Cis
+34.0,M,,Some of them,No,Maybe,No,MA,Cis
+28.0,M,Sometimes,No,Some of them,Maybe,No,MA,Cis
+28.0,M,Rarely,Some of them,Some of them,Maybe,Yes,MA,Cis
+23.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+22.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+27.0,M,Never,No,No,Yes,No,MA,Cis
+18.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+35.0,M,Sometimes,No,Some of them,Yes,Yes,MA,Cis
+25.0,M,,Some of them,Some of them,No,No,MA,Cis
+27.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+26.0,F,Rarely,Some of them,Some of them,Maybe,Yes,FA,Cis
+18.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+38.0,F,Sometimes,Some of them,No,No,Yes,FA,Cis
+26.0,F,Rarely,Some of them,No,Maybe,Yes,FA,Cis
+30.0,M,Never,Yes,Yes,No,No,MA,Cis
+35.0,M,Never,Some of them,Some of them,Yes,No,MA,Cis
+45.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+32.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+56.0,M,Never,Yes,Some of them,No,Yes,MA,Cis
+24.0,F,,Some of them,No,Maybe,No,FA,Cis
+30.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+60.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+37.0,M,Never,Some of them,Yes,No,No,MA,Cis
+23.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+31.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+26.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+28.0,F,Often,Some of them,Yes,Yes,Yes,FA,Cis
+37.0,F,Rarely,Some of them,Yes,No,Yes,FA,Cis
+26.0,M,Often,Some of them,Some of them,Maybe,Yes,MA,Cis
+30.0,TF,Rarely,Some of them,Yes,Maybe,Yes,FA,Trans
+26.0,M,,Some of them,Some of them,No,No,MA,Cis
+25.0,M,,Some of them,Yes,No,No,MA,Cis
+27.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+25.0,M,Often,No,No,Yes,Yes,MA,Cis
+35.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+36.0,M,Never,Some of them,Yes,Maybe,Yes,MA,Cis
+26.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+27.0,M,,Yes,Yes,No,No,MA,Cis
+30.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+29.0,M,,No,No,Maybe,No,MA,Cis
+25.0,M,Never,Some of them,Yes,No,No,MA,Cis
+22.0,F,Often,No,Some of them,Maybe,Yes,FA,Cis
+29.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+41.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+32.0,M,Never,Some of them,Yes,No,No,MA,Cis
+24.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+25.0,M,Rarely,No,No,Maybe,Yes,MA,Cis
+25.0,M,,No,No,Maybe,No,MA,Cis
+30.0,F,Never,No,Some of them,Maybe,No,FA,Cis
+25.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+30.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+33.0,M,Rarely,No,No,Yes,Yes,MA,Cis
+24.0,M,,Some of them,Some of them,No,No,MA,Cis
+25.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+31.0,M,,No,No,Maybe,No,MA,Cis
+45.0,M,Often,No,No,No,Yes,MA,Cis
+29.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+46.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+30.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+29.0,F,Sometimes,Some of them,Some of them,Maybe,No,FA,Cis
+24.0,M,,No,No,Yes,No,MA,Cis
+29.0,M,,Some of them,Yes,No,No,MA,Cis
+35.0,M,,Yes,Yes,No,No,MA,Cis
+33.0,F,Sometimes,Some of them,Some of them,Yes,No,FA,Cis
+27.0,M,Sometimes,No,No,Yes,No,MA,Cis
+36.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+33.0,M,Rarely,No,No,Yes,No,MA,Cis
+25.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+23.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+54.0,M,Never,No,Yes,No,Yes,MA,Cis
+22.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+25.0,NB,Sometimes,Some of them,Some of them,Maybe,Yes,NBA,Trans
+29.0,M,Often,Yes,Yes,Maybe,No,MA,Cis
+27.0,M,Sometimes,No,No,No,Yes,MA,Cis
+30.0,M,Never,Some of them,Yes,No,No,MA,Cis
+26.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+25.0,F,Sometimes,Some of them,Yes,No,No,FA,Cis
+31.0,M,Sometimes,Some of them,No,No,Yes,MA,Cis
+33.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+34.0,M,Sometimes,No,No,Maybe,Yes,MA,Cis
+34.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+29.0,M,,Yes,Yes,No,No,MA,Cis
+33.0,F,,Some of them,Some of them,Maybe,No,FA,Cis
+34.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+26.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+32.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+28.0,M,Sometimes,No,No,Maybe,Yes,MA,Cis
+35.0,M,,Some of them,Yes,No,No,MA,Cis
+36.0,M,Often,Some of them,Some of them,No,Yes,MA,Cis
+21.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+21.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+22.0,F,,No,Some of them,No,No,FA,Cis
+41.0,M,Often,Yes,Some of them,Maybe,Yes,MA,Cis
+55.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+32.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+21.0,F,Rarely,Some of them,No,Yes,Yes,FA,Cis
+45.0,M,Never,No,Some of them,Maybe,Yes,MA,Cis
+27.0,F,Rarely,No,No,Yes,Yes,FA,Cis
+25.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+34.0,F,Rarely,Some of them,Some of them,Maybe,Yes,FA,Cis
+26.0,F,Never,No,No,Maybe,Yes,FA,Cis
+41.0,M,Never,Some of them,Some of them,No,Yes,MA,Cis
+27.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+31.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+25.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+26.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+27.0,F,Rarely,No,Yes,Maybe,Yes,FA,Cis
+42.0,M,Never,Some of them,Yes,No,No,MA,Cis
+25.0,F,Sometimes,Some of them,No,Yes,Yes,FA,Cis
+33.0,F,Rarely,Some of them,No,Maybe,Yes,FA,Cis
+,NB,Often,No,No,Yes,Yes,NBA,Trans
+40.0,F,Rarely,No,No,Maybe,Yes,FA,Cis
+31.0,M,Never,Some of them,No,Yes,No,MA,Cis
+26.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+24.0,F,,No,No,Yes,No,FA,Cis
+29.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+48.0,M,,No,No,Maybe,No,MA,Cis
+35.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+32.0,F,Never,No,Some of them,Maybe,No,FA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+26.0,M,Often,Some of them,Yes,Maybe,Yes,MA,Cis
+28.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+23.0,M,,Some of them,Yes,No,No,MA,Cis
+35.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+26.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Never,Yes,Some of them,Yes,Yes,MA,Cis
+33.0,M,,Some of them,No,Yes,No,MA,Cis
+22.0,M,Never,Yes,Yes,No,No,MA,Cis
+30.0,F,,No,No,Yes,No,FA,Cis
+33.0,M,Often,No,No,Yes,Yes,MA,Cis
+31.0,F,Rarely,No,No,Yes,Yes,FA,Cis
+21.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+31.0,NB,Sometimes,No,No,Yes,Yes,NBA,Trans
+26.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+30.0,M,Often,Some of them,Yes,Maybe,No,MA,Cis
+30.0,NB,Sometimes,Yes,Yes,No,Yes,NBA,Trans
+23.0,M,,Some of them,Yes,No,No,MA,Cis
+34.0,M,Never,Yes,Yes,No,No,MA,Cis
+55.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+28.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+26.0,M,,Some of them,No,No,No,MA,Cis
+28.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+32.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+28.0,F,Rarely,No,No,Maybe,Yes,FA,Cis
+21.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+24.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+26.0,F,,Some of them,No,Maybe,No,FA,Cis
+23.0,M,,Yes,No,No,No,MA,Cis
+24.0,F,,Some of them,Some of them,No,No,FA,Cis
+28.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+24.0,F,Rarely,No,Some of them,Yes,Yes,FA,Cis
+33.0,M,Often,Some of them,Some of them,Yes,Yes,MA,Cis
+34.0,M,Sometimes,Yes,Yes,Maybe,No,MA,Cis
+27.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+28.0,M,Never,Some of them,Yes,No,No,MA,Cis
+26.0,M,,Some of them,Yes,No,No,MA,Cis
+20.0,M,,Some of them,Yes,No,No,MA,Cis
+23.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+29.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+26.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+36.0,M,Rarely,No,No,Maybe,No,MA,Cis
+41.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+33.0,F,,Some of them,Yes,No,No,FA,Cis
+23.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+39.0,M,Often,Some of them,Some of them,Yes,No,MA,Cis
+34.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+26.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+24.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+37.0,M,Rarely,Some of them,Some of them,Maybe,Yes,MA,Cis
+43.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+40.0,NB,Never,No,Some of them,Yes,No,NBA,Trans
+30.0,M,Often,Some of them,No,Yes,Yes,MA,Cis
+34.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+27.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+36.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+27.0,M,Rarely,Some of them,Some of them,Maybe,No,MA,Cis
+35.0,M,Never,No,No,Yes,No,MA,Cis
+32.0,M,Never,Some of them,No,Maybe,No,MA,Cis
+37.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+29.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,F,Never,Some of them,Yes,Maybe,No,FA,Cis
+28.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+26.0,F,Never,Some of them,No,Maybe,No,FA,Cis
+27.0,M,Sometimes,Some of them,Yes,Yes,Yes,MA,Cis
+38.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+57.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+28.0,M,Sometimes,No,Some of them,Yes,Yes,MA,Cis
+26.0,M,Never,Yes,Yes,Maybe,No,MA,Cis
+42.0,F,Rarely,Some of them,No,Yes,Yes,FA,Cis
+31.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+58.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+29.0,M,Sometimes,No,No,Yes,No,MA,Cis
+39.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+34.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+57.0,M,Sometimes,No,No,Maybe,Yes,MA,Cis
+27.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+23.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+18.0,M,,No,No,Yes,No,MA,Cis
+30.0,F,,Some of them,Yes,Maybe,No,FA,Cis
+23.0,M,Never,Yes,Yes,No,No,MA,Cis
+43.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+18.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+29.0,M,Rarely,Some of them,No,Maybe,Yes,MA,Cis
+48.0,M,Never,No,No,Maybe,No,MA,Cis
+43.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+28.0,F,Sometimes,Some of them,No,Yes,Yes,FA,Cis
+30.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+26.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+33.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+31.0,M,,No,Some of them,No,No,MA,Cis
+30.0,M,Rarely,Some of them,Some of them,No,No,MA,Cis
+27.0,M,,Some of them,No,Yes,No,MA,Cis
+24.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+25.0,M,,Some of them,No,Maybe,No,MA,Cis
+23.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+36.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+25.0,F,Often,Some of them,No,Yes,Yes,FA,Cis
+54.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+34.0,M,Rarely,Some of them,Some of them,No,No,MA,Cis
+38.0,F,,No,No,Maybe,Yes,FA,Cis
+40.0,M,,Some of them,No,Yes,No,MA,Cis
+32.0,M,,No,Some of them,No,No,MA,Cis
+25.0,M,Never,Yes,Yes,No,No,MA,Cis
+35.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+46.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+42.0,M,Never,Yes,Yes,Maybe,No,MA,Cis
+32.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+47.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+22.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+25.0,F,Sometimes,Some of them,No,Maybe,No,FA,Cis
+29.0,M,,No,No,Maybe,No,MA,Cis
+39.0,M,Never,Yes,Yes,No,No,MA,Cis
+38.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+43.0,M,,Some of them,No,Maybe,No,MA,Cis
+46.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+38.0,F,Sometimes,Yes,Yes,Maybe,Yes,FA,Cis
+33.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+34.0,M,Often,Yes,Yes,Maybe,Yes,MA,Cis
+62.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+23.0,F,,Some of them,Some of them,Maybe,No,FA,Cis
+35.0,M,,No,No,Maybe,No,MA,Cis
+25.0,M,Rarely,No,No,Maybe,No,MA,Cis
+36.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+41.0,F,Rarely,Some of them,Some of them,Maybe,Yes,FA,Cis
+24.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+51.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+29.0,M,Sometimes,No,Some of them,No,Yes,MA,Cis
+31.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+27.0,M,,Some of them,Yes,No,No,MA,Cis
+31.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+27.0,F,Sometimes,No,No,Yes,No,FA,Cis
+23.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+21.0,M,Never,No,No,Yes,No,MA,Cis
+27.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+39.0,M,Often,Some of them,Yes,Yes,Yes,MA,Cis
+26.0,M,Never,No,No,Maybe,Yes,MA,Cis
+27.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+22.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+26.0,F,Often,No,No,Maybe,Yes,FA,Cis
+31.0,F,Rarely,Yes,Yes,No,Yes,FA,Cis
+32.0,M,Never,Yes,Yes,No,No,MA,Cis
+28.0,F,Often,Some of them,Some of them,Yes,Yes,FA,Cis
+28.0,NB,Rarely,Some of them,Some of them,Yes,Yes,NBA,Trans
+23.0,F,,No,Some of them,Maybe,No,FA,Cis
+30.0,M,Never,Yes,Yes,No,No,MA,Cis
+36.0,M,Sometimes,Some of them,Yes,Yes,Yes,MA,Cis
+21.0,M,,Some of them,Yes,No,No,MA,Cis
+30.0,M,Often,Some of them,Some of them,Maybe,No,MA,Cis
+25.0,F,,Some of them,Some of them,Maybe,No,FA,Cis
+32.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+29.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+21.0,NB,Sometimes,Some of them,Some of them,Maybe,Yes,NBA,Trans
+27.0,F,Rarely,Some of them,Some of them,Maybe,Yes,FA,Cis
+32.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+34.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+33.0,M,,Some of them,No,Yes,No,MA,Cis
+22.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+24.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+65.0,M,,Some of them,No,Maybe,No,MA,Cis
+27.0,M,Sometimes,Some of them,No,No,Yes,MA,Cis
+33.0,M,Never,Some of them,Yes,No,No,MA,Cis
+36.0,M,Rarely,Some of them,Some of them,No,Yes,MA,Cis
+40.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+28.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+39.0,M,Sometimes,Yes,Yes,Yes,Yes,MA,Cis
+32.0,M,Sometimes,Yes,Some of them,No,Yes,MA,Cis
+31.0,M,Sometimes,No,Some of them,Maybe,No,MA,Cis
+38.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+23.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+42.0,M,Often,Yes,Yes,Maybe,Yes,MA,Cis
+27.0,F,Sometimes,Some of them,Yes,No,No,FA,Cis
+26.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+50.0,M,Never,No,No,No,No,MA,Cis
+37.0,M,Never,Yes,Yes,No,No,MA,Cis
+23.0,M,,Yes,Yes,No,No,MA,Cis
+33.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+29.0,M,Never,Some of them,No,Yes,No,MA,Cis
+34.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+41.0,M,Often,Some of them,Some of them,Maybe,Yes,MA,Cis
+50.0,M,,Some of them,Yes,No,No,MA,Cis
+29.0,M,Never,Some of them,No,Maybe,Yes,MA,Cis
+35.0,M,Never,Some of them,Yes,No,No,MA,Cis
+27.0,M,Sometimes,Some of them,Yes,Yes,No,MA,Cis
+40.0,F,Never,Yes,Yes,Maybe,No,FA,Cis
+27.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+29.0,F,Never,Some of them,Some of them,Maybe,No,FA,Cis
+31.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+43.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+34.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+19.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+41.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+29.0,M,Never,Some of them,Yes,No,No,MA,Cis
+23.0,M,Rarely,Some of them,Some of them,No,No,MA,Cis
+24.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+31.0,M,,No,No,Yes,No,MA,Cis
+43.0,M,,Yes,Yes,No,No,MA,Cis
+31.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+29.0,M,Often,Some of them,Yes,No,No,MA,Cis
+35.0,M,,Yes,Yes,No,No,MA,Cis
+33.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+30.0,F,Often,Yes,Yes,No,Yes,FA,Cis
+27.0,M,,No,No,Maybe,No,MA,Cis
+32.0,M,Sometimes,Some of them,Some of them,Maybe,No,MA,Cis
+50.0,M,Sometimes,Some of them,Some of them,Yes,No,MA,Cis
+24.0,M,Never,Some of them,No,Maybe,No,MA,Cis
+27.0,M,,Yes,Yes,No,No,MA,Cis
+27.0,M,Never,No,No,Yes,No,MA,Cis
+32.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+42.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+37.0,M,Often,Some of them,No,Maybe,No,MA,Cis
+30.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+29.0,M,Rarely,Some of them,No,Yes,No,MA,Cis
+30.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+35.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+35.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+38.0,M,Often,Some of them,Some of them,Maybe,No,MA,Cis
+22.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+24.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+22.0,M,Never,Some of them,Yes,No,No,MA,Cis
+31.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+23.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+31.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+28.0,F,Rarely,No,Some of them,Maybe,Yes,FA,Cis
+37.0,TM,Sometimes,Some of them,Some of them,Yes,Yes,MA,Trans
+34.0,M,Sometimes,Some of them,Some of them,No,Yes,MA,Cis
+32.0,TM,Sometimes,Some of them,No,Yes,No,MA,Trans
+28.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+24.0,F,Sometimes,No,Some of them,Maybe,Yes,FA,Cis
+56.0,M,Rarely,Some of them,Some of them,Yes,Yes,MA,Cis
+31.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+34.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+35.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+28.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+36.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+30.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+35.0,M,,Some of them,Yes,No,No,MA,Cis
+49.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+36.0,M,,Some of them,Yes,No,No,MA,Cis
+35.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+29.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+57.0,M,Never,No,No,Yes,No,MA,Cis
+31.0,F,Rarely,Some of them,No,Maybe,Yes,FA,Cis
+37.0,M,Never,No,No,Yes,No,MA,Cis
+25.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+30.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+26.0,F,Sometimes,Yes,Yes,No,No,FA,Cis
+22.0,F,Often,No,Some of them,No,No,FA,Cis
+39.0,M,Rarely,Some of them,Some of them,No,No,MA,Cis
+29.0,M,Never,No,No,Maybe,Yes,MA,Cis
+54.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+34.0,F,Never,No,No,Yes,No,FA,Cis
+32.0,M,Never,No,No,Maybe,Yes,MA,Cis
+25.0,M,,Yes,Yes,Maybe,No,MA,Cis
+29.0,M,Rarely,Some of them,No,No,No,MA,Cis
+32.0,M,Never,Some of them,Yes,No,No,MA,Cis
+30.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+31.0,M,,Some of them,Yes,No,No,MA,Cis
+20.0,F,Rarely,Some of them,Some of them,No,No,FA,Cis
+27.0,M,Never,Some of them,Yes,No,No,MA,Cis
+32.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+26.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+30.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+30.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+22.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+24.0,M,,No,No,No,No,MA,Cis
+26.0,M,Never,No,No,Maybe,No,MA,Cis
+43.0,M,,Some of them,Yes,No,No,MA,Cis
+26.0,M,Never,Some of them,No,No,No,MA,Cis
+23.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+26.0,M,,Some of them,Some of them,No,No,MA,Cis
+26.0,F,Never,Some of them,No,Maybe,No,FA,Cis
+35.0,M,Sometimes,Some of them,Some of them,Maybe,No,MA,Cis
+28.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+22.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+29.0,F,Rarely,No,No,Yes,Yes,FA,Cis
+29.0,M,,Yes,Yes,No,No,MA,Cis
+45.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+33.0,M,Rarely,Some of them,Some of them,Maybe,Yes,MA,Cis
+38.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+19.0,TF,Often,No,No,Maybe,Yes,FA,Trans
+29.0,F,Rarely,No,Yes,No,Yes,FA,Cis
+21.0,F,,Some of them,No,Yes,No,FA,Cis
+23.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+33.0,F,Rarely,Some of them,Yes,No,Yes,FA,Cis
+49.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+28.0,M,,Some of them,No,Maybe,No,MA,Cis
+27.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+23.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+29.0,M,Never,Yes,Yes,No,No,MA,Cis
+30.0,M,,Some of them,No,No,No,MA,Cis
+28.0,F,,Some of them,Yes,No,No,FA,Cis
+32.0,M,,No,No,Yes,No,MA,Cis
+32.0,M,Sometimes,No,Yes,No,Yes,MA,Cis
+37.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+39.0,F,,No,No,Yes,No,FA,Cis
+31.0,M,,Some of them,No,Maybe,No,MA,Cis
+29.0,M,,Some of them,No,Maybe,No,MA,Cis
+30.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+33.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+37.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+23.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+43.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+32.0,M,Rarely,Yes,Yes,Maybe,Yes,MA,Cis
+26.0,M,Never,Some of them,No,Yes,No,MA,Cis
+32.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+37.0,F,,Some of them,No,Yes,No,FA,Cis
+29.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+34.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+27.0,M,,Yes,Yes,No,No,MA,Cis
+30.0,M,Never,Some of them,Yes,No,No,MA,Cis
+29.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+32.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+,M,Sometimes,No,No,Yes,Yes,MA,Cis
+25.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+37.0,M,,Yes,Yes,No,No,MA,Cis
+29.0,M,,Some of them,Yes,No,No,MA,Cis
+27.0,M,,Yes,Yes,No,No,MA,Cis
+33.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+30.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+29.0,M,,Yes,Yes,Maybe,No,MA,Cis
+25.0,M,Never,Some of them,Yes,Yes,Yes,MA,Cis
+33.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+31.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+21.0,M,Rarely,Some of them,Some of them,Maybe,No,MA,Cis
+30.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+29.0,M,,Yes,Yes,No,No,MA,Cis
+43.0,M,Sometimes,Yes,No,Yes,Yes,MA,Cis
+37.0,M,Often,Yes,Yes,Yes,Yes,MA,Cis
+24.0,M,,Yes,Some of them,Maybe,No,MA,Cis
+29.0,M,,Yes,Yes,No,No,MA,Cis
+31.0,M,,Yes,Yes,No,No,MA,Cis
+,M,,Yes,Yes,No,No,MA,Cis
+33.0,M,Never,Yes,Some of them,No,No,MA,Cis
+43.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+27.0,M,,Yes,Some of them,Maybe,No,MA,Cis
+36.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+37.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+32.0,M,,No,No,Yes,No,MA,Cis
+39.0,M,Sometimes,No,Some of them,No,Yes,MA,Cis
+31.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+36.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+30.0,M,Sometimes,Some of them,Some of them,No,Yes,MA,Cis
+28.0,M,,Some of them,Yes,No,No,MA,Cis
+32.0,M,,Some of them,No,Maybe,No,MA,Cis
+35.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+19.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+33.0,M,,Some of them,Yes,No,No,MA,Cis
+42.0,M,,Some of them,No,No,No,MA,Cis
+37.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+40.0,M,Never,Some of them,Yes,No,No,MA,Cis
+36.0,M,Never,Some of them,Yes,No,No,MA,Cis
+29.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+38.0,F,Sometimes,No,No,Maybe,Yes,FA,Cis
+26.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+34.0,M,Rarely,No,Some of them,Maybe,No,MA,Cis
+21.0,M,Often,Some of them,Some of them,Yes,Yes,MA,Cis
+31.0,M,Sometimes,No,No,No,No,MA,Cis
+37.0,F,Rarely,Yes,Some of them,Maybe,Yes,FA,Cis
+37.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+38.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+27.0,F,Sometimes,Some of them,No,Yes,Yes,FA,Cis
+39.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+27.0,M,Never,Some of them,No,No,No,MA,Cis
+36.0,F,Never,Some of them,Some of them,Maybe,Yes,FA,Cis
+28.0,M,Never,Some of them,Yes,No,No,MA,Cis
+39.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+33.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+32.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+28.0,M,,Some of them,Some of them,No,No,MA,Cis
+37.0,M,Rarely,Some of them,Yes,Yes,Yes,MA,Cis
+39.0,M,Sometimes,Some of them,Yes,Yes,Yes,MA,Cis
+43.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+32.0,NB,Sometimes,Yes,Some of them,No,Yes,NBA,Trans
+27.0,F,,Some of them,Yes,Maybe,No,FA,Cis
+31.0,F,,Yes,Yes,No,No,FA,Cis
+43.0,M,Never,Yes,Yes,No,Yes,MA,Cis
+33.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+34.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+33.0,M,,Yes,Yes,No,No,MA,Cis
+25.0,M,,Some of them,Yes,No,No,MA,Cis
+25.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+32.0,M,,No,Yes,No,No,MA,Cis
+25.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+37.0,M,,Yes,Yes,Maybe,No,MA,Cis
+39.0,M,Never,Some of them,Some of them,No,Yes,MA,Cis
+29.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+33.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+37.0,F,Often,Some of them,Some of them,Yes,Yes,FA,Cis
+35.0,F,Sometimes,No,Some of them,Yes,Yes,FA,Cis
+22.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+38.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+32.0,F,Often,Some of them,Yes,Yes,Yes,FA,Cis
+28.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+27.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+35.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+29.0,M,Never,Yes,Yes,Yes,No,MA,Cis
+23.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+39.0,M,,No,No,Yes,No,MA,Cis
+30.0,F,,Some of them,No,No,No,FA,Cis
+32.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+28.0,TF,Sometimes,Some of them,Some of them,Yes,Yes,FA,Trans
+40.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+36.0,F,,No,Some of them,No,No,FA,Cis
+27.0,M,,Yes,Yes,No,No,MA,Cis
+41.0,M,Sometimes,Some of them,Some of them,Maybe,No,MA,Cis
+29.0,M,Never,Some of them,No,Maybe,No,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,No,Yes,MA,Cis
+35.0,M,Often,Some of them,Some of them,Yes,Yes,MA,Cis
+28.0,M,Never,Some of them,Some of them,Maybe,Yes,MA,Cis
+36.0,F,Sometimes,Some of them,No,Maybe,No,FA,Cis
+39.0,F,Sometimes,No,No,Yes,No,FA,Cis
+39.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+44.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+26.0,NB,Sometimes,Some of them,Some of them,No,Yes,NBA,Trans
+35.0,M,Often,Some of them,Some of them,No,Yes,MA,Cis
+40.0,F,Sometimes,Some of them,No,Yes,Yes,FA,Cis
+35.0,M,Often,Some of them,Some of them,No,Yes,MA,Cis
+38.0,M,Never,No,No,Yes,No,MA,Cis
+34.0,M,,Some of them,Yes,No,No,MA,Cis
+43.0,M,,Some of them,Yes,No,No,MA,Cis
+48.0,F,Often,No,Some of them,Yes,No,FA,Cis
+20.0,M,Never,Some of them,Yes,No,No,MA,Cis
+40.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+29.0,F,Rarely,Some of them,No,Maybe,Yes,FA,Cis
+35.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+29.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+40.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+29.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+29.0,F,Rarely,Yes,Yes,No,Yes,FA,Cis
+34.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+44.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+24.0,F,Often,Some of them,Yes,No,Yes,FA,Cis
+47.0,F,,No,No,Yes,No,FA,Cis
+43.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+36.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+43.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+36.0,M,Sometimes,Yes,Yes,No,No,MA,Cis
+31.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+35.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+33.0,M,,Some of them,Some of them,No,No,MA,Cis
+37.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+34.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+36.0,M,Sometimes,Yes,No,No,Yes,MA,Cis
+40.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+40.0,M,Rarely,Some of them,Some of them,No,No,MA,Cis
+42.0,M,Sometimes,No,No,Maybe,Yes,MA,Cis
+23.0,M,,No,Some of them,Maybe,No,MA,Cis
+21.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+26.0,M,Sometimes,Some of them,Some of them,Yes,No,MA,Cis
+31.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+25.0,M,,Some of them,Yes,No,No,MA,Cis
+51.0,M,Never,Yes,Yes,No,No,MA,Cis
+24.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+32.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+32.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+26.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+23.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+33.0,M,Often,Some of them,Yes,Yes,Yes,MA,Cis
+46.0,M,Rarely,No,No,Yes,Yes,MA,Cis
+34.0,M,,No,No,Yes,No,MA,Cis
+35.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+39.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+32.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+43.0,M,,Some of them,Yes,No,No,MA,Cis
+56.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+32.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+41.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+39.0,M,,Some of them,Yes,No,No,MA,Cis
+37.0,M,,No,No,Maybe,No,MA,Cis
+30.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+31.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+29.0,M,,No,Some of them,Maybe,No,MA,Cis
+23.0,F,Never,No,No,Yes,No,FA,Cis
+31.0,M,Never,No,No,Maybe,Yes,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+30.0,M,Never,Some of them,Yes,No,No,MA,Cis
+37.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+36.0,M,Never,Some of them,Yes,No,No,MA,Cis
+35.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+41.0,M,Never,No,No,Maybe,No,MA,Cis
+31.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+38.0,M,,Some of them,Yes,No,No,MA,Cis
+26.0,M,,Some of them,Yes,No,No,MA,Cis
+39.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+42.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+32.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+29.0,M,,Some of them,Yes,No,No,MA,Cis
+30.0,M,Never,Some of them,No,Yes,No,MA,Cis
+40.0,M,Often,Some of them,Some of them,Maybe,Yes,MA,Cis
+51.0,M,,Some of them,Yes,No,No,MA,Cis
+33.0,M,Never,Some of them,Yes,No,No,MA,Cis
+34.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+50.0,M,Never,Some of them,Yes,No,No,MA,Cis
+24.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+25.0,M,Rarely,No,No,Yes,Yes,MA,Cis
+43.0,M,Rarely,Some of them,No,Yes,Yes,MA,Cis
+25.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+24.0,M,,No,No,No,No,MA,Cis
+51.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+49.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+30.0,M,,No,No,Yes,No,MA,Cis
+25.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+36.0,M,Rarely,No,No,Maybe,Yes,MA,Cis
+48.0,M,Never,Yes,Yes,Maybe,Yes,MA,Cis
+48.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+53.0,M,Rarely,Some of them,No,Maybe,Yes,MA,Cis
+24.0,F,Often,Yes,Yes,No,Yes,FA,Cis
+33.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+25.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+30.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+30.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+34.0,M,Sometimes,Some of them,Some of them,No,Yes,MA,Cis
+31.0,M,,Some of them,Yes,No,No,MA,Cis
+22.0,F,Often,No,No,Yes,Yes,FA,Cis
+28.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+35.0,M,Rarely,Some of them,Some of them,Maybe,Yes,MA,Cis
+28.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+42.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+33.0,M,,Yes,Yes,No,No,MA,Cis
+29.0,M,Sometimes,No,No,Yes,No,MA,Cis
+43.0,M,Sometimes,No,Some of them,Maybe,No,MA,Cis
+29.0,M,,Some of them,Some of them,No,No,MA,Cis
+25.0,M,,Yes,Yes,No,No,MA,Cis
+31.0,M,Never,Some of them,Yes,No,No,MA,Cis
+35.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+34.0,M,Often,Some of them,Yes,No,No,MA,Cis
+43.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+38.0,M,Sometimes,No,Some of them,Yes,Yes,MA,Cis
+26.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+38.0,M,Rarely,No,No,Maybe,Yes,MA,Cis
+42.0,M,Often,No,No,Yes,Yes,MA,Cis
+33.0,M,,Yes,Yes,No,Yes,MA,Cis
+32.0,M,Rarely,Some of them,Some of them,Maybe,Yes,MA,Cis
+44.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+28.0,M,Rarely,Some of them,No,Maybe,Yes,MA,Cis
+40.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+31.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+32.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+28.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+39.0,M,Often,Some of them,No,Yes,Yes,MA,Cis
+45.0,M,,Some of them,Some of them,No,No,MA,Cis
+43.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+35.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+40.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+34.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+24.0,M,Often,Some of them,Yes,Yes,Yes,MA,Cis
+61.0,M,Sometimes,Some of them,Yes,Yes,Yes,MA,Cis
+36.0,F,Rarely,Some of them,No,Yes,Yes,FA,Cis
+38.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+33.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+30.0,M,Never,No,No,Yes,No,MA,Cis
+34.0,M,Rarely,Yes,Some of them,No,Yes,MA,Cis
+26.0,M,Rarely,Some of them,Some of them,No,Yes,MA,Cis
+33.0,M,,Some of them,Yes,No,No,MA,Cis
+32.0,M,,No,Yes,No,No,MA,Cis
+25.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+35.0,M,Sometimes,Yes,No,Yes,Yes,MA,Cis
+24.0,M,Often,Some of them,Some of them,Maybe,No,MA,Cis
+55.0,M,Often,No,Some of them,Yes,Yes,MA,Cis
+33.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+26.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+25.0,M,Never,Yes,Yes,No,No,MA,Cis
+45.0,M,Rarely,Some of them,No,Maybe,No,MA,Cis
+33.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+43.0,M,Sometimes,No,No,Yes,No,MA,Cis
+30.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+40.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+49.0,M,Never,Yes,Yes,No,No,MA,Cis
+29.0,M,,Some of them,Yes,No,No,MA,Cis
+26.0,M,,Some of them,Some of them,No,No,MA,Cis
+38.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+27.0,M,,No,Some of them,Maybe,No,MA,Cis
+26.0,M,Never,No,No,Maybe,No,MA,Cis
+28.0,M,Often,Yes,Yes,Maybe,Yes,MA,Cis
+40.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+37.0,F,Rarely,Some of them,Some of them,Yes,Yes,FA,Cis
+34.0,F,Often,Some of them,No,Yes,Yes,FA,Cis
+28.0,M,Often,Some of them,Some of them,Maybe,Yes,MA,Cis
+27.0,M,Never,Yes,Yes,No,No,MA,Cis
+29.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+39.0,F,Rarely,No,No,Yes,No,FA,Cis
+28.0,M,Often,No,No,Yes,No,MA,Cis
+23.0,M,Sometimes,No,No,No,No,MA,Cis
+38.0,M,,Some of them,Yes,No,No,MA,Cis
+19.0,M,,Yes,Yes,No,No,MA,Cis
+30.0,F,Sometimes,Some of them,No,No,Yes,FA,Cis
+28.0,M,,No,No,Maybe,No,MA,Cis
+20.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+35.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+39.0,M,Rarely,Some of them,Yes,Maybe,Yes,MA,Cis
+31.0,F,Never,No,No,Yes,No,FA,Cis
+32.0,M,Rarely,No,No,Yes,No,MA,Cis
+27.0,M,,No,No,No,No,MA,Cis
+25.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+42.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+34.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+26.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+35.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+34.0,M,Never,Yes,Yes,Maybe,No,MA,Cis
+38.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+34.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+39.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+44.0,F,,No,No,Yes,No,FA,Cis
+40.0,M,,No,Yes,Maybe,No,MA,Cis
+33.0,F,Never,No,Some of them,Maybe,No,FA,Cis
+24.0,F,Sometimes,Some of them,Some of them,Yes,No,FA,Cis
+38.0,F,Sometimes,Some of them,Yes,No,No,FA,Cis
+31.0,M,Sometimes,Some of them,Some of them,Yes,No,MA,Cis
+23.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+26.0,F,,Yes,Yes,No,No,FA,Cis
+46.0,TF,Often,Some of them,Some of them,Yes,Yes,FA,Trans
+30.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+25.0,M,Rarely,Some of them,Some of them,Yes,No,MA,Cis
+19.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+30.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+32.0,M,Never,Yes,Yes,No,No,MA,Cis
+32.0,M,,No,No,Maybe,No,MA,Cis
+37.0,M,Sometimes,Some of them,Some of them,Maybe,No,MA,Cis
+42.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+25.0,F,Never,Some of them,Yes,Maybe,No,FA,Cis
+19.0,M,Sometimes,Some of them,Yes,No,No,MA,Cis
+40.0,F,Never,No,No,Yes,No,FA,Cis
+34.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+26.0,M,,Some of them,Yes,No,No,MA,Cis
+31.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+40.0,M,Sometimes,Some of them,Some of them,Yes,No,MA,Cis
+31.0,F,Often,No,No,Yes,Yes,FA,Cis
+36.0,M,Never,No,No,Yes,No,MA,Cis
+35.0,M,Sometimes,No,Some of them,Maybe,No,MA,Cis
+26.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+44.0,M,,Some of them,No,Yes,No,MA,Cis
+34.0,F,Sometimes,Some of them,Yes,No,No,FA,Cis
+35.0,M,,No,No,No,No,MA,Cis
+28.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+33.0,M,,Some of them,Yes,No,No,MA,Cis
+40.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+26.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+29.0,F,Often,Some of them,No,Maybe,Yes,FA,Cis
+26.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+33.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+28.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+41.0,M,Often,Some of them,Some of them,No,Yes,MA,Cis
+39.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+26.0,F,Sometimes,Some of them,Yes,No,Yes,FA,Cis
+23.0,F,Sometimes,No,Some of them,Yes,No,FA,Cis
+35.0,M,Often,Some of them,Some of them,No,Yes,MA,Cis
+36.0,M,Never,Some of them,Some of them,No,No,MA,Cis
+42.0,M,Rarely,Some of them,No,Maybe,No,MA,Cis
+39.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+27.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+33.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+31.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+28.0,F,Rarely,Some of them,Some of them,No,Yes,FA,Cis
+29.0,F,Often,Some of them,Yes,No,Yes,FA,Cis
+27.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+44.0,M,Never,No,No,No,No,MA,Cis
+25.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+24.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+25.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+34.0,M,Never,No,Some of them,Maybe,No,MA,Cis
+26.0,M,Never,No,Yes,Maybe,No,MA,Cis
+48.0,M,Never,Some of them,Yes,Maybe,No,MA,Cis
+34.0,M,,Some of them,No,Yes,No,MA,Cis
+39.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+43.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+41.0,M,Rarely,Some of them,No,Maybe,No,MA,Cis
+25.0,M,Never,Some of them,Yes,No,No,MA,Cis
+31.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+40.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+43.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+27.0,F,Often,Yes,Some of them,Maybe,Yes,FA,Cis
+37.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+32.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+25.0,M,Often,Yes,Yes,Maybe,Yes,MA,Cis
+29.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+30.0,F,Often,No,No,Yes,Yes,FA,Cis
+34.0,F,Often,Some of them,Some of them,No,Yes,FA,Cis
+32.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+37.0,M,,Yes,Yes,No,No,MA,Cis
+41.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+38.0,M,Never,Some of them,No,Yes,No,MA,Cis
+32.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+28.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+,M,Never,Some of them,Some of them,No,No,MA,Cis
+43.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+32.0,M,Often,Yes,Yes,Yes,Yes,MA,Cis
+25.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+37.0,M,Sometimes,No,Yes,No,Yes,MA,Cis
+36.0,M,Sometimes,No,No,No,Yes,MA,Cis
+24.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+40.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+29.0,M,,Some of them,Yes,No,No,MA,Cis
+43.0,M,Never,Yes,Some of them,No,No,MA,Cis
+29.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+26.0,M,Sometimes,Some of them,No,Maybe,No,MA,Cis
+33.0,F,Often,No,No,Yes,Yes,FA,Cis
+35.0,F,Sometimes,Yes,Some of them,No,No,FA,Cis
+45.0,M,Never,Some of them,No,Yes,No,MA,Cis
+25.0,M,Rarely,No,Some of them,Maybe,Yes,MA,Cis
+50.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+26.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+33.0,F,Often,No,No,Yes,Yes,FA,Cis
+30.0,M,Often,Some of them,Some of them,Maybe,No,MA,Cis
+33.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+29.0,M,Often,Yes,Some of them,Maybe,Yes,MA,Cis
+37.0,M,,Some of them,No,Maybe,No,MA,Cis
+25.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+40.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+24.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+40.0,M,Never,Yes,Some of them,Maybe,Yes,MA,Cis
+46.0,M,Sometimes,No,Some of them,Yes,Yes,MA,Cis
+38.0,M,Rarely,No,Yes,Yes,Yes,MA,Cis
+34.0,M,Never,No,No,Yes,No,MA,Cis
+32.0,M,Rarely,Some of them,Yes,No,Yes,MA,Cis
+44.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+33.0,F,Never,Some of them,Some of them,Maybe,Yes,FA,Cis
+45.0,F,Rarely,Some of them,Some of them,No,Yes,FA,Cis
+35.0,M,,No,No,No,No,MA,Cis
+26.0,M,Often,Yes,Yes,Maybe,Yes,MA,Cis
+20.0,F,Sometimes,Some of them,Some of them,No,Yes,FA,Cis
+37.0,M,Sometimes,Some of them,Yes,Maybe,No,MA,Cis
+28.0,M,,No,No,Maybe,No,MA,Cis
+42.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+32.0,M,,No,No,Maybe,No,MA,Cis
+36.0,F,Rarely,Some of them,No,Maybe,Yes,FA,Cis
+27.0,M,Rarely,No,No,Yes,No,MA,Cis
+27.0,M,Rarely,No,No,Yes,No,MA,Cis
+27.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+25.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+41.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+23.0,M,Sometimes,No,No,Maybe,Yes,MA,Cis
+21.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+26.0,M,Often,Yes,Yes,No,Yes,MA,Cis
+29.0,M,Rarely,No,No,Maybe,No,MA,Cis
+28.0,M,Sometimes,No,No,Yes,No,MA,Cis
+27.0,F,,No,No,Maybe,No,FA,Cis
+23.0,M,Never,Yes,Yes,No,No,MA,Cis
+26.0,F,Sometimes,No,No,Maybe,No,FA,Cis
+38.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+39.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+35.0,M,Often,No,Some of them,Yes,Yes,MA,Cis
+32.0,M,Rarely,No,Some of them,Maybe,No,MA,Cis
+32.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+26.0,M,Never,Some of them,No,Yes,No,MA,Cis
+38.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+34.0,F,Rarely,Some of them,Yes,No,No,FA,Cis
+39.0,M,Often,Some of them,Some of them,Yes,Yes,MA,Cis
+32.0,M,Never,Yes,Yes,No,No,MA,Cis
+37.0,M,Never,Some of them,Some of them,Yes,No,MA,Cis
+31.0,M,Never,Some of them,Some of them,No,Yes,MA,Cis
+30.0,M,Rarely,No,No,No,Yes,MA,Cis
+51.0,M,Never,No,No,Yes,No,MA,Cis
+29.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+31.0,M,Never,Some of them,No,Maybe,No,MA,Cis
+31.0,M,,No,No,Yes,No,MA,Cis
+26.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+46.0,F,Often,Some of them,Some of them,Maybe,Yes,FA,Cis
+32.0,M,Sometimes,Yes,Yes,Maybe,No,MA,Cis
+29.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+34.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+26.0,M,Often,No,No,Yes,No,MA,Cis
+32.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+29.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+30.0,M,,No,No,Yes,No,MA,Cis
+40.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+23.0,M,Sometimes,Yes,Yes,Maybe,Yes,MA,Cis
+20.0,M,Rarely,Some of them,No,Yes,No,MA,Cis
+38.0,M,,Some of them,Yes,No,No,MA,Cis
+26.0,F,Rarely,No,No,Maybe,Yes,FA,Cis
+29.0,M,Never,Some of them,Yes,No,No,MA,Cis
+40.0,M,Sometimes,Some of them,Some of them,No,No,MA,Cis
+25.0,F,Sometimes,Yes,Some of them,Maybe,Yes,FA,Cis
+32.0,F,Sometimes,Some of them,No,Maybe,Yes,FA,Cis
+38.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+72.0,F,Never,Some of them,Yes,Maybe,Yes,FA,Cis
+35.0,F,Sometimes,Some of them,Some of them,Maybe,Yes,FA,Cis
+28.0,F,Often,Some of them,Some of them,Yes,Yes,FA,Cis
+27.0,F,Never,Some of them,Yes,No,No,FA,Cis
+56.0,F,Rarely,No,No,Maybe,No,FA,Cis
+38.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+31.0,F,,Some of them,Some of them,Maybe,No,FA,Cis
+40.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+44.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+34.0,M,Sometimes,No,No,Maybe,No,MA,Cis
+37.0,M,Never,Some of them,Yes,No,No,MA,Cis
+38.0,M,Never,Some of them,Yes,No,No,MA,Cis
+27.0,M,,Some of them,Yes,No,No,MA,Cis
+34.0,F,Sometimes,Some of them,Some of them,Yes,Yes,FA,Cis
+35.0,F,Rarely,Some of them,No,Maybe,No,FA,Cis
+34.0,M,Often,Some of them,Yes,Yes,Yes,MA,Cis
+32.0,M,Often,Some of them,No,Yes,Yes,MA,Cis
+25.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+28.0,M,Often,No,No,Yes,Yes,MA,Cis
+28.0,F,Rarely,Some of them,No,Yes,Yes,FA,Cis
+31.0,M,,Yes,Yes,No,Yes,MA,Cis
+24.0,M,,Some of them,Yes,Maybe,No,MA,Cis
+34.0,M,Never,Some of them,Yes,Maybe,Yes,MA,Cis
+32.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+34.0,M,Often,Some of them,Yes,Maybe,No,MA,Cis
+23.0,M,Sometimes,Some of them,Yes,Maybe,Yes,MA,Cis
+33.0,M,Often,Some of them,Yes,No,No,MA,Cis
+29.0,M,Sometimes,No,No,Maybe,Yes,MA,Cis
+24.0,M,,No,No,Maybe,No,MA,Cis
+45.0,M,Never,Yes,Some of them,Yes,No,MA,Cis
+34.0,F,Sometimes,Some of them,Yes,Maybe,Yes,FA,Cis
+31.0,M,Sometimes,Some of them,No,Yes,No,MA,Cis
+33.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+28.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+27.0,M,Rarely,Some of them,Yes,No,No,MA,Cis
+42.0,M,Never,Some of them,Some of them,Yes,No,MA,Cis
+28.0,M,,Some of them,Some of them,Maybe,No,MA,Cis
+38.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+46.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+46.0,M,Sometimes,Some of them,Yes,No,Yes,MA,Cis
+41.0,F,Rarely,Yes,Yes,No,Yes,FA,Cis
+23.0,M,Never,Some of them,Some of them,Maybe,No,MA,Cis
+24.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
+23.0,F,Rarely,Yes,Some of them,No,Yes,FA,Cis
+39.0,M,,No,Some of them,Maybe,No,MA,Cis
+32.0,F,Never,Some of them,Some of them,Maybe,No,FA,Cis
+25.0,M,Sometimes,Some of them,Some of them,Yes,Yes,MA,Cis
+39.0,M,,No,No,Yes,No,MA,Cis
+23.0,F,Sometimes,Yes,Yes,No,Yes,FA,Cis
+24.0,M,Sometimes,Some of them,Some of them,Maybe,Yes,MA,Cis
+25.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+23.0,M,Rarely,Yes,Yes,No,Yes,MA,Cis
+24.0,TM,Sometimes,No,No,Yes,Yes,MA,Trans
+23.0,M,Often,Yes,Some of them,Maybe,Yes,MA,Cis
+60.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+28.0,M,Sometimes,No,No,Yes,No,MA,Cis
+28.0,M,Often,Some of them,Yes,Yes,Yes,MA,Cis
+30.0,M,Sometimes,Yes,Yes,Maybe,No,MA,Cis
+31.0,M,Sometimes,Some of them,No,No,Yes,MA,Cis
+31.0,M,Often,Some of them,No,Maybe,Yes,MA,Cis
+28.0,M,Rarely,No,No,Maybe,Yes,MA,Cis
+43.0,F,Rarely,Some of them,Yes,No,Yes,FA,Cis
+32.0,F,,Some of them,Yes,Maybe,No,FA,Cis
+22.0,M,Often,No,Yes,Maybe,Yes,MA,Cis
+32.0,M,Never,No,Some of them,No,No,MA,Cis
+36.0,M,Often,Some of them,No,Yes,Yes,MA,Cis
+41.0,F,Sometimes,No,No,Yes,Yes,FA,Cis
+30.0,M,Sometimes,Yes,Yes,No,Yes,MA,Cis
+30.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+36.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+29.0,M,Sometimes,Some of them,No,Yes,Yes,MA,Cis
+36.0,M,Rarely,Some of them,Some of them,Maybe,No,MA,Cis
+26.0,M,,Some of them,Some of them,No,Yes,MA,Cis
+32.0,M,Often,Some of them,Yes,No,Yes,MA,Cis
+34.0,M,Sometimes,No,No,Yes,Yes,MA,Cis
+46.0,F,,No,No,Yes,No,FA,Cis
+25.0,M,Sometimes,Some of them,No,Maybe,Yes,MA,Cis
