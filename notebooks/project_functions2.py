@@ -56,6 +56,10 @@ def dataframeCountryRename(dataframe):
     countryRenamedDf['Country'] = countryRenamedDf['Country'].replace(['Bahamas, The'],'Bahamas')
     return countryRenamedDf
 
+def saveData(dataframe):
+    #Write the dataframe to a CSV file in data/processed
+    dataframe.to_csv('../data/processed/sstenbackResearchQuestionData.csv',index=False)
+
 #Function to process data and fix weird values
 def processData(dataframe):
     #Call the genderAdjustment() function on the base dataframe
