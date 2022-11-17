@@ -4,9 +4,9 @@ Age,Gender,Country,Family History
 22,Male,Australia,Yes
 23,Female,Australia,Yes
 25,Male,Australia,Yes
-26,Female,Australia,Yes
-26,Male,Australia,Yes
-26,Male,Australia,Yes
+26,F,Australia,Yes
+26,male,Australia,Yes
+26,male,Australia,Yes
 27,Female,Australia,Yes
 27,Male,Australia,No
 27,Male,Australia,No
@@ -16,20 +16,20 @@ Age,Gender,Country,Family History
 31,Male,Australia,No
 33,Male,Australia,No
 34,Male,Australia,No
-34,Male,Australia,No
+34,M,Australia,No
 34,Female,Australia,Yes
-37,Male,Australia,Yes
-48,Male,Australia,No
-22,Male,Austria,No
-24,Male,Austria,No
-34,Male,Austria,Yes
-NA,Genderqueer,Bahamas,Yes
-26,Male,Belgium,No
-28,Male,Belgium,No
+37,male,Australia,Yes
+48,male,Australia,No
+22,m,Austria,No
+24,male,Austria,No
+34,male,Austria,Yes
+NA,A little about you,Bahamas,Yes
+26,male,Belgium,No
+28,male,Belgium,No
 29,Male,Belgium,No
-31,Female,Belgium,Yes
+31,female,Belgium,Yes
 31,Female,Belgium,No
-32,Male,Belgium,No
+32,male,Belgium,No
 25,Male,Bosnia and Herzegovina,Yes
 22,Male,Brazil,No
 27,Male,Brazil,No
@@ -37,32 +37,32 @@ NA,Genderqueer,Bahamas,Yes
 28,Male,Brazil,No
 28,Male,Brazil,Yes
 31,Male,Brazil,No
-25,Female,Bulgaria,No
-26,Male,Bulgaria,No
-29,Male,Bulgaria,No
-33,Male,Bulgaria,No
+25,female,Bulgaria,No
+26,male,Bulgaria,No
+29,male,Bulgaria,No
+33,male,Bulgaria,No
 19,Male,Canada,Yes
 19,Male,Canada,Yes
 19,Male,Canada,No
-19,Male,Canada,No
+19,M,Canada,No
 21,Male,Canada,No
 21,Male,Canada,No
 23,Male,Canada,No
-23,Male,Canada,Yes
-23,Male,Canada,No
+23,M,Canada,Yes
+23,male,Canada,No
 23,Male,Canada,No
 24,Male,Canada,No
 24,Male,Canada,No
-25,Female,Canada,No
+25,F,Canada,No
 25,Male,Canada,No
 25,Male,Canada,No
 25,Male,Canada,Yes
 25,Female,Canada,Yes
-26,Male,Canada,No
-26,Female,Canada,Yes
+26,m,Canada,No
+26,female,Canada,Yes
+26,male,Canada,Yes
 26,Male,Canada,Yes
-26,Male,Canada,Yes
-26,Male,Canada,No
+26,Man,Canada,No
 26,Male,Canada,No
 26,Female,Canada,Yes
 27,Male,Canada,No
@@ -74,146 +74,146 @@ NA,Genderqueer,Bahamas,Yes
 28,Female,Canada,Yes
 28,Male,Canada,No
 28,Female,Canada,No
-28,Male,Canada,No
+28,male,Canada,No
 29,Male,Canada,No
 29,Male,Canada,No
 29,Male,Canada,No
-29,Female,Canada,No
+29,female,Canada,No
+29,male,Canada,No
 29,Male,Canada,No
-29,Male,Canada,No
-29,Female,Canada,No
-29,Male,Canada,No
-30,Male,Canada,No
-30,Male,Canada,Yes
-31,Male,Canada,No
+29,female,Canada,No
+29,male,Canada,No
+30,male,Canada,No
+30,male,Canada,Yes
+31,M,Canada,No
 31,Female,Canada,Yes
 31,Male,Canada,Yes
-31,Male,Canada,Yes
+31,Male ,Canada,Yes
 32,Male,Canada,No
 32,Female,Canada,No
-32,Genderqueer,Canada,No
-32,Male,Canada,No
-33,Male,Canada,Yes
+32,male leaning androgynous,Canada,No
+32,male,Canada,No
+33,male,Canada,Yes
 33,Male,Canada,No
 33,Female,Canada,Yes
-34,Male,Canada,No
+34,male,Canada,No
 34,Female,Canada,Yes
-34,Female,Canada,Yes
+34,female,Canada,Yes
 34,Male,Canada,Yes
-35,Male,Canada,No
+35,male,Canada,No
 35,Male,Canada,Yes
 35,Male,Canada,Yes
 37,Male,Canada,Yes
 37,Male,Canada,Yes
-37,Male,Canada,Yes
+37,Guy (-ish) ^_^,Canada,Yes
 37,Female,Canada,Yes
 38,Male,Canada,Yes
-39,Male,Canada,No
+39,M,Canada,No
 39,Male,Canada,No
 40,Male,Canada,No
 41,Male,Canada,No
 43,Male,Canada,No
-40,Male,China,No
+40,m,China,No
 26,Male,Colombia,No
-28,Male,Colombia,No
+28,male,Colombia,No
 38,Male,Costa Rica,No
-33,Male,Croatia,Yes
+33,male,Croatia,Yes
 43,Male,Croatia,No
 33,Male,Czech Republic,Yes
 35,Male,Denmark,Yes
 35,Male,Denmark,Yes
-18,Male,Finland,No
+18,male,Finland,No
 34,Male,Finland,No
-36,Male,Finland,No
+36,male,Finland,No
 24,Male,France,No
 26,Male,France,No
 26,Male,France,No
-26,Male,France,No
-27,Male,France,No
+26,male,France,No
+27,male,France,No
 27,Male,France,Yes
-28,Male,France,No
-29,Male,France,No
-31,Male,France,No
+28,m,France,No
+29,M,France,No
+31,male,France,No
 36,Male,France,Yes
 37,Male,France,No
-43,Male,France,No
-50,Male,France,No
+43,male,France,No
+50,male,France,No
 20,Male,Georgia,No
-21,Male,Germany,No
+21,male,Germany,No
+23,male,Germany,Yes
 23,Male,Germany,Yes
-23,Male,Germany,Yes
-24,Male,Germany,Yes
-24,Male,Germany,Yes
+24,m,Germany,Yes
+24,male,Germany,Yes
 25,Male,Germany,Yes
 25,Male,Germany,No
 25,Male,Germany,No
-25,Male,Germany,No
-26,Genderqueer,Germany,No
-26,Male,Germany,No
+25,male,Germany,No
+26,queer,Germany,No
+26,male,Germany,No
 26,Male,Germany,Yes
 27,Male,Germany,Yes
-27,Male,Germany,No
-28,Male,Germany,No
-28,Male,Germany,Yes
-28,Male,Germany,No
-29,Male,Germany,Yes
+27,male,Germany,No
+28,m,Germany,No
+28,male,Germany,Yes
+28,male,Germany,No
+29,male,Germany,Yes
 29,Male,Germany,No
 29,Male,Germany,No
 30,Male,Germany,No
-30,Genderqueer,Germany,Yes
-30,Male,Germany,No
-30,Male,Germany,No
+30,fluid,Germany,Yes
+30,male,Germany,No
+30,m,Germany,No
 31,Male,Germany,No
-31,Male,Germany,No
-31,Male,Germany,Yes
-32,Female,Germany,No
-32,Male,Germany,No
-32,Male,Germany,No
-33,Male,Germany,Yes
+31,male,Germany,No
+31,male,Germany,Yes
+32,female,Germany,No
+32,male,Germany,No
+32,male,Germany,No
+33,male,Germany,Yes
 33,Male,Germany,No
-33,Male,Germany,Yes
-34,Male,Germany,Yes
-34,Male,Germany,No
-34,Male,Germany,No
-35,Male,Germany,No
-35,Male,Germany,No
-35,Male,Germany,No
+33,male,Germany,Yes
+34,male,Germany,Yes
+34,male,Germany,No
+34,male,Germany,No
+35,m,Germany,No
+35,male,Germany,No
+35,male,Germany,No
 36,Male,Germany,No
-37,Male,Germany,No
-37,Male,Germany,No
-41,Male,Germany,No
-42,Male,Germany,No
-43,Male,Germany,No
+37,male,Germany,No
+37,male,Germany,No
+41,male,Germany,No
+42,male,Germany,No
+43,male,Germany,No
 34,Male,Greece,No
 39,Male,Greece,No
-27,Female,Hungary,Yes
+27,female,Hungary,Yes
 20,Male,India,No
-22,Male,India,No
-22,Male,India,No
+22,M,India,No
+22,male,India,No
 22,Male,India,No
 23,Male,India,No
 23,Female,India,Yes
-26,Female,India,No
+26,f,India,No
 26,Male,India,No
 30,Male,India,No
 31,Male,India,No
-23,Male,Ireland,Yes
-23,Female,Ireland,No
-24,Male,Ireland,No
-24,Male,Ireland,Yes
-24,Male,Ireland,Yes
+23,male,Ireland,Yes
+23,female,Ireland,No
+24,male,Ireland,No
+24,male,Ireland,Yes
+24,male,Ireland,Yes
 25,Male,Ireland,Yes
-25,Male,Ireland,No
+25,male,Ireland,No
 26,Male,Ireland,No
+28,male,Ireland,No
 28,Male,Ireland,No
-28,Male,Ireland,No
+30,male,Ireland,No
 30,Male,Ireland,No
 30,Male,Ireland,No
-30,Male,Ireland,No
-32,Male,Ireland,No
+32,male,Ireland,No
 32,Female,Ireland,Yes
-34,Female,Ireland,No
-34,Male,Ireland,No
+34,female,Ireland,No
+34,male,Ireland,No
 34,Male,Ireland,Yes
 35,Female,Ireland,No
 37,Male,Ireland,No
@@ -221,90 +221,90 @@ NA,Genderqueer,Bahamas,Yes
 37,Male,Ireland,Yes
 38,Male,Ireland,Yes
 40,Male,Ireland,Yes
-42,Male,Ireland,No
+42,male,Ireland,No
 45,Male,Ireland,No
-45,Male,Ireland,No
+45,male,Ireland,No
 23,Male,Israel,No
 23,Male,Israel,No
 26,Male,Israel,No
-26,Female,Israel,Yes
+26,female,Israel,Yes
 27,Male,Israel,No
 30,Male,Italy,No
-31,Male,Italy,Yes
+31,Mal,Italy,Yes
 32,Male,Italy,No
 33,Male,Italy,No
-33,Male,Italy,Yes
+33,Malr,Italy,Yes
 37,Male,Italy,No
-38,Male,Italy,No
-49,Male,Japan,Yes
-29,Male,Latvia,No
-29,Male,Mexico,No
-31,Male,Mexico,Yes
+38,male,Italy,No
+49,male,Japan,Yes
+29,male,Latvia,No
+29,male,Mexico,No
+31,male,Mexico,Yes
 43,Male,Mexico,No
 26,Male,Moldova,No
 18,Male,Netherlands,No
 22,Male,Netherlands,Yes
-22,Male,Netherlands,No
+22,M,Netherlands,No
 22,Female,Netherlands,No
-26,Male,Netherlands,No
-28,Male,Netherlands,No
-28,Male,Netherlands,No
-29,Male,Netherlands,No
+26,m,Netherlands,No
+28,male,Netherlands,No
+28,male,Netherlands,No
+29,M,Netherlands,No
 29,Male,Netherlands,Yes
 29,Male,Netherlands,Yes
-30,Male,Netherlands,No
-30,Male,Netherlands,No
-32,Male,Netherlands,No
+30,male,Netherlands,No
+30,male,Netherlands,No
+32,male,Netherlands,No
 33,Male,Netherlands,Yes
 34,Male,Netherlands,No
 34,Male,Netherlands,No
-34,Male,Netherlands,Yes
+34,male,Netherlands,Yes
 35,Male,Netherlands,Yes
 36,Male,Netherlands,No
 37,Male,Netherlands,No
 37,Male,Netherlands,Yes
 37,Male,Netherlands,No
-38,Male,Netherlands,Yes
+38,male,Netherlands,Yes
 39,Male,Netherlands,No
 39,Male,Netherlands,No
-41,Female,Netherlands,No
-42,Female,Netherlands,No
+41,female,Netherlands,No
+42,f,Netherlands,No
 27,Female,New Zealand,Yes
-27,Male,New Zealand,No
-27,Male,New Zealand,No
+27,M,New Zealand,No
+27,M,New Zealand,No
 28,Male,New Zealand,Yes
 32,Male,New Zealand,No
 42,Male,New Zealand,No
-42,Male,New Zealand,No
+42,male,New Zealand,No
 51,Male,New Zealand,No
 25,Male,Nigeria,No
-33,Male,Norway,Yes
+33,m,Norway,Yes
 31,Male,Philippines,No
 26,Female,Poland,No
-28,Male,Poland,No
-29,Male,Poland,Yes
-29,Male,Poland,No
+28,male,Poland,No
+29,male,Poland,Yes
+29,male,Poland,No
 31,Male,Poland,No
-34,Male,Poland,No
-36,Male,Poland,Yes
-27,Male,Portugal,No
+34,male,Poland,No
+36,male,Poland,Yes
+27,male,Portugal,No
 38,Male,Portugal,No
-29,Male,Romania,No
-18,Male,Russia,No
+29,m,Romania,No
+18,something kinda male?,Russia,No
 26,Male,Russia,No
 28,Male,Russia,No
 27,Male,Singapore,No
-29,Male,Singapore,Yes
+29,male,Singapore,Yes
 30,Male,Singapore,No
-51,Male,Singapore,No
-19,Male,Slovenia,No
+51,M,Singapore,No
+19,male,Slovenia,No
 25,Male,South Africa,No
 25,Male,South Africa,Yes
 31,Male,South Africa,No
 36,Male,South Africa,Yes
 38,Female,South Africa,Yes
-61,Male,South Africa,No
-30,Female,Spain,Yes
+61,male,South Africa,No
+30,female,Spain,Yes
 22,Male,Sweden,No
 23,Male,Sweden,No
 25,Female,Sweden,Yes
@@ -312,36 +312,36 @@ NA,Genderqueer,Bahamas,Yes
 29,Male,Sweden,No
 29,Male,Sweden,No
 33,Female,Sweden,Yes
-20,Female,Switzerland,No
+20,F,Switzerland,No
 27,Male,Switzerland,Yes
-28,Male,Switzerland,No
+28,M,Switzerland,No
 30,Male,Switzerland,No
 30,Male,Switzerland,Yes
 35,Male,Switzerland,Yes
-39,Male,Switzerland,No
+39,m,Switzerland,No
 40,Male,Thailand,No
 18,Female,United Kingdom,Yes
 19,Male,United Kingdom,No
 19,Male,United Kingdom,No
 21,Male,United Kingdom,No
 21,Male,United Kingdom,No
-21,Non-Binary,United Kingdom,No
+21,Agender,United Kingdom,No
 21,Female,United Kingdom,No
 21,Male,United Kingdom,Yes
 21,Male,United Kingdom,No
 22,Male,United Kingdom,Yes
 23,Male,United Kingdom,No
 23,Male,United Kingdom,No
-23,Male,United Kingdom,Yes
+23,male,United Kingdom,Yes
 23,Female,United Kingdom,No
-23,Female,United Kingdom,No
+23,female,United Kingdom,No
 23,Female,United Kingdom,Yes
 23,Male,United Kingdom,No
-23,Male,United Kingdom,No
+23,Male ,United Kingdom,No
 23,Female,United Kingdom,Yes
 23,Male,United Kingdom,No
 24,Male,United Kingdom,No
-24,Male,United Kingdom,No
+24,M,United Kingdom,No
 24,Male,United Kingdom,No
 24,Male,United Kingdom,No
 24,Male,United Kingdom,No
@@ -349,10 +349,10 @@ NA,Genderqueer,Bahamas,Yes
 24,Male,United Kingdom,No
 24,Female,United Kingdom,Yes
 24,Male,United Kingdom,Yes
-24,Male,United Kingdom,Yes
+24,M,United Kingdom,Yes
 24,Male,United Kingdom,No
-24,Male,United Kingdom,No
-24,Male,United Kingdom,No
+24,Cis Man,United Kingdom,No
+24,"ostensibly male, unsure what that really means",United Kingdom,No
 25,Male,United Kingdom,No
 25,Male,United Kingdom,No
 25,Male,United Kingdom,Yes
@@ -360,25 +360,25 @@ NA,Genderqueer,Bahamas,Yes
 26,Male,United Kingdom,No
 26,Male,United Kingdom,No
 26,Male,United Kingdom,No
-26,Male,United Kingdom,No
+26,male,United Kingdom,No
 26,Male,United Kingdom,Yes
 26,Male,United Kingdom,No
 26,Female,United Kingdom,Yes
 26,Male,United Kingdom,No
-26,Male,United Kingdom,No
+26,male,United Kingdom,No
 27,Male,United Kingdom,No
 27,Male,United Kingdom,No
-27,Female,United Kingdom,Yes
+27,Woman,United Kingdom,Yes
 27,Male,United Kingdom,No
 27,Male,United Kingdom,Yes
 27,Male,United Kingdom,No
 27,Male,United Kingdom,No
 27,Male,United Kingdom,No
-27,Female,United Kingdom,No
+27,f,United Kingdom,No
 27,Male,United Kingdom,No
 27,Male,United Kingdom,No
 27,Male,United Kingdom,No
-27,Female,United Kingdom,Yes
+27,female,United Kingdom,Yes
 27,Male,United Kingdom,No
 28,Male,United Kingdom,No
 28,Male,United Kingdom,No
@@ -386,79 +386,79 @@ NA,Genderqueer,Bahamas,Yes
 28,Female,United Kingdom,No
 28,Male,United Kingdom,Yes
 28,Male,United Kingdom,No
-28,Genderqueer,United Kingdom,Yes
+28,Androgyne,United Kingdom,Yes
 28,Male,United Kingdom,No
 28,Male,United Kingdom,No
 28,Male,United Kingdom,Yes
-28,Male,United Kingdom,No
-28,Male,United Kingdom,No
+28,male,United Kingdom,No
+28,male,United Kingdom,No
 29,Male,United Kingdom,No
 29,Male,United Kingdom,No
 29,Male,United Kingdom,Yes
+29,M,United Kingdom,No
 29,Male,United Kingdom,No
+29,m,United Kingdom,No
+29,female,United Kingdom,No
 29,Male,United Kingdom,No
-29,Male,United Kingdom,No
-29,Female,United Kingdom,No
-29,Male,United Kingdom,No
-29,Female,United Kingdom,No
-30,Male,United Kingdom,Yes
+29,f,United Kingdom,No
+30,male,United Kingdom,Yes
 30,Male,United Kingdom,No
 30,Male,United Kingdom,No
 30,Male,United Kingdom,No
 30,Male,United Kingdom,No
-30,Male,United Kingdom,Yes
+30,M,United Kingdom,Yes
 30,Male,United Kingdom,No
 30,Male,United Kingdom,No
 31,Male,United Kingdom,Yes
 31,Male,United Kingdom,Yes
 31,Male,United Kingdom,No
-31,Non-Binary,United Kingdom,Yes
+31,Enby,United Kingdom,Yes
 31,Female,United Kingdom,No
 31,Male,United Kingdom,No
-31,Male,United Kingdom,Yes
+31,male,United Kingdom,Yes
 31,Male,United Kingdom,No
 32,Male,United Kingdom,No
 32,Male,United Kingdom,Yes
 32,Male,United Kingdom,Yes
 32,Male,United Kingdom,Yes
 32,Male,United Kingdom,No
+32,male,United Kingdom,No
+32,male,United Kingdom,Yes
+32,male,United Kingdom,No
 32,Male,United Kingdom,No
+32,Male,United Kingdom,No
+32,Male,United Kingdom,No
+32,Male,United Kingdom,No
+32,Neuter,United Kingdom,No
 32,Male,United Kingdom,Yes
-32,Male,United Kingdom,No
-32,Male,United Kingdom,No
-32,Male,United Kingdom,No
-32,Male,United Kingdom,No
-32,Male,United Kingdom,No
-32,Non-Binary,United Kingdom,No
-32,Male,United Kingdom,Yes
-32,Male,United Kingdom,No
-32,Male,United Kingdom,Yes
-32,Male,United Kingdom,Yes
+32,M,United Kingdom,No
+32,male,United Kingdom,Yes
+32,male,United Kingdom,Yes
 32,Female,United Kingdom,Yes
 32,Male,United Kingdom,No
 32,Male,United Kingdom,No
 32,Male,United Kingdom,No
-32,Male,United Kingdom,Yes
+32,male,United Kingdom,Yes
 32,Male,United Kingdom,No
-32,Male,United Kingdom,No
-32,Female,United Kingdom,No
+32,male,United Kingdom,No
+32,female,United Kingdom,No
 33,Male,United Kingdom,No
 33,Male,United Kingdom,No
 33,Male,United Kingdom,No
 33,Male,United Kingdom,No
 33,Male,United Kingdom,No
-33,Male,United Kingdom,No
+33,M,United Kingdom,No
 33,Male,United Kingdom,Yes
+33,female,United Kingdom,No
 33,Female,United Kingdom,No
-33,Female,United Kingdom,No
+34,Male,United Kingdom,Yes
+34,male,United Kingdom,No
 34,Male,United Kingdom,Yes
 34,Male,United Kingdom,No
-34,Male,United Kingdom,Yes
-34,Male,United Kingdom,No
-34,Male,United Kingdom,Yes
-34,Male,United Kingdom,No
-34,Male,United Kingdom,No
-34,Female,United Kingdom,Yes
+34,male,United Kingdom,Yes
+34,male,United Kingdom,No
+34,male,United Kingdom,No
+34,female,United Kingdom,Yes
 34,Male,United Kingdom,No
 34,Female,United Kingdom,Yes
 34,Male,United Kingdom,Yes
@@ -467,114 +467,114 @@ NA,Genderqueer,Bahamas,Yes
 35,Male,United Kingdom,No
 35,Male,United Kingdom,Yes
 36,Male,United Kingdom,No
-36,Female,United Kingdom,No
-36,Male,United Kingdom,No
+36,F,United Kingdom,No
+36,male,United Kingdom,No
 37,Male,United Kingdom,No
 37,Male,United Kingdom,No
 37,Male,United Kingdom,Yes
 37,Male,United Kingdom,Yes
-37,Male,United Kingdom,No
+37,m,United Kingdom,No
 37,Male,United Kingdom,Yes
 37,Male,United Kingdom,No
 38,Male,United Kingdom,No
 38,Male,United Kingdom,No
 38,Male,United Kingdom,No
-38,Male,United Kingdom,Yes
+38,m,United Kingdom,Yes
 38,Male,United Kingdom,Yes
 38,Male,United Kingdom,No
 38,Male,United Kingdom,Yes
 39,Male,United Kingdom,No
-39,Male,United Kingdom,No
+39,M,United Kingdom,No
 39,Female,United Kingdom,No
 39,Male,United Kingdom,No
-39,Male,United Kingdom,No
+39,male,United Kingdom,No
 39,Female,United Kingdom,Yes
 39,Male,United Kingdom,Yes
-39,Male,United Kingdom,Yes
+39,M,United Kingdom,Yes
 40,Male,United Kingdom,No
-41,Male,United Kingdom,No
-41,Male,United Kingdom,Yes
+41,male,United Kingdom,No
+41,M,United Kingdom,Yes
 43,Male,United Kingdom,No
-43,Male,United Kingdom,Yes
+43,m,United Kingdom,Yes
 43,Male,United Kingdom,Yes
 44,Male,United Kingdom,Yes
 44,Male,United Kingdom,No
 45,Male,United Kingdom,Yes
-48,Male,United Kingdom,No
+48,M,United Kingdom,No
 54,Male,United Kingdom,No
-54,Male,United Kingdom,Yes
-55,Male,United Kingdom,No
-NA,Male,United Kingdom,No
+54,male,United Kingdom,Yes
+55,male,United Kingdom,No
+NA,male,United Kingdom,No
 18,Male,United States,No
+18,male,United States,No
 18,Male,United States,No
-18,Male,United States,No
-19,Male,United States,Yes
+19,Trans woman,United States,Yes
 19,Male,United States,No
 20,Male,United States,No
-20,Female,United States,No
+20,female,United States,No
 21,Male,United States,No
 21,Male,United States,Yes
-21,Female,United States,Yes
-21,Male,United States,Yes
+21,F,United States,Yes
+21,male,United States,Yes
+21,M,United States,No
+21,M,United States,Yes
 21,Male,United States,No
-21,Male,United States,Yes
-21,Male,United States,No
-22,Male,United States,Yes
+22,M,United States,Yes
 22,Male,United States,No
 22,Female,United States,Yes
 22,Male,United States,No
-22,Female,United States,No
+22,F,United States,No
 22,Male,United States,No
 22,Female,United States,Yes
 22,Female,United States,Yes
-22,Female,United States,Yes
-23,Female,United States,No
+22,F,United States,Yes
+23,Trans-female,United States,No
 23,Male,United States,No
 23,Female,United States,No
 23,Male,United States,No
 23,Male,United States,Yes
-23,Female,United States,Yes
+23,female,United States,Yes
 23,Male,United States,Yes
 23,Female,United States,No
 23,Male,United States,Yes
+23,male,United States,No
 23,Male,United States,No
-23,Male,United States,No
-23,Female,United States,No
-23,Male,United States,No
-23,Female,United States,Yes
-23,Female,United States,No
-23,Male,United States,Yes
-23,Male,United States,No
+23,female,United States,No
 23,Male,United States,No
 23,Female,United States,Yes
+23,F,United States,No
+23,Male,United States,Yes
+23,Male,United States,No
+23,Male,United States,No
+23,female,United States,Yes
 23,Male,United States,Yes
 23,Male,United States,No
 23,Male,United States,Yes
-23,Male,United States,Yes
-23,Male,United States,No
+23,M,United States,Yes
+23,M,United States,No
 23,Male,United States,Yes
 23,Female,United States,Yes
 23,Male,United States,No
 24,Male,United States,Yes
 24,Male,United States,Yes
-24,Male,United States,No
-24,Male,United States,No
+24,male,United States,No
+24,M,United States,No
 24,Male,United States,No
 24,Male,United States,No
 24,Female,United States,No
-24,Female,United States,Yes
+24,female,United States,Yes
 24,Male,United States,No
 24,Male,United States,No
-24,Female,United States,Yes
+24,female,United States,Yes
 24,Male,United States,Yes
 24,Female,United States,No
-24,Female,United States,Yes
+24,F,United States,Yes
 24,Male,United States,No
 24,Female,United States,Yes
-24,Male,United States,No
+24,M,United States,No
 24,Female,United States,Yes
-24,Male,United States,No
-24,Female,United States,Yes
+24,male,United States,No
+24,female,United States,Yes
 24,Male,United States,No
 24,Male,United States,No
 24,Female,United States,Yes
@@ -584,168 +584,168 @@ NA,Male,United Kingdom,No
 25,Male,United States,No
 25,Male,United States,Yes
 25,Male,United States,Yes
+25,F,United States,Yes
+25,Male,United States,No
+25,Male,United States,No
+25,Male,United States,No
+25,m,United States,No
+25,Male,United States,Yes
+25,F,United States,Yes
+25,non-binary,United States,Yes
 25,Female,United States,Yes
-25,Male,United States,No
-25,Male,United States,No
-25,Male,United States,No
-25,Male,United States,No
-25,Male,United States,Yes
-25,Female,United States,Yes
-25,Non-Binary,United States,Yes
-25,Female,United States,Yes
-25,Female,United States,No
-25,Male,United States,No
-25,Female,United States,Yes
-25,Female,United States,No
-25,Female,United States,Yes
+25,female,United States,No
+25,male,United States,No
+25,female,United States,Yes
+25,f,United States,No
+25,Woman,United States,Yes
 25,Male,United States,Yes
 25,Male,United States,No
 25,Male,United States,Yes
 25,Male,United States,Yes
+25,M,United States,Yes
 25,Male,United States,Yes
-25,Male,United States,Yes
-25,Female,United States,No
-25,Female,United States,Yes
-25,Male,United States,No
-25,Male,United States,Yes
-25,Male,United States,No
-25,Female,United States,No
-25,Male,United States,No
+25,f,United States,No
+25,female,United States,Yes
 25,Male,United States,No
 25,Male,United States,Yes
 25,Male,United States,No
+25,female,United States,No
+25,Male,United States,No
+25,Male,United States,No
+25,Male,United States,Yes
+25,M,United States,No
 25,Male,United States,No
 25,Male,United States,Yes
 25,Male,United States,Yes
 25,Male,United States,Yes
 26,Male,United States,No
-26,Male,United States,No
-26,Male,United States,Yes
+26,male,United States,No
+26,male,United States,Yes
 26,Male,United States,No
 26,Female,United States,Yes
 26,Female,United States,Yes
 26,Male,United States,No
-26,Male,United States,No
+26,M,United States,No
+26,Male,United States,Yes
+26,male,United States,Yes
+26,male,United States,Yes
+26,F,United States,Yes
+26,M,United States,No
 26,Male,United States,Yes
 26,Male,United States,Yes
-26,Male,United States,Yes
-26,Female,United States,Yes
-26,Male,United States,No
-26,Male,United States,Yes
-26,Male,United States,Yes
+26,F,United States,No
 26,Female,United States,No
-26,Female,United States,No
 26,Male,United States,No
-26,Female,United States,No
+26,F,United States,No
 26,Female,United States,Yes
-26,Male,United States,Yes
-26,Female,United States,Yes
-26,Female,United States,Yes
-26,Male,United States,No
-26,Male,United States,Yes
-26,Male,United States,Yes
-26,Male,United States,No
-26,Female,United States,No
-26,Female,United States,No
-26,Male,United States,Yes
-26,Male,United States,No
+26,M,United States,Yes
+26,F,United States,Yes
 26,Female,United States,Yes
 26,Male,United States,No
+26,M,United States,Yes
 26,Male,United States,Yes
-26,Female,United States,Yes
+26,Male,United States,No
+26,female,United States,No
+26,F,United States,No
+26,Male,United States,Yes
+26,Male,United States,No
+26,female,United States,Yes
+26,Male,United States,No
+26,Male,United States,Yes
+26,F,United States,Yes
 26,Male,United States,Yes
 26,Female,United States,Yes
 27,Male,United States,No
-27,Male,United States,Yes
-27,Female,United States,No
-27,Male,United States,Yes
-27,Male,United States,No
+27,Male-ish,United States,Yes
+27,Cis Female,United States,No
 27,Male,United States,Yes
 27,Male,United States,No
+27,Male,United States,Yes
+27,male,United States,No
 27,Male,United States,Yes
 27,Female,United States,Yes
+27,female,United States,Yes
+27,Male,United States,No
+27,Female,United States,No
+27,Male,United States,No
+27,Male,United States,Yes
+27,Male,United States,No
+27,Male,United States,No
+27,female,United States,No
+27,Male,United States,No
+27,female,United States,Yes
+27,female,United States,No
+27,Male,United States,Yes
+27,M,United States,Yes
+27,Male,United States,Yes
+27,Female,United States,No
+27,male,United States,No
+27,Male,United States,No
+27,Man,United States,No
+27,Female,United States,No
+27,Female,United States,No
+27,Male,United States,No
+27,Male,United States,No
+27,Male,United States,No
 27,Female,United States,Yes
-27,Male,United States,No
-27,Female,United States,No
-27,Male,United States,No
-27,Male,United States,Yes
-27,Male,United States,No
-27,Male,United States,No
-27,Female,United States,No
-27,Male,United States,No
-27,Female,United States,Yes
-27,Female,United States,No
-27,Male,United States,Yes
-27,Male,United States,Yes
-27,Male,United States,Yes
-27,Female,United States,No
-27,Male,United States,No
-27,Male,United States,No
-27,Male,United States,No
-27,Female,United States,No
-27,Female,United States,No
-27,Male,United States,No
-27,Male,United States,No
-27,Male,United States,No
-27,Female,United States,Yes
-27,Female,United States,No
+27,femail,United States,No
 28,Male,United States,No
+28,male,United States,No
+28,Male,United States,Yes
+28,male,United States,No
 28,Male,United States,No
 28,Male,United States,Yes
-28,Male,United States,No
-28,Male,United States,No
-28,Male,United States,Yes
-28,Male,United States,No
-28,Female,United States,Yes
+28,male,United States,No
+28,female,United States,Yes
 28,Male,United States,Yes
 28,Male,United States,Yes
 28,Female,United States,No
 28,Male,United States,No
-28,Male,United States,No
+28,Make,United States,No
 28,Female,United States,Yes
-28,Female,United States,Yes
-28,Male,United States,No
+28,female,United States,Yes
+28,male,United States,No
 28,Female,United States,Yes
 28,Male,United States,Yes
 28,Male,United States,No
 28,Male,United States,No
+28,Female (trans),United States,No
+28,Male,United States,No
+28,Male,United States,Yes
+28,Male,United States,Yes
+28,Male,United States,Yes
+28,Male,United States,Yes
+28,male,United States,Yes
+28,female,United States,Yes
 28,Female,United States,No
-28,Male,United States,No
-28,Male,United States,Yes
-28,Male,United States,Yes
-28,Male,United States,Yes
-28,Male,United States,Yes
-28,Male,United States,Yes
 28,Female,United States,Yes
-28,Female,United States,No
-28,Female,United States,Yes
-28,Male,United States,No
-28,Female,United States,No
+28,male,United States,No
+28,F,United States,No
 28,Female,United States,No
 28,Male,United States,Yes
-29,Female,United States,Yes
+29,female,United States,Yes
 29,Male,United States,Yes
-29,Female,United States,No
-29,Male,United States,No
-29,Male,United States,No
-29,Male,United States,No
-29,Female,United States,No
-29,Female,United States,No
-29,Female,United States,No
-29,Female,United States,Yes
+29,F,United States,No
+29,male,United States,No
 29,Male,United States,No
 29,Male,United States,No
 29,Female,United States,No
+29,Female,United States,No
+29,F,United States,No
+29,f,United States,Yes
+29,M,United States,No
 29,Male,United States,No
-29,Male,United States,No
-29,Non-Binary,United States,Yes
+29,F,United States,No
+29,male,United States,No
+29,M,United States,No
+29,Nah,United States,Yes
 29,Male,United States,No
 29,Male,United States,Yes
 29,Male,United States,No
-29,Male,United States,No
-29,Male,United States,No
-29,Male,United States,No
-29,Female,United States,No
+29,male,United States,No
+29,M,United States,No
+29,M,United States,No
+29,f,United States,No
 29,Male,United States,Yes
 29,Male,United States,Yes
 29,Male,United States,Yes
@@ -759,239 +759,239 @@ NA,Male,United Kingdom,No
 29,Female,United States,Yes
 29,Male,United States,No
 29,Male,United States,Yes
-29,Female,United States,Yes
-29,Male,United States,No
+29,F,United States,Yes
+29,M,United States,No
 29,Male,United States,Yes
-29,Male,United States,Yes
-29,Male,United States,No
+29,m,United States,Yes
+29,male,United States,No
 29,Male,United States,No
 29,Female,United States,No
 29,Male,United States,No
 29,Male,United States,No
-29,Male,United States,No
+29,M,United States,No
 29,Male,United States,Yes
 29,Male,United States,No
 29,Male,United States,No
-29,Male,United States,Yes
+29,male,United States,Yes
 30,Male,United States,No
-30,Male,United States,Yes
-30,Male,United States,No
+30,male,United States,Yes
+30,M,United States,No
 30,Female,United States,Yes
+30,M,United States,No
 30,Male,United States,No
 30,Male,United States,No
-30,Male,United States,No
-30,Female,United States,Yes
-30,Genderqueer,United States,Yes
-30,Male,United States,No
+30,F,United States,Yes
+30,queer/she/they,United States,Yes
+30,male,United States,No
 30,Female,United States,No
 30,Male,United States,No
 30,Male,United States,Yes
+30,male,United States,Yes
+30,female,United States,No
 30,Male,United States,Yes
+30,M,United States,No
+30,cis-female/femme,United States,Yes
+30,Male,United States,No
+30,M,United States,No
+30,male,United States,Yes
+30,Male,United States,No
 30,Female,United States,No
-30,Male,United States,Yes
-30,Male,United States,No
-30,Female,United States,Yes
-30,Male,United States,No
-30,Male,United States,No
-30,Male,United States,Yes
-30,Male,United States,No
-30,Female,United States,No
-30,Male,United States,Yes
-30,Male,United States,No
+30,m,United States,Yes
+30,Mail,United States,No
 30,Male,United States,Yes
 30,Male,United States,No
 30,Male,United States,No
-30,Male,United States,Yes
+30,male,United States,Yes
 30,Female,United States,Yes
 30,Male,United States,Yes
 30,Female,United States,Yes
 30,Female,United States,Yes
-30,Male,United States,Yes
+30,m,United States,Yes
 30,Male,United States,No
-30,Male,United States,Yes
+30,M,United States,Yes
 30,Male,United States,Yes
 31,Male,United States,No
 31,Male,United States,No
-31,Male,United States,No
+31,male,United States,No
 31,Male,United States,Yes
-31,Male,United States,No
+31,M,United States,No
 31,Female,United States,No
 31,Male,United States,Yes
 31,Male,United States,No
 31,Male,United States,No
+31,M,United States,No
+31,male,United States,No
+31,male,United States,Yes
+31,f,United States,No
 31,Male,United States,No
 31,Male,United States,No
+31,Make,United States,Yes
+31,Male,United States,No
+31,Female,United States,Yes
+31,Male,United States,No
+31,Male,United States,No
+31,Female,United States,Yes
+31,male,United States,Yes
+31,Male,United States,Yes
+31,M,United States,No
 31,Male,United States,Yes
 31,Female,United States,No
-31,Male,United States,No
-31,Male,United States,No
-31,Male,United States,Yes
-31,Male,United States,No
-31,Female,United States,Yes
-31,Male,United States,No
-31,Male,United States,No
-31,Female,United States,Yes
-31,Male,United States,Yes
-31,Male,United States,Yes
-31,Male,United States,No
-31,Male,United States,Yes
-31,Female,United States,No
 31,Female,United States,Yes
 31,Male,United States,No
 31,Male,United States,Yes
 31,Female,United States,Yes
 31,Male,United States,Yes
 31,Male,United States,No
-31,Male,United States,No
-31,Male,United States,No
-31,Male,United States,Yes
-31,Female,United States,Yes
-31,Female,United States,Yes
+31,male,United States,No
 31,Male,United States,No
 31,Male,United States,Yes
+31,F,United States,Yes
 31,Female,United States,Yes
-31,Male,United States,No
+31,male,United States,No
+31,Male,United States,Yes
+31,Female,United States,Yes
+31,m,United States,No
 32,Male,United States,No
 32,Male,United States,No
+32,maile,United States,Yes
 32,Male,United States,Yes
-32,Male,United States,Yes
+32,M,United States,No
 32,Male,United States,No
 32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,Yes
+32,M,United States,No
+32,male,United States,No
+32,male,United States,Yes
 32,Female,United States,No
+32,F,United States,Yes
+32,f,United States,No
+32,male,United States,No
+32,M,United States,Yes
+32,male,United States,No
+32,Male,United States,No
+32,Male,United States,No
+32,Male,United States,No
+32,Male,United States,Yes
+32,F,United States,No
+32,female,United States,No
+32,Male,United States,No
+32,Male,United States,No
+32,Male,United States,No
+32,M,United States,No
+32,Male,United States,No
+32,Male,United States,No
+32,Male,United States,Yes
 32,Female,United States,Yes
-32,Female,United States,No
-32,Male,United States,No
 32,Male,United States,Yes
 32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,Yes
-32,Female,United States,No
-32,Female,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,No
+32,male,United States,Yes
+32,m,United States,No
 32,Male,United States,No
 32,Male,United States,Yes
-32,Female,United States,Yes
-32,Male,United States,Yes
-32,Male,United States,No
-32,Male,United States,Yes
-32,Male,United States,No
-32,Male,United States,No
-32,Male,United States,Yes
-32,Male,United States,No
+32,male,United States,No
 32,Male,United States,No
 32,Male,United States,Yes
 32,Female,United States,No
-32,Female,United States,No
+32,Woman,United States,No
 32,Male,United States,No
 32,Male,United States,No
 32,Male,United States,Yes
 33,Male,United States,Yes
-33,Male,United States,Yes
+33,male,United States,Yes
+33,male,United States,No
 33,Male,United States,No
 33,Male,United States,No
+33,Male,United States,Yes
+33,Cis Male,United States,No
+33,Male,United States,Yes
+33,Male,United States,Yes
+33,Male,United States,Yes
+33,F,United States,Yes
 33,Male,United States,No
+33,M,United States,Yes
+33,Male,United States,Yes
+33,f,United States,Yes
+33,M,United States,Yes
+33,Femake,United States,No
 33,Male,United States,Yes
 33,Male,United States,No
-33,Male,United States,Yes
-33,Male,United States,Yes
-33,Male,United States,Yes
-33,Female,United States,Yes
-33,Male,United States,No
-33,Male,United States,Yes
-33,Male,United States,Yes
-33,Female,United States,Yes
-33,Male,United States,Yes
+33,male,United States,Yes
+33,male,United States,No
+33,female,United States,No
+33,Female ,United States,No
 33,Female,United States,No
+33,M,United States,No
+33,M,United States,Yes
 33,Male,United States,Yes
-33,Male,United States,No
-33,Male,United States,Yes
-33,Male,United States,No
-33,Female,United States,No
-33,Female,United States,No
-33,Female,United States,No
-33,Male,United States,No
-33,Male,United States,Yes
-33,Male,United States,Yes
-33,Female,United States,Yes
-33,Male,United States,Yes
+33,female,United States,Yes
+33,M,United States,Yes
 33,Male,United States,Yes
 33,Female,United States,Yes
 33,Male,United States,Yes
 33,Male,United States,No
+33,M,United States,No
 33,Male,United States,No
-33,Male,United States,No
-33,Male,United States,Yes
-33,Male,United States,No
-33,Male,United States,Yes
+33,male,United States,Yes
 33,Male,United States,No
 33,Male,United States,Yes
+33,Male,United States,No
 33,Male,United States,Yes
-33,Female,United States,No
+33,Male,United States,Yes
+33,female,United States,No
 33,Male,United States,No
+33,male,United States,No
+33,female,United States,No
 33,Male,United States,No
-33,Female,United States,No
-33,Male,United States,No
+34,male,United States,No
 34,Male,United States,No
 34,Male,United States,No
+34,female,United States,Yes
 34,Male,United States,No
-34,Female,United States,Yes
+34,m,United States,Yes
+34,Male,United States,No
+34,female,United States,No
+34,female,United States,No
+34,male,United States,Yes
+34,male,United States,No
+34,M,United States,Yes
+34,Male,United States,No
+34,woman,United States,Yes
+34,male,United States,No
+34,M,United States,Yes
+34,M,United States,No
 34,Male,United States,No
 34,Male,United States,Yes
+34,Male,United States,Yes
+34,male,United States,Yes
+34,female,United States,No
+34,Male,United States,No
+34,male,United States,No
+34,M,United States,No
+34,male,United States,No
+34,male,United States,Yes
+34,M,United States,No
 34,Male,United States,No
 34,Female,United States,No
-34,Female,United States,No
-34,Male,United States,Yes
+34,M,United States,No
 34,Male,United States,No
-34,Male,United States,Yes
-34,Male,United States,No
-34,Female,United States,Yes
-34,Male,United States,No
-34,Male,United States,Yes
-34,Male,United States,No
-34,Male,United States,No
-34,Male,United States,Yes
-34,Male,United States,Yes
-34,Male,United States,Yes
-34,Female,United States,No
-34,Male,United States,No
-34,Male,United States,No
-34,Male,United States,No
-34,Male,United States,No
-34,Male,United States,Yes
-34,Male,United States,No
-34,Male,United States,No
-34,Female,United States,No
-34,Male,United States,No
-34,Male,United States,No
-34,Male,United States,Yes
+34,male,United States,Yes
 35,Female,United States,Yes
-35,Male,United States,Yes
+35,male,United States,Yes
 35,Female,United States,Yes
-35,Male,United States,No
+35,M,United States,No
 35,Male,United States,No
 35,Male,United States,Yes
-35,Male,United States,Yes
+35,M,United States,Yes
 35,Male,United States,No
-35,Male,United States,No
+35,M,United States,No
 35,Female,United States,Yes
 35,Male,United States,No
 35,Female,United States,No
-35,Male,United States,Yes
+35,male,United States,Yes
+35,male,United States,No
+35,male,United States,No
 35,Male,United States,No
-35,Male,United States,No
-35,Male,United States,No
 35,Male,United States,Yes
-35,Male,United States,Yes
+35,M,United States,Yes
 35,Female,United States,No
 35,Male,United States,No
 35,Male,United States,No
@@ -1001,68 +1001,68 @@ NA,Male,United Kingdom,No
 35,Male,United States,No
 35,Male,United States,Yes
 35,Female,United States,No
-35,Female,United States,No
+35,female,United States,No
 35,Male,United States,No
 35,Male,United States,Yes
 35,Male,United States,No
+35,M,United States,Yes
 35,Male,United States,Yes
-35,Male,United States,Yes
-35,Male,United States,Yes
-35,Female,United States,Yes
-35,Male,United States,No
-35,Male,United States,No
-35,Female,United States,Yes
-35,Male,United States,No
 35,Male,United States,Yes
 35,Female,United States,Yes
+35,Male,United States,No
+35,Male,United States,No
+35,Female,United States,Yes
+35,Male,United States,No
+35,M,United States,Yes
+35,female,United States,Yes
+36,Male,United States,Yes
+36,M,United States,No
+36,Male,United States,No
+36,Male,United States,No
+36,Male,United States,No
+36,Male,United States,No
+36,Male,United States,No
 36,Male,United States,Yes
 36,Male,United States,No
 36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,Yes
-36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,Yes
+36,m,United States,No
+36,M,United States,Yes
 36,Male,United States,Yes
 36,Male,United States,No
 36,Male,United States,Yes
 36,Male,United States,No
+36,M,United States,No
+36,F,United States,No
+36,f,United States,Yes
+36,M,United States,No
+36,male,United States,No
 36,Male,United States,No
-36,Female,United States,No
-36,Female,United States,Yes
+36,Female ,United States,Yes
+36,M,United States,No
 36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,No
-36,Female,United States,Yes
-36,Male,United States,No
-36,Male,United States,No
-36,Male,United States,No
-36,Female,United States,Yes
+36,male,United States,No
+36,F,United States,Yes
 36,Male,United States,Yes
 37,Female,United States,No
 37,Male,United States,Yes
-37,Male,United States,No
+37,male,United States,No
+37,F,United States,Yes
 37,Female,United States,Yes
-37,Female,United States,Yes
-37,Male,United States,No
-37,Female,United States,No
-37,Male,United States,No
+37,M,United States,No
+37,F,United States,No
+37,M,United States,No
 37,Male,United States,Yes
 37,Male,United States,No
-37,Male,United States,Yes
-37,Female,United States,No
-37,Male,United States,No
-37,Male,United States,Yes
-37,Female,United States,Yes
-37,Female,United States,No
-37,Male,United States,Yes
-37,Male,United States,No
+37,male,United States,Yes
+37,F,United States,No
+37,male,United States,No
 37,Male,United States,Yes
 37,Female,United States,Yes
+37,female,United States,No
+37,Male,United States,Yes
+37,Male,United States,No
+37,Male,United States,Yes
+37,female,United States,Yes
 37,Male,United States,No
 38,Female,United States,Yes
 38,Male,United States,Yes
@@ -1070,191 +1070,191 @@ NA,Male,United Kingdom,No
 38,Male,United States,No
 38,Male,United States,No
 38,Female,United States,No
-38,Female,United States,No
-38,Male,United States,Yes
+38,female,United States,No
+38,male,United States,Yes
 38,Female,United States,Yes
+38,Make,United States,Yes
+38,Male,United States,No
+38,f,United States,Yes
+38,Male,United States,No
+38,M,United States,No
 38,Male,United States,Yes
 38,Male,United States,No
+38,cis male,United States,No
+38,m,United States,Yes
 38,Female,United States,Yes
-38,Male,United States,No
-38,Male,United States,No
+38,male,United States,Yes
 38,Male,United States,Yes
-38,Male,United States,No
-38,Male,United States,No
-38,Male,United States,Yes
-38,Female,United States,Yes
-38,Male,United States,Yes
-38,Male,United States,Yes
-38,Male,United States,Yes
-38,Male,United States,Yes
+38,male,United States,Yes
+38,male,United States,Yes
 38,Male,United States,Yes
 38,Male,United States,No
 39,Male,United States,No
 39,Male,United States,Yes
 39,Male,United States,No
-39,Male,United States,Yes
+39,M,United States,Yes
 39,Male,United States,No
-39,Male,United States,No
-39,Female,United States,No
-39,Male,United States,No
-39,Female,United States,No
-39,Male,United States,Yes
-39,Male,United States,No
-39,Male,United States,No
-39,Male,United States,Yes
-39,Male,United States,Yes
-39,Male,United States,No
-39,Male,United States,Yes
-39,Male,United States,Yes
+39,M,United States,No
+39,F,United States,No
+39,M,United States,No
 39,Female,United States,No
 39,Male,United States,Yes
-40,Female,United States,No
+39,M,United States,No
+39,Male,United States,No
+39,Male,United States,Yes
+39,Male,United States,Yes
+39,male,United States,No
+39,M,United States,Yes
+39,Male,United States,Yes
+39,Female,United States,No
+39,Male,United States,Yes
+40,female,United States,No
 40,Male,United States,Yes
-40,Male,United States,No
+40,male,United States,No
 40,Female,United States,No
-40,Male,United States,No
-40,Female,United States,Yes
+40,M,United States,No
+40,female,United States,Yes
 40,Genderqueer,United States,Yes
 40,Female,United States,No
+40,female,United States,Yes
 40,Female,United States,Yes
-40,Female,United States,Yes
-40,Male,United States,No
-40,Male,United States,No
-40,Male,United States,Yes
-40,Male,United States,No
-40,Male,United States,Yes
-40,Male,United States,Yes
-40,Male,United States,Yes
-40,Male,United States,Yes
-40,Male,United States,Yes
-40,Male,United States,No
-40,Female,United States,Yes
+40,M,United States,No
+40,M,United States,No
+40,m,United States,Yes
+40,M,United States,No
+40,M,United States,Yes
 40,Male,United States,Yes
 40,Male,United States,Yes
 40,Male,United States,Yes
 40,Male,United States,Yes
-40,Male,United States,No
-40,Female,United States,Yes
+40,male,United States,No
+40,female,United States,Yes
+40,Male,United States,Yes
+40,M,United States,Yes
+40,Male,United States,Yes
+40,male,United States,Yes
+40,m,United States,No
+40,F,United States,Yes
 40,Male,United States,Yes
 41,Male,United States,No
-41,Male,United States,No
-41,Male,United States,No
+41,male,United States,No
+41,Male (CIS),United States,No
 41,Male,United States,No
 41,Male,United States,No
 41,Male,United States,Yes
-41,Male,United States,Yes
-41,Male,United States,No
+41,m,United States,Yes
+41,m,United States,No
 41,Female,United States,Yes
+41,male,United States,Yes
+41,m,United States,Yes
 41,Male,United States,Yes
-41,Male,United States,Yes
-41,Male,United States,Yes
-41,Male,United States,Yes
+41,M,United States,Yes
 41,Male,United States,No
-41,Male,United States,No
+41,M,United States,No
 41,Female,United States,Yes
 42,Female,United States,Yes
-42,Female,United States,Yes
+42,female,United States,Yes
 42,Male,United States,Yes
+42,male,United States,No
+42,Male,United States,No
+42,male,United States,No
+42,Make,United States,No
 42,Male,United States,No
 42,Male,United States,No
+42,male,United States,Yes
 42,Male,United States,No
-42,Male,United States,No
-42,Male,United States,No
-42,Male,United States,No
-42,Male,United States,Yes
-42,Male,United States,No
-42,Male,United States,Yes
-42,Male,United States,Yes
-42,Male,United States,No
-42,Female,United States,Yes
+42,male,United States,Yes
+42,M,United States,Yes
+42,M,United States,No
+42,F,United States,Yes
 43,Male,United States,Yes
 43,Male,United States,Yes
+43,M,United States,No
 43,Male,United States,No
+43,Male,United States,No
+43,Male,United States,No
+43,M,United States,Yes
+43,male,United States,No
+43,msle,United States,No
+43,M,United States,No
+43,male,United States,No
+43,M,United States,Yes
+43,Cis Male,United States,No
 43,Male,United States,No
 43,Male,United States,No
 43,Male,United States,No
 43,Male,United States,Yes
+43,male,United States,Yes
 43,Male,United States,No
-43,Male,United States,No
-43,Male,United States,No
-43,Male,United States,No
-43,Male,United States,Yes
-43,Male,United States,No
-43,Male,United States,No
-43,Male,United States,No
-43,Male,United States,No
-43,Male,United States,Yes
-43,Male,United States,Yes
-43,Male,United States,No
-43,Female,United States,Yes
-44,Male,United States,No
+43,f,United States,Yes
+44,M,United States,No
 44,Male,United States,Yes
 44,Female,United States,No
-44,Male,United States,Yes
-44,Male,United States,Yes
-44,Female,United States,No
-44,Male,United States,No
-44,Male,United States,No
-44,Male,United States,Yes
-45,Male,United States,Yes
-45,Female,United States,No
+44,male,United States,Yes
+44,male,United States,Yes
+44,F,United States,No
+44,m,United States,No
+44,M,United States,No
+44,M,United States,Yes
+45,male,United States,Yes
+45,F,United States,No
+45,M,United States,No
+45,male,United States,Yes
+45,M,United States,No
 45,Male,United States,No
-45,Male,United States,Yes
 45,Male,United States,No
-45,Male,United States,No
-45,Male,United States,No
-45,Male,United States,No
-45,Female,United States,No
-46,Male,United States,Yes
+45,M,United States,No
+45,female,United States,No
+46,male,United States,Yes
+46,Male,United States,No
+46,M,United States,No
+46,male,United States,No
 46,Male,United States,No
 46,Male,United States,No
-46,Male,United States,No
-46,Male,United States,No
-46,Male,United States,No
-46,Female,United States,No
-46,Male,United States,Yes
-46,Female,United States,No
-46,Male,United States,Yes
+46,Female (trans),United States,No
 46,Male,United States,Yes
 46,Female,United States,No
-47,Male,United States,Yes
-47,Female,United States,No
-48,Male,United States,No
-48,Female,United States,Yes
+46,Male,United States,Yes
+46,male,United States,Yes
+46,f,United States,No
+47,M,United States,Yes
+47,F,United States,No
+48,M,United States,No
+48,Female (cis),United States,Yes
 48,Male,United States,No
 48,Male,United States,No
 49,Male,United States,Yes
 49,Male,United States,Yes
 49,Male,United States,Yes
-50,Male,United States,No
+50,M,United States,No
 50,Male,United States,No
 50,Male,United States,Yes
 50,Male,United States,No
 50,Male,United States,No
 51,Male,United States,No
-51,Male,United States,No
-51,Male,United States,No
+51,m,United States,No
+51,m,United States,No
 53,Male,United States,No
-54,Male,United States,Yes
-55,Male,United States,Yes
-55,Male,United States,Yes
+54,M,United States,Yes
+55,M,United States,Yes
+55,M,United States,Yes
 56,Male,United States,No
-56,Male,United States,Yes
-56,Male,United States,No
-56,Female,United States,No
-57,Male,United States,Yes
+56,Male ,United States,Yes
+56,m,United States,No
+56,female,United States,No
+57,M,United States,Yes
 57,Male,United States,No
 57,Male,United States,No
 58,Male,United States,No
+60,male,United States,No
 60,Male,United States,No
-60,Male,United States,No
-62,Male,United States,No
+62,M,United States,No
 65,Male,United States,No
 72,Female,United States,Yes
 NA,Male,United States,No
 NA,Male,United States,No
 NA,Male,United States,No
-NA,Male,United States,No
-NA,Genderqueer,United States,Yes
-26,Male,Uruguay,No
-NA,Genderqueer,Zimbabwe,Yes
+NA,male,United States,No
+NA,p,United States,Yes
+26,M,Uruguay,No
+NA,All,Zimbabwe,Yes

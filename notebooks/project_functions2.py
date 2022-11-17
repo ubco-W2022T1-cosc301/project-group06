@@ -18,7 +18,7 @@ def load_and_process(rawDataframe):
     #Set the value of 'Age' in each of the invalid row indexes to be 'NA'
     rawDataframe.loc[invalidAgeList,'Age'] = 'NA'
     #Clean the resulting dataframe by dropping unneeded columns, renaming columns, replacing bugged data, and sorting rows
-    cleanedDataframe = (rawDataframe.copy().drop(columns=['Timestamp', 'state', 'self_employed', 'treatment', 'work_interfere', 'no_employees', 'remote_work', 'tech_company', 'benefits', 'care_options', 'wellness_program', 'seek_help', 'anonymity', 'leave', 'mental_health_consequence', 'phys_health_consequence', 'coworkers', 'supervisor', 'mental_health_interview', 'phys_health_interview', 'mental_vs_physical', 'obs_consequence', 'comments'],axis=1).dropna(axis=0).rename(columns={'family_history':'Family History'}.replace(['Bahamas, The'],'Bahamas')).sort_values(by=['Country', 'Age']))
+    cleanedDataframe = (rawDataframe.copy().drop(columns=['Timestamp','state','self_employed','treatment','work_interfere','no_employees','remote_work','tech_company','benefits','care_options','wellness_program','seek_help','anonymity','leave','mental_health_consequence','phys_health_consequence','coworkers','supervisor','mental_health_interview','phys_health_interview','mental_vs_physical','obs_consequence','comments'],axis=1).rename(columns={'family_history':'Family History'}).replace(['Bahamas, The'],'Bahamas').sort_values(by=['Country','Age']))
     #Write the finalised dataframe to a CSV file in data/processed
     cleanedDataframe.to_csv('../data/processed/sstenbackResearchQuestionData.csv',index=False)
     #Return the cleaned dataframe
