@@ -13,19 +13,18 @@ def genderAdjust(rawDF):
                         'Trans woman':'TF','msle':'M','Neuter':'NB','Female (trans)':'TF','queer':'NB','Female (cis)':'F',
                         'Mail':'M','cis male':'M','A little about you':'NA','Malr':'M','p':'NA','femail':'F','Cis Man':'M',
                         'ostensibly male, unsure what that really means':'TM','female':'F'}
+
+    finalDF = (rawDF
+        .replace({'Gender':genderDict})    #Replaces the gender values according to dictionary
+        .drop(rawDF[rawDF['Gender']== 'NA'].index)   #dropping repondants with gender as 'NA' since it is not relevant to our question (3 Entries)
+    )
     
-    #Replaces the gender values according to dictionary
-    processedDF = rawDF.replace({'Gender':genderDict})
-    
-    #dropping repondants with gender as 'NA' since it is not relevant to our question (3 Entries)
-    processedDF.drop(processedDF[processedDF['Gender']== 'NA'].index, inplace = True)
-    return processedDF
+    return finalDF
 
 def ageAdjust(InputDF):
     
     #getting indexes of rows that do not lie within valid age range
     invalidAgeList = list(InputDF.loc[(InputDF['Age'].astype('int') < 18) | (InputDF['Age'].astype('int') > 100)].index)
-    
     #replacing invalid values with NaN
     InputDF.loc[invalidAgeList,'Age'] = np.nan
     return InputDF
@@ -51,18 +50,17 @@ def generateColumns(InputDF):
     return InputDF
     
 
-def load_and_process(filePath :str):
-    #Loading Raw Data
-    rawDF=pd.read_csv(filePath)
-    #Removing unneccesary columns
-    skimmedDF= rawDF[['Age','Gender','work_interfere','coworkers','supervisor','mental_health_consequence','treatment']]
-    #Adjusting for unique gender responses
-    genderDF = genderAdjust(skimmedDF)
-    #removing invalid ages
-    ageDF = ageAdjust(genderDF)
-    #generating new columns for analysis
-    cleanedDF = generateColumns(ageDF)
-    return cleanedDF
+def load_and_process(filePath :str):  
+    rawDF=pd.read_csv(filePath)  #Loading Raw Data
+    skimmedDF= rawDF[['Age','Gender','work_interfere','coworkers','supervisor','mental_health_consequence','treatment']] #Removing unneccesary columns
+    
+    finalDF =(
+        skimmedDF
+        .pipe(genderAdjust)
+        .pipe(ageAdjust)
+        .pipe(generateColumns)
+    )
+    return finalDF
 
 def countNormalizedPlot (df,x,y):
     (df.groupby(x)[y]
