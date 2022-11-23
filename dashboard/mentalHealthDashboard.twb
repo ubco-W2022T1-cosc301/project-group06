@@ -3023,8 +3023,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='48' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98432' id='47' param='vert' type-v2='layout-flow' w='98840' x='580' y='784'>
+            <zone h='100000' id='56' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='55' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='19216' id='3' type-v2='text' w='98768' x='1014' y='2549'>
                   <formatted-text>
                     <run fontcolor='#2a0857' fontname='Toppan Bunkyu Midashi Mincho' fontsize='36'>How Messed Up Are We?: The Statistics of Mental Health in Tech Workplaces</run>
@@ -3182,8 +3182,8 @@ Investigating how workers of different ages, separated by age generaions, feel a
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1400' minheight='1400' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='55' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='54' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='63' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='62' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='10750' id='27' type-v2='text' w='82400' x='800' y='1000'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#e15759' fontname='-apple-system' fontsize='14'>Does Age Affect Willingness to get Treatment for or Discuss Mental Health in the Workplace?</run>
@@ -3303,8 +3303,8 @@ Investigating how workers of different ages, separated by age generaions, feel a
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='41' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98036' id='40' param='vert' type-v2='layout-flow' w='99000' x='500' y='982'>
+            <zone h='100000' id='49' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='48' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='18037' id='5' type-v2='text' w='100000' x='375' y='123'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#7100a9' fontname='Toppan Bunkyu Midashi Mincho' fontsize='20'>Does Country Of Origin Affect Family History Of Mental Illness?</run>
@@ -3466,7 +3466,7 @@ Investigating how workers of different ages, separated by age generaions, feel a
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{68A3C24D-DB8F-483C-958B-E364F770AAF6}' />
     </window>
     <window class='dashboard' name='RQ3-ESrinivasan'>
