@@ -16,7 +16,27 @@ During our respective EDAs, we found a variety of interesting pieces of data. An
 
 ## Question 1 + Results
 
-### Simone Question Text
+### Simone Flowers - Is there a correlation between age of an employee in the Tech work industry and them seeking treatment for or discussing their mental health issues
+
+For investigating my research question, I split the respondents to the survey up by age and put them into 4 different categories: Boomer (51+), Gen X (37-51), Millennials (20-36), and Gen Z (19 and lower). Grouping the respondents into these age groups makes it easier to visualize data and compare the answers respondents from different generations. 
+
+In the past, mental health was something that was never discussed in public, especially not in a place of work. However, mental health is not as stigmatized as it was in the past. Nowadays, people are encouraged to find treatment for any mental health issues whether through medication or therapy, and, hopefully, managers, supervisors, and workers see mental health just as important as physical health. The goal of this research is to find out if the age of the tech worker affects their attitude towards mental health. My hypothesis is that the younger generations, Millennials and Gen Z, will be more willing to get treatment for and discuss mental health in the workplace than the older generations, Boomers and Gen X.
+
+![Willingness for Mental Health Treatment Based on Age Group](./images/sflowersTreatment.png)
+
+According to this bar graph, the younger generations, Millennials and Gen Z, are less willing to get treatment for their mental Health issues than the older generations, Boomers and Gen X. So far, this information does not support my hypothesis.
+
+Now that I know the workers' attitude towards getting treatment, the next step is to see their willingness to discuss mental health issues in the workplace.
+
+![Willingness to Discuss Mental Health with Supervisor](./images/sflowersSupervisor.png)
+
+This count plot shows that Boomers, Gen X, and Millennials answered 'Yes' the most, while Gen Z answered 'No' the most. So it seems that the older generations and Millennials are more willing to discuss mental health issues with their supervisor than Gen Z is.
+
+![Willingness to Discuss Mental Health with Coworkers](./images/sflowersCoworkers.png)
+
+What this last count plot shows is that all age generations are not very willing to discuss mental health issues with their coworkers.
+
+Overall, it seems that there is not distinct correlations between age and willingness to get treatment for or discuss mental health among tech workers. Attitude towards mental health seems to be dependent on the person and not on what era that they grew up in. 
 
 ---
 

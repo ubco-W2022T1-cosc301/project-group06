@@ -42,6 +42,7 @@ Age,treatment,supervisor,coworkers
 24,Yes,No,Some of them
 35,No,No,Some of them
 27,Yes,No,Some of them
+18,No,Some of them,No
 30,Yes,No,No
 38,Yes,Yes,Some of them
 28,No,Yes,Some of them
@@ -91,6 +92,7 @@ Age,treatment,supervisor,coworkers
 31,No,Yes,Some of them
 40,Yes,Yes,Yes
 34,No,No,Some of them
+18,No,Yes,Yes
 25,Yes,Yes,Some of them
 29,No,Yes,Yes
 24,No,No,Some of them
@@ -115,6 +117,7 @@ Age,treatment,supervisor,coworkers
 26,No,Some of them,Some of them
 21,No,Yes,Some of them
 27,No,Yes,Some of them
+18,Yes,No,Some of them
 35,No,Yes,Some of them
 29,No,No,No
 25,No,Yes,Some of them
@@ -277,10 +280,12 @@ Age,treatment,supervisor,coworkers
 23,No,No,Some of them
 22,Yes,Yes,Some of them
 27,No,No,No
+18,Yes,No,No
 35,Yes,Some of them,No
 25,No,Some of them,Some of them
 27,Yes,Yes,Yes
 26,Yes,Some of them,Some of them
+18,No,Some of them,Some of them
 38,Yes,No,Some of them
 26,Yes,No,Some of them
 30,No,Yes,Yes
@@ -469,9 +474,11 @@ Age,treatment,supervisor,coworkers
 57,Yes,No,No
 27,Yes,No,Some of them
 23,Yes,Yes,Yes
+18,No,No,No
 30,No,Yes,Some of them
 23,No,Yes,Yes
 43,Yes,No,No
+18,Yes,Some of them,Some of them
 29,Yes,No,Some of them
 48,No,No,No
 43,Yes,Some of them,Some of them
