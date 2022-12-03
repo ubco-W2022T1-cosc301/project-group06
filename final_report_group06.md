@@ -12,7 +12,18 @@ During our respective EDAs, we found a variety of interesting pieces of data. An
 
 ![Bar Graph of Number of Respondents Per Country](./images/sstenbackNumAnsPerCountry.png)
 
+
+
 Another interesting piece of data is that for the 'Age' column, there were 53 unique responses. Out of 1259 people that answered the survey, having only 53 unique ages means that a majority of the tech workers seem to be the same ages.
+
+![Age Count Graph](images/esrinivasanAgeEDA.png)
+
+From the graph we can see that particularly there is an over-representation of individuals in the 25-35 Age group.
+
+Additionally, we can look at gender data and see that there is an over-representation of Men in out data set
+
+![Gender Count Bar Graph](images/esrinivasanGenderEDA.png)  
+We can also that the data needs some processing but additionally that we need some inclusivity in our analyses since some respondents identify as genders other than cis-male and cis-female
 
 ---
 
@@ -149,3 +160,5 @@ We see that all of our transfemme respondents expect consequence or are unsure o
 ---
 
 ## Conclusion
+
+In totality, we can say that the tech industry not only needs better systemic supports for the mental health of its employees but additionally, that there are numerous disparities along the lines of age, nationality and gender that needs addressing. In terms of age, we can see that young people are somewhat unintuitively less likely to discuss mental health in tech work spaces reflecting some seniority bias. With regard to nationality we observe that individuals from lower income countries and countries that have been through economic and political strife in the recent past need better mental health supports and also easier access to diagnostic pathways; as reflected by the comparatively less prevalent history of mental illness. In relation to gender we see significant bias against femme-aligned and trans-individuals. Furthermore, we see that power dynamics play a big part, those in supervisory roles or in other positions of power need to do a better job of making tech spaces more inclusive towards trans and femme-aligned individuals while also creating fairer and more inclusive systems within tech. We can also speculate that any individual that exists at the intersection of these factors are particularly vulnerable in terms of mental health and also inclusion within tech workspaces.
