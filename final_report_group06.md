@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our project is an analysis of a 2014 survey of employee mental health in tech workplaces. The survey interviewed over a thousand respondents and collected twenty seven points of data per respondent across many countries around the world. We are interested in this data as it pertains to our personal lives quite a bit, as each of us are going into tech or tech-related fields and have had struggles with mental health in the past.
+Our project is an analysis of a 2014 survey of employee mental health in tech workplaces. The survey interviewed over a thousand respondents and collected twenty-seven points of data per respondent across many countries around the world. We are interested in this data as it pertains to our personal lives quite a bit, as each of us are going into tech or tech-related fields and have had struggles with mental health in the past.
 
 ---
 
@@ -48,7 +48,7 @@ The pattern of Gen Z being less willing to discuss mental health at work or get 
 
 ### Soren Stenback - Does Country Of Origin Affect Family History Of Mental Illness?
 
-During my investigation into the data, I first took the graph of number of respondents per country and split it on a yes/no axis of whether or not the respondent had a family history of mental illness.
+During my investigation into the data, I first took the graph of number of respondents per country and split it on a yes/no axis of whether the respondent had a family history of mental illness.
 
 ![Bar Graph of Number of Respondents Per Country Split on Yes/No Axis](./images/sstenbackNumAnsPerCountryFamHistAxis.png)
 
@@ -86,7 +86,65 @@ With all the data I collected during my analysis, I believe that my hypothesis i
 
 ## Question 3 + Results
 
-### Eveline Question Text
+### Eveline Srinivasan - Is there a significant gender disparity in the mental health of tech employees?
+
+For my investigation of the research question I will be conducting my analysis along two angles. Firstly, Gender Alignment which splits the data into Femme-aligned, Masc-Aligned and Non-Binary Individuals and Secondly, Gender Type which splits out data into Cis gender and Trans gender individuals.  
+
+#### **Gender Alignment based analysis**
+To begin we are going to look at the sample sizes in our data in both Gender Alignment terms and Gender Type terms.
+
+![Gender Sample Size](images/esrinivasanSampleSize.png)
+
+As we can see Masc-aligned individuals are over-represented in our data and most of our respondents are cis-gendered.
+Since we will be comparing metrics between these categories we need adjust for this disparity. Therefore, we will be looking at all the metrics in percentage terms.
+
+Firstly we are going to be looking at out data along gender-alignment terms. To that end, lets look at if gender alignment affects an individual's work performance.
+
+![Work Interference by Gender Alignment](images/esrinivasanWorkInterfere.png)  
+
+As we can see both Femme-aligned and Non-Binary individuals are half as likely as Masc-aligned individuals to say that their mental health never affects their work performance. Furthermore, we see that Femme-aligned individuals are the most likely to say that their mental health most-often affects their work performance.
+
+Already we see that there are vast disparities in mental health of tech employees in terms of gender. We can look towards systemic factors such as willingness to talk to coworkers and supervisors about mental health.  
+
+![Coworkers by Gender Alignment](images/esrinivasanCoworkers.png)  
+
+We see that Femme and Non-binary individuals are more likely to say that they won't talk to coworkers about mental health but the difference between masc-aligned and femme-aligned individuals is not particularly large.
+
+![Supervisor by Gender Alignment](images/esrinivasanSupervisor.png)  
+
+However looking at the data regarding discussing mental health with their supervisors the differences are more pronounced. This implies that there is a power-dynamic at play in the tech industry and that supervisors in particular need to create more inclusive environments regarding mental health at the workplace; for all individuals but particularly those of marginalized gender identities.
+
+Finally, we can look at another systemic factor to double-check our conclusion. We can look at whether gender alignment affects the expectation of consequences for bringing up mental health at the workplace.
+
+![Mental Health consequences by Gender Alignment](images/esrinivasanMentalHealthConsequence.png)
+
+Here we see the most pronounced disparities compared to the other systemic factors. We see that femme-aligned individuals are more likely to say that they expect consequences for talking about mental health at the work place. Particularly we see that non-binary individuals are vastly more likely to expect consequence than both masc-aligned and femme-aligned individuals. 
+
+#### **Gender Type based analysis**
+
+Next we can look at the same metrics in terms of gender-type to get a better picture of mental health in terms of gender in the tech industry.
+
+Starting with willingness to talk to coworkers:  
+
+![Coworkers by Gender Type](images/esrinivasanGTCoworkers.png)  
+
+We see that trans people are more likely to say that they won't talk to coworkers about mental health, and additionally we can see that the difference is more pronounced than in our analyses along gender alignment.
+
+![Supervisor by Gender Type](images/esrinivasanGTSupervisor.png)  
+
+Looking at the data regarding discussing mental health with their supervisors the differences are even more pronounced. This implies that there is a power-dynamic factors are more strongly felt by trans individuals.
+
+![Mental Health consequences by Gender Type](images/esrinivasanGTMentalHealthConsequence.png)
+
+Once again we see the highest disparities in terms of expecting consequences for talking about mental health in the work place. Trans individuals are twice as likely to expect consequences.
+
+Overall we can say that Trans individuals face far stronger systemic issues in the tech industry when it comes to mental health; more so than by gender alignment. Furthermore, if we split our data by both gendertype and gender alignment:
+
+![Mental Health consequences by Gender](images/esrinivasanGenderMentalHealthConsequence.png)
+
+We see that all of our transfemme respondents expect consequence or are unsure of it and transmasc respondents are also the most likely to expect consequences. 
+
+ The findings suggest that the tech industry is significantly biased against femme-aligned and trans-individuals. Additionally, the worst outcomes are reflected among trans-femme individuals reflecting a pervasive trans-misogyny issue. Furthermore, we see that power dynamics play a big part, those in supervisory roles or in other positions of power need to do a better job of making tech spaces more inclusive towards trans and femme-aligned individuals while also creating fairer and more inclusive systems within tech.  
 
 ---
 
